@@ -6,7 +6,7 @@ Team Members
 
 - Aadya Mishra
 - Sukhmeet Kaur
-- 
+- Shivantika Singh
 
 Technology
 
