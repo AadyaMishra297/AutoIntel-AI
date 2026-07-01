@@ -1,0 +1,181 @@
+Vehicle_ID,vehicle_model,Brand,Model,Variant,fuel_type,engine_size,Engine,Manufacturing_Year
+VEH0001,Bus,Tata,Starbus,Ultra 918,Diesel,800,793cc Diesel Engine,2022
+VEH0002,Bus,Force Motors,Traveller,Mini Bus,Diesel,800,793cc Diesel Engine,2018
+VEH0003,Bus,Eicher,Skyline Pro,1015,Diesel,1000,1120cc Diesel Engine,2023
+VEH0004,Bus,Tata,Starbus,Ultra 918,Diesel,1000,1120cc Diesel Engine,2021
+VEH0005,Bus,Ashok Leyland,Viking,Falcon,Diesel,1500,1498cc Diesel Engine,2015
+VEH0006,Bus,Eicher,Skyline Pro,1015,Diesel,1500,1498cc Diesel Engine,2024
+VEH0007,Bus,Force Motors,Traveller,Mini Bus,Diesel,2000,1993cc Diesel Turbo,2022
+VEH0008,Bus,Force Motors,Traveller,Mini Bus,Diesel,2000,1993cc Diesel Turbo,2022
+VEH0009,Bus,Eicher,Skyline Pro,1015,Diesel,2500,2494cc Diesel Engine,2015
+VEH0010,Bus,Mahindra,Cruzio,Grande,Diesel,2500,2494cc Diesel Engine,2018
+VEH0011,Bus,Eicher,Skyline Pro,1015,Electric,800,Electric Motor - 25 kWh Battery,2018
+VEH0012,Bus,Tata,Starbus,Ultra 918,Electric,800,Electric Motor - 25 kWh Battery,2024
+VEH0013,Bus,Force Motors,Traveller,Mini Bus,Electric,1000,Electric Motor - 35 kWh Battery,2021
+VEH0014,Bus,Eicher,Skyline Pro,1015,Electric,1000,Electric Motor - 35 kWh Battery,2023
+VEH0015,Bus,Eicher,Skyline Pro,1015,Electric,1500,Electric Motor - 45 kWh Battery,2018
+VEH0016,Bus,Eicher,Skyline Pro,1015,Electric,1500,Electric Motor - 45 kWh Battery,2016
+VEH0017,Bus,Tata,Starbus,Ultra 918,Electric,2000,Electric Motor - 60 kWh Battery,2020
+VEH0018,Bus,Mahindra,Cruzio,Grande,Electric,2000,Electric Motor - 60 kWh Battery,2014
+VEH0019,Bus,Mahindra,Cruzio,Grande,Electric,2500,Electric Motor - 75 kWh Battery,2023
+VEH0020,Bus,Ashok Leyland,Viking,Falcon,Electric,2500,Electric Motor - 75 kWh Battery,2020
+VEH0021,Bus,Tata,Starbus,Ultra 918,Petrol,800,796cc Petrol Engine,2022
+VEH0022,Bus,Force Motors,Traveller,Mini Bus,Petrol,800,796cc Petrol Engine,2017
+VEH0023,Bus,Tata,Starbus,Ultra 918,Petrol,1000,998cc Petrol Engine,2024
+VEH0024,Bus,Eicher,Skyline Pro,1015,Petrol,1000,998cc Petrol Engine,2023
+VEH0025,Bus,Force Motors,Traveller,Mini Bus,Petrol,1500,1497cc Petrol Engine,2022
+VEH0026,Bus,Force Motors,Traveller,Mini Bus,Petrol,1500,1497cc Petrol Engine,2016
+VEH0027,Bus,Ashok Leyland,Viking,Falcon,Petrol,2000,1998cc Petrol Turbo,2019
+VEH0028,Bus,Eicher,Skyline Pro,1015,Petrol,2000,1998cc Petrol Turbo,2014
+VEH0029,Bus,Eicher,Skyline Pro,1015,Petrol,2500,2494cc Petrol Engine,2015
+VEH0030,Bus,Force Motors,Traveller,Mini Bus,Petrol,2500,2494cc Petrol Engine,2021
+VEH0031,Car,Skoda,Slavia,Ambition,Diesel,800,793cc Diesel Engine,2022
+VEH0032,Car,Hyundai,i20,Asta,Diesel,800,793cc Diesel Engine,2024
+VEH0033,Car,Hyundai,Verna,SX,Diesel,1000,1120cc Diesel Engine,2017
+VEH0034,Car,Skoda,Slavia,Ambition,Diesel,1000,1120cc Diesel Engine,2018
+VEH0035,Car,Maruti Suzuki,Swift,VXi,Diesel,1500,1498cc Diesel Engine,2019
+VEH0036,Car,Honda,City,ZX,Diesel,1500,1498cc Diesel Engine,2016
+VEH0037,Car,Hyundai,Verna,SX,Diesel,2000,1993cc Diesel Turbo,2015
+VEH0038,Car,Honda,Amaze,VX,Diesel,2000,1993cc Diesel Turbo,2019
+VEH0039,Car,Hyundai,Grand i10 Nios,Sportz,Diesel,2500,2494cc Diesel Engine,2016
+VEH0040,Car,Tata,Altroz,XZ,Diesel,2500,2494cc Diesel Engine,2021
+VEH0041,Car,Volkswagen,Virtus,GT,Electric,800,Electric Motor - 25 kWh Battery,2018
+VEH0042,Car,Maruti Suzuki,Baleno,Zeta,Electric,800,Electric Motor - 25 kWh Battery,2023
+VEH0043,Car,Tata,Tigor EV,XZ+,Electric,1000,Electric Motor - 35 kWh Battery,2021
+VEH0044,Car,Maruti Suzuki,Swift,VXi,Electric,1000,Electric Motor - 35 kWh Battery,2017
+VEH0045,Car,Honda,City,ZX,Electric,1500,Electric Motor - 45 kWh Battery,2023
+VEH0046,Car,Hyundai,Verna,SX,Electric,1500,Electric Motor - 45 kWh Battery,2022
+VEH0047,Car,Toyota,Glanza,V,Electric,2000,Electric Motor - 60 kWh Battery,2018
+VEH0048,Car,Skoda,Slavia,Ambition,Electric,2000,Electric Motor - 60 kWh Battery,2017
+VEH0049,Car,Maruti Suzuki,Dzire,ZXi,Electric,2500,Electric Motor - 75 kWh Battery,2021
+VEH0050,Car,Tata,Tigor EV,XZ+,Electric,2500,Electric Motor - 75 kWh Battery,2015
+VEH0051,Car,Toyota,Glanza,V,Petrol,800,796cc Petrol Engine,2016
+VEH0052,Car,Toyota,Glanza,V,Petrol,800,796cc Petrol Engine,2014
+VEH0053,Car,Honda,City,ZX,Petrol,1000,998cc Petrol Engine,2022
+VEH0054,Car,Honda,City,ZX,Petrol,1000,998cc Petrol Engine,2021
+VEH0055,Car,Tata,Tiago,XZ+,Petrol,1500,1497cc Petrol Engine,2021
+VEH0056,Car,Hyundai,Grand i10 Nios,Sportz,Petrol,1500,1497cc Petrol Engine,2022
+VEH0057,Car,Tata,Altroz,XZ,Petrol,2000,1998cc Petrol Turbo,2019
+VEH0058,Car,Tata,Tiago,XZ+,Petrol,2000,1998cc Petrol Turbo,2020
+VEH0059,Car,Maruti Suzuki,Alto K10,LXi,Petrol,2500,2494cc Petrol Engine,2015
+VEH0060,Car,Maruti Suzuki,Dzire,ZXi,Petrol,2500,2494cc Petrol Engine,2015
+VEH0061,Motorcycle,TVS,Apache RTR 160,4V,Diesel,800,793cc Diesel Engine,2021
+VEH0062,Motorcycle,Royal Enfield,Classic 350,Chrome,Diesel,800,793cc Diesel Engine,2019
+VEH0063,Motorcycle,Honda,Shine,SP,Diesel,1000,1120cc Diesel Engine,2020
+VEH0064,Motorcycle,Hero,Splendor Plus,Self Start,Diesel,1000,1120cc Diesel Engine,2022
+VEH0065,Motorcycle,TVS,Sport,Self Start,Diesel,1500,1498cc Diesel Engine,2020
+VEH0066,Motorcycle,TVS,Sport,Self Start,Diesel,1500,1498cc Diesel Engine,2020
+VEH0067,Motorcycle,Hero,Splendor Plus,Self Start,Diesel,2000,1993cc Diesel Turbo,2020
+VEH0068,Motorcycle,Royal Enfield,Meteor 350,Supernova,Diesel,2000,1993cc Diesel Turbo,2017
+VEH0069,Motorcycle,Royal Enfield,Classic 350,Chrome,Diesel,2500,2494cc Diesel Engine,2014
+VEH0070,Motorcycle,Bajaj,Platina 100,ES,Diesel,2500,2494cc Diesel Engine,2018
+VEH0071,Motorcycle,Yamaha,FZ-S,V4,Electric,800,Electric Motor - 25 kWh Battery,2016
+VEH0072,Motorcycle,Bajaj,Pulsar 150,Twin Disc,Electric,800,Electric Motor - 25 kWh Battery,2018
+VEH0073,Motorcycle,Yamaha,FZ-S,V4,Electric,1000,Electric Motor - 35 kWh Battery,2023
+VEH0074,Motorcycle,Hero,Splendor Plus,Self Start,Electric,1000,Electric Motor - 35 kWh Battery,2016
+VEH0075,Motorcycle,Honda,Shine,SP,Electric,1500,Electric Motor - 45 kWh Battery,2014
+VEH0076,Motorcycle,Honda,Shine,SP,Electric,1500,Electric Motor - 45 kWh Battery,2017
+VEH0077,Motorcycle,Yamaha,FZ-S,V4,Electric,2000,Electric Motor - 60 kWh Battery,2017
+VEH0078,Motorcycle,TVS,Apache RTR 160,4V,Electric,2000,Electric Motor - 60 kWh Battery,2021
+VEH0079,Motorcycle,Hero,HF Deluxe,Drum,Electric,2500,Electric Motor - 75 kWh Battery,2020
+VEH0080,Motorcycle,TVS,Sport,Self Start,Electric,2500,Electric Motor - 75 kWh Battery,2022
+VEH0081,Motorcycle,Yamaha,FZ-S,V4,Petrol,800,796cc Petrol Engine,2021
+VEH0082,Motorcycle,TVS,Apache RTR 160,4V,Petrol,800,796cc Petrol Engine,2018
+VEH0083,Motorcycle,TVS,Apache RTR 160,4V,Petrol,1000,998cc Petrol Engine,2022
+VEH0084,Motorcycle,Bajaj,Platina 100,ES,Petrol,1000,998cc Petrol Engine,2015
+VEH0085,Motorcycle,Bajaj,Platina 100,ES,Petrol,1500,1497cc Petrol Engine,2014
+VEH0086,Motorcycle,Hero,HF Deluxe,Drum,Petrol,1500,1497cc Petrol Engine,2014
+VEH0087,Motorcycle,Royal Enfield,Meteor 350,Supernova,Petrol,2000,1998cc Petrol Turbo,2021
+VEH0088,Motorcycle,Royal Enfield,Classic 350,Chrome,Petrol,2000,1998cc Petrol Turbo,2019
+VEH0089,Motorcycle,Royal Enfield,Meteor 350,Supernova,Petrol,2500,2494cc Petrol Engine,2015
+VEH0090,Motorcycle,Yamaha,FZ-S,V4,Petrol,2500,2494cc Petrol Engine,2019
+VEH0091,Suv,MG,ZS EV,Excite,Diesel,800,793cc Diesel Engine,2015
+VEH0092,Suv,Hyundai,Creta,SX(O),Diesel,800,793cc Diesel Engine,2021
+VEH0093,Suv,Hyundai,Creta,SX(O),Diesel,1000,1120cc Diesel Engine,2018
+VEH0094,Suv,Tata,Harrier,XZA+,Diesel,1000,1120cc Diesel Engine,2018
+VEH0095,Suv,Mahindra,XUV300,W8,Diesel,1500,1498cc Diesel Engine,2017
+VEH0096,Suv,Kia,Seltos,GTX+,Diesel,1500,1498cc Diesel Engine,2020
+VEH0097,Suv,Kia,Sonet,GTX+,Diesel,2000,1993cc Diesel Turbo,2017
+VEH0098,Suv,MG,ZS EV,Excite,Diesel,2000,1993cc Diesel Turbo,2014
+VEH0099,Suv,Mahindra,Scorpio-N,Z8,Diesel,2500,2494cc Diesel Engine,2015
+VEH0100,Suv,Mahindra,Scorpio-N,Z8,Diesel,2500,2494cc Diesel Engine,2024
+VEH0101,Suv,Mahindra,Scorpio-N,Z8,Electric,800,Electric Motor - 25 kWh Battery,2023
+VEH0102,Suv,Hyundai,Creta,SX(O),Electric,800,Electric Motor - 25 kWh Battery,2021
+VEH0103,Suv,Hyundai,Venue,SX,Electric,1000,Electric Motor - 35 kWh Battery,2016
+VEH0104,Suv,Toyota,Urban Cruiser Hyryder,V,Electric,1000,Electric Motor - 35 kWh Battery,2024
+VEH0105,Suv,Mahindra,XUV300,W8,Electric,1500,Electric Motor - 45 kWh Battery,2022
+VEH0106,Suv,Mahindra,XUV300,W8,Electric,1500,Electric Motor - 45 kWh Battery,2021
+VEH0107,Suv,Toyota,Urban Cruiser Hyryder,V,Electric,2000,Electric Motor - 60 kWh Battery,2018
+VEH0108,Suv,Toyota,Urban Cruiser Hyryder,V,Electric,2000,Electric Motor - 60 kWh Battery,2016
+VEH0109,Suv,Tata,Punch,Adventure,Electric,2500,Electric Motor - 75 kWh Battery,2015
+VEH0110,Suv,Hyundai,Venue,SX,Electric,2500,Electric Motor - 75 kWh Battery,2023
+VEH0111,Suv,Tata,Punch,Adventure,Petrol,800,796cc Petrol Engine,2019
+VEH0112,Suv,Kia,Seltos,GTX+,Petrol,800,796cc Petrol Engine,2016
+VEH0113,Suv,Kia,Seltos,GTX+,Petrol,1000,998cc Petrol Engine,2017
+VEH0114,Suv,Toyota,Fortuner,Legender,Petrol,1000,998cc Petrol Engine,2020
+VEH0115,Suv,Hyundai,Alcazar,Signature,Petrol,1500,1497cc Petrol Engine,2015
+VEH0116,Suv,Hyundai,Venue,SX,Petrol,1500,1497cc Petrol Engine,2023
+VEH0117,Suv,Tata,Nexon,XZ+,Petrol,2000,1998cc Petrol Turbo,2022
+VEH0118,Suv,Hyundai,Creta,SX(O),Petrol,2000,1998cc Petrol Turbo,2021
+VEH0119,Suv,Kia,Sonet,GTX+,Petrol,2500,2494cc Petrol Engine,2018
+VEH0120,Suv,Mahindra,XUV700,AX7,Petrol,2500,2494cc Petrol Engine,2020
+VEH0121,Truck,Tata,407 Gold,SFC,Diesel,800,793cc Diesel Engine,2020
+VEH0122,Truck,Tata,Ace Gold,CX,Diesel,800,793cc Diesel Engine,2021
+VEH0123,Truck,Mahindra,Bolero Pickup,FB,Diesel,1000,1120cc Diesel Engine,2014
+VEH0124,Truck,Mahindra,Furio,7,Diesel,1000,1120cc Diesel Engine,2018
+VEH0125,Truck,Mahindra,Furio,7,Diesel,1500,1498cc Diesel Engine,2014
+VEH0126,Truck,Tata,407 Gold,SFC,Diesel,1500,1498cc Diesel Engine,2019
+VEH0127,Truck,Tata,407 Gold,SFC,Diesel,2000,1993cc Diesel Turbo,2017
+VEH0128,Truck,Mahindra,Bolero Pickup,FB,Diesel,2000,1993cc Diesel Turbo,2015
+VEH0129,Truck,Mahindra,Bolero Pickup,FB,Diesel,2500,2494cc Diesel Engine,2015
+VEH0130,Truck,Tata,407 Gold,SFC,Diesel,2500,2494cc Diesel Engine,2020
+VEH0131,Truck,Mahindra,Furio,7,Electric,800,Electric Motor - 25 kWh Battery,2015
+VEH0132,Truck,Tata,Prima,LX 2830.K,Electric,800,Electric Motor - 25 kWh Battery,2024
+VEH0133,Truck,BharatBenz,1015R,Rigid Truck,Electric,1000,Electric Motor - 35 kWh Battery,2020
+VEH0134,Truck,Ashok Leyland,Dost+,LS,Electric,1000,Electric Motor - 35 kWh Battery,2017
+VEH0135,Truck,Ashok Leyland,Boss,1215,Electric,1500,Electric Motor - 45 kWh Battery,2020
+VEH0136,Truck,Tata,Prima,LX 2830.K,Electric,1500,Electric Motor - 45 kWh Battery,2014
+VEH0137,Truck,Tata,407 Gold,SFC,Electric,2000,Electric Motor - 60 kWh Battery,2024
+VEH0138,Truck,Ashok Leyland,Dost+,LS,Electric,2000,Electric Motor - 60 kWh Battery,2019
+VEH0139,Truck,Ashok Leyland,Dost+,LS,Electric,2500,Electric Motor - 75 kWh Battery,2022
+VEH0140,Truck,Tata,Ace Gold,CX,Electric,2500,Electric Motor - 75 kWh Battery,2014
+VEH0141,Truck,Tata,Prima,LX 2830.K,Petrol,800,796cc Petrol Engine,2019
+VEH0142,Truck,Mahindra,Bolero Pickup,FB,Petrol,800,796cc Petrol Engine,2019
+VEH0143,Truck,Ashok Leyland,Dost+,LS,Petrol,1000,998cc Petrol Engine,2024
+VEH0144,Truck,Tata,407 Gold,SFC,Petrol,1000,998cc Petrol Engine,2020
+VEH0145,Truck,Ashok Leyland,Boss,1215,Petrol,1500,1497cc Petrol Engine,2019
+VEH0146,Truck,Mahindra,Furio,7,Petrol,1500,1497cc Petrol Engine,2016
+VEH0147,Truck,BharatBenz,1015R,Rigid Truck,Petrol,2000,1998cc Petrol Turbo,2017
+VEH0148,Truck,Ashok Leyland,Boss,1215,Petrol,2000,1998cc Petrol Turbo,2019
+VEH0149,Truck,Mahindra,Furio,7,Petrol,2500,2494cc Petrol Engine,2018
+VEH0150,Truck,Tata,Prima,LX 2830.K,Petrol,2500,2494cc Petrol Engine,2014
+VEH0151,Van,Maruti Suzuki,Omni,Cargo,Diesel,800,793cc Diesel Engine,2023
+VEH0152,Van,Maruti Suzuki,Eeco,5-Seater,Diesel,800,793cc Diesel Engine,2023
+VEH0153,Van,Tata,Winger,Staff,Diesel,1000,1120cc Diesel Engine,2015
+VEH0154,Van,Maruti Suzuki,Omni,Cargo,Diesel,1000,1120cc Diesel Engine,2020
+VEH0155,Van,Maruti Suzuki,Omni,Cargo,Diesel,1500,1498cc Diesel Engine,2015
+VEH0156,Van,Force Motors,Traveller,3350,Diesel,1500,1498cc Diesel Engine,2021
+VEH0157,Van,Maruti Suzuki,Eeco,5-Seater,Diesel,2000,1993cc Diesel Turbo,2017
+VEH0158,Van,Maruti Suzuki,Omni,Cargo,Diesel,2000,1993cc Diesel Turbo,2021
+VEH0159,Van,Force Motors,Traveller,3350,Diesel,2500,2494cc Diesel Engine,2021
+VEH0160,Van,Mahindra,Supro,Van,Diesel,2500,2494cc Diesel Engine,2022
+VEH0161,Van,Maruti Suzuki,Omni,Cargo,Electric,800,Electric Motor - 25 kWh Battery,2015
+VEH0162,Van,Force Motors,Traveller,3350,Electric,800,Electric Motor - 25 kWh Battery,2024
+VEH0163,Van,Mahindra,Supro,Van,Electric,1000,Electric Motor - 35 kWh Battery,2016
+VEH0164,Van,Maruti Suzuki,Omni,Cargo,Electric,1000,Electric Motor - 35 kWh Battery,2014
+VEH0165,Van,Maruti Suzuki,Eeco,5-Seater,Electric,1500,Electric Motor - 45 kWh Battery,2020
+VEH0166,Van,Tata,Winger,Staff,Electric,1500,Electric Motor - 45 kWh Battery,2018
+VEH0167,Van,Maruti Suzuki,Omni,Cargo,Electric,2000,Electric Motor - 60 kWh Battery,2023
+VEH0168,Van,Tata,Winger,Staff,Electric,2000,Electric Motor - 60 kWh Battery,2022
+VEH0169,Van,Mahindra,Supro,Van,Electric,2500,Electric Motor - 75 kWh Battery,2017
+VEH0170,Van,Maruti Suzuki,Omni,Cargo,Electric,2500,Electric Motor - 75 kWh Battery,2024
+VEH0171,Van,Force Motors,Traveller,3350,Petrol,800,796cc Petrol Engine,2017
+VEH0172,Van,Force Motors,Traveller,3350,Petrol,800,796cc Petrol Engine,2019
+VEH0173,Van,Mahindra,Supro,Van,Petrol,1000,998cc Petrol Engine,2016
+VEH0174,Van,Mahindra,Supro,Van,Petrol,1000,998cc Petrol Engine,2024
+VEH0175,Van,Maruti Suzuki,Eeco,5-Seater,Petrol,1500,1497cc Petrol Engine,2015
+VEH0176,Van,Tata,Winger,Staff,Petrol,1500,1497cc Petrol Engine,2014
+VEH0177,Van,Maruti Suzuki,Omni,Cargo,Petrol,2000,1998cc Petrol Turbo,2018
+VEH0178,Van,Mahindra,Supro,Van,Petrol,2000,1998cc Petrol Turbo,2024
+VEH0179,Van,Maruti Suzuki,Eeco,5-Seater,Petrol,2500,2494cc Petrol Engine,2023
+VEH0180,Van,Maruti Suzuki,Eeco,5-Seater,Petrol,2500,2494cc Petrol Engine,2022
