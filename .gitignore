@@ -1,0 +1,124 @@
+
+# ─── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+MANIFEST
+
+# ─── Virtual Environments ─────────────────────────────────────────────────────
+venv/
+env/
+.env
+.venv/
+ENV/
+env.bak/
+venv.bak/
+.conda/
+conda-env/
+
+# ─── Type Checking & Linting ──────────────────────────────────────────────────
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.ruff_cache/
+.pylintrc
+
+# ─── Jupyter ──────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ─── ML / Data Science Artifacts ──────────────────────────────────────────────
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.model
+*.pt
+*.pth
+*.onnx
+*.npy
+*.npz
+*.feather
+*.parquet
+
+# ─── Markdown Documentation (local only) ──────────────────────────────────────
+*.md
+!README.md
+
+# ─── Large Data Files ─────────────────────────────────────────────────────────
+data/raw/*.csv
+data/raw/**/*.csv
+data/processed/*.csv
+data/knowledge/*.csv
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+*.db
+*.sqlite
+*.sqlite3
+
+# ─── Logs ─────────────────────────────────────────────────────────────────────
+*.log
+logs/
+log/
+
+# ─── Streamlit ────────────────────────────────────────────────────────────────
+.streamlit/
+
+# ─── IDE & Editor ─────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# ─── OS Junk ──────────────────────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# ─── Temporary / Scratch ──────────────────────────────────────────────────────
+scratch/
+tmp/
+temp/
+*.tmp
+*.bak
+*.orig
+*.rej
+
+# ─── Testing ──────────────────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+coverage.xml
+*.cover
+
+# ─── Distribution / Packaging ─────────────────────────────────────────────────
+.installed.cfg
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
