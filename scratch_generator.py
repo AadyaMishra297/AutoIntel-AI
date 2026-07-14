@@ -3,48 +3,57 @@ import os
 base_data = {
     'Engine Overheating': {
         'obd_code': 'P0217', 'category': 'Engine Cooling',
-        'keywords': ['overheat', 'hot', 'temperature', 'coolant', 'radiator', 'steam', 'boil', 'thermostat', 'water pump', 'gauge red', 'hissing']
+        'keywords': ['overheat', 'hot', 'temperature', 'coolant', 'radiator', 'steam', 'boil', 'thermostat', 'water pump', 'gauge red', 'hissing', 'smoking hood', 'cooling fan', 'temp needle high']
     },
     'Battery and Charging Fault': {
         'obd_code': 'P0620', 'category': 'Electrical',
-        'keywords': ['battery', 'alternator', 'charge', 'dead', 'crank', 'jump start', 'terminals', 'voltage', 'electrical', 'dim lights', 'wont start']
+        'keywords': ['battery', 'alternator', 'charge', 'dead', 'crank', 'jump start', 'terminals', 'voltage', 'electrical', 'dim lights', 'wont start', 'clicking noise', 'power loss electrical', 'battery light']
     },
     'Fuel System Pressure Low': {
         'obd_code': 'P0087', 'category': 'Fuel System',
-        'keywords': ['fuel', 'pressure', 'pump', 'injector', 'stutter', 'starve', 'gas', 'stall', 'hesitate', 'sluggish', 'power loss']
+        'keywords': ['fuel pressure', 'fuel pump', 'injector clogged', 'stuttering acceleration', 'fuel starvation', 'gas tank', 'fuel line', 'fuel rail', 'low fuel pressure', 'bad fuel filter', 'fuel system', 'sputtering fuel', 'hard start gas', 'check engine gas']
     },
     'Oxygen Sensor Fault': {
         'obd_code': 'P0131', 'category': 'Emissions and Exhaust',
-        'keywords': ['oxygen', 'sensor', 'o2', 'lambda', 'emissions', 'exhaust', 'rich', 'lean', 'smell', 'unburnt', 'fuel trim', 'catalytic']
+        'keywords': ['oxygen', 'sensor', 'o2', 'lambda', 'emissions', 'exhaust', 'rich', 'lean', 'smell', 'unburnt', 'fuel trim', 'catalytic', 'rotten egg', 'poor mileage']
     },
     'Brake System Fault': {
         'obd_code': 'P0571', 'category': 'Brakes',
-        'keywords': ['brake', 'pad', 'rotor', 'caliper', 'fluid', 'pedal', 'squeal', 'grind', 'spongy', 'stop', 'disc']
+        'keywords': ['brake', 'pad', 'rotor', 'caliper', 'fluid', 'pedal', 'squeal', 'grind', 'spongy', 'stop', 'disc', 'pulling braking', 'shaking stopping', 'handbrake']
     },
     'Transmission Fault': {
         'obd_code': 'P0700', 'category': 'Transmission',
-        'keywords': ['transmission', 'gear', 'shift', 'slip', 'clutch', 'automatic', 'manual', 'torque', 'converter', 'jerk', 'fluid red']
+        'keywords': ['transmission', 'gear', 'shift', 'slip', 'clutch', 'automatic', 'manual', 'torque', 'converter', 'jerk', 'fluid red', 'delayed engagement', 'hard shift', 'stuck gear']
     },
     'Engine Misfire': {
         'obd_code': 'P0300', 'category': 'Engine',
-        'keywords': ['misfire', 'spark', 'plug', 'coil', 'cylinder', 'shake', 'vibrate', 'rough idle', 'buck', 'surge', 'ignition']
+        'keywords': ['misfire', 'spark', 'plug', 'coil', 'cylinder', 'shake', 'vibrate', 'rough idle', 'buck', 'surge', 'ignition', 'engine light flashing', 'stumble', 'pop exhaust']
     },
     'Air Conditioning Failure': {
         'obd_code': 'P0533', 'category': 'HVAC',
-        'keywords': ['air conditioning', 'ac', 'compressor', 'refrigerant', 'freon', 'warm air', 'cool', 'hvac', 'vent', 'blows hot', 'condenser']
+        'keywords': ['air conditioning', 'ac', 'compressor', 'refrigerant', 'freon', 'warm air', 'cool', 'hvac', 'vent', 'blows hot', 'condenser', 'no cold air', 'ac clutch', 'blower motor']
     },
     'ABS Wheel Speed Sensor Fault': {
         'obd_code': 'P0500', 'category': 'ABS and Traction Control',
-        'keywords': ['abs', 'wheel', 'speed', 'sensor', 'traction', 'anti-lock', 'skid', 'slip warning', 'stability', 'yaw', 'tone ring']
+        'keywords': ['abs light', 'wheel speed sensor', 'traction control warning', 'anti-lock braking system', 'skidding abs', 'slip indicator', 'stability control', 'yaw sensor', 'tone ring broken', 'abs module', 'pulsating brake pedal abs', 'loss of traction', 'abs engaged', 'speedometer erratic']
     },
     'Steering and Suspension Fault': {
         'obd_code': 'P0563', 'category': 'Steering and Suspension',
-        'keywords': ['steering', 'suspension', 'strut', 'shock', 'tie rod', 'pull', 'wander', 'clunk', 'alignment', 'power steering', 'wheel bearing']
+        'keywords': ['steering', 'suspension', 'strut', 'shock', 'tie rod', 'pull', 'wander', 'clunk', 'alignment', 'power steering', 'wheel bearing', 'sway bar', 'bouncy ride', 'heavy steering']
     }
 }
 
-prefixes = ['I have a problem with', 'My car has', 'Experiencing', 'Noticed that', 'The mechanic said', 'Dashboard shows', 'Warning light for', 'Lately my vehicle has', 'There is an issue with', 'I am worried about', 'Seems like', 'Hearing some noises regarding']
-suffixes = ['while driving.', 'when I start the car.', 'on the highway.', 'in the morning.', 'recently.', 'and it is getting worse.', 'which is dangerous.', 'every time I drive.', '', 'after it rains.', 'during long trips.', 'at low speeds.']
+prefixes = [
+    'I have a problem with', 'My car has', 'Experiencing', 'Noticed that', 'The mechanic said', 
+    'Dashboard shows', 'Warning light for', 'Lately my vehicle has', 'There is an issue with', 
+    'I am worried about', 'Seems like', 'Hearing some noises regarding', 'Just started noticing',
+    'Driving feels bad due to', 'Can someone check the'
+]
+suffixes = [
+    'while driving.', 'when I start the car.', 'on the highway.', 'in the morning.', 'recently.', 
+    'and it is getting worse.', 'which is dangerous.', 'every time I drive.', '', 'after it rains.', 
+    'during long trips.', 'at low speeds.', 'when braking.', 'when accelerating.', 'in cold weather.'
+]
 
 complaints_py = 'import pandas as pd\nimport os\n\nFAULT_COMPLAINTS = {\n'
 
