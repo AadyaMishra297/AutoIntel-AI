@@ -43,8 +43,8 @@ base_data = {
     }
 }
 
-prefixes = ['I have a problem with', 'My car has', 'Experiencing', 'Noticed that', 'The mechanic said', 'Dashboard shows', 'Warning light for', 'Lately my vehicle has', 'There is an issue with']
-suffixes = ['while driving.', 'when I start the car.', 'on the highway.', 'in the morning.', 'recently.', 'and it is getting worse.', 'which is dangerous.', 'every time I drive.', '']
+prefixes = ['I have a problem with', 'My car has', 'Experiencing', 'Noticed that', 'The mechanic said', 'Dashboard shows', 'Warning light for', 'Lately my vehicle has', 'There is an issue with', 'I am worried about', 'Seems like', 'Hearing some noises regarding']
+suffixes = ['while driving.', 'when I start the car.', 'on the highway.', 'in the morning.', 'recently.', 'and it is getting worse.', 'which is dangerous.', 'every time I drive.', '', 'after it rains.', 'during long trips.', 'at low speeds.']
 
 complaints_py = 'import pandas as pd\nimport os\n\nFAULT_COMPLAINTS = {\n'
 
@@ -57,7 +57,7 @@ for fault, data in base_data.items():
     count = 0
     for k1 in data['keywords']:
         for k2 in data['keywords']:
-            if k1 != k2 and count < 40:
+            if k1 != k2:
                 p = prefixes[count % len(prefixes)]
                 s = suffixes[count % len(suffixes)]
                 sentence = f"{p} {k1} and {k2} {s}".strip()
