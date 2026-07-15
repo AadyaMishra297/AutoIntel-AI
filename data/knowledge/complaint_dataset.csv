@@ -1,0 +1,1821 @@
+complaint_id,complaint_text,fault_name,obd_code,fault_category
+C001,I have a problem with overheat and hot while driving.,Engine Overheating,P0217,Engine Cooling
+C002,My car has overheat and temperature when I start the car.,Engine Overheating,P0217,Engine Cooling
+C003,Experiencing overheat and coolant on the highway.,Engine Overheating,P0217,Engine Cooling
+C004,Noticed that overheat and radiator in the morning.,Engine Overheating,P0217,Engine Cooling
+C005,The mechanic said overheat and steam recently.,Engine Overheating,P0217,Engine Cooling
+C006,Dashboard shows overheat and boil and it is getting worse.,Engine Overheating,P0217,Engine Cooling
+C007,Warning light for overheat and thermostat which is dangerous.,Engine Overheating,P0217,Engine Cooling
+C008,Lately my vehicle has overheat and water pump every time I drive.,Engine Overheating,P0217,Engine Cooling
+C009,There is an issue with overheat and gauge red,Engine Overheating,P0217,Engine Cooling
+C010,I am worried about overheat and hissing after it rains.,Engine Overheating,P0217,Engine Cooling
+C011,Seems like overheat and smoking hood during long trips.,Engine Overheating,P0217,Engine Cooling
+C012,Hearing some noises regarding overheat and cooling fan at low speeds.,Engine Overheating,P0217,Engine Cooling
+C013,Just started noticing overheat and temp needle high when braking.,Engine Overheating,P0217,Engine Cooling
+C014,Driving feels bad due to hot and overheat when accelerating.,Engine Overheating,P0217,Engine Cooling
+C015,Can someone check the hot and temperature in cold weather.,Engine Overheating,P0217,Engine Cooling
+C016,I have a problem with hot and coolant while driving.,Engine Overheating,P0217,Engine Cooling
+C017,My car has hot and radiator when I start the car.,Engine Overheating,P0217,Engine Cooling
+C018,Experiencing hot and steam on the highway.,Engine Overheating,P0217,Engine Cooling
+C019,Noticed that hot and boil in the morning.,Engine Overheating,P0217,Engine Cooling
+C020,The mechanic said hot and thermostat recently.,Engine Overheating,P0217,Engine Cooling
+C021,Dashboard shows hot and water pump and it is getting worse.,Engine Overheating,P0217,Engine Cooling
+C022,Warning light for hot and gauge red which is dangerous.,Engine Overheating,P0217,Engine Cooling
+C023,Lately my vehicle has hot and hissing every time I drive.,Engine Overheating,P0217,Engine Cooling
+C024,There is an issue with hot and smoking hood,Engine Overheating,P0217,Engine Cooling
+C025,I am worried about hot and cooling fan after it rains.,Engine Overheating,P0217,Engine Cooling
+C026,Seems like hot and temp needle high during long trips.,Engine Overheating,P0217,Engine Cooling
+C027,Hearing some noises regarding temperature and overheat at low speeds.,Engine Overheating,P0217,Engine Cooling
+C028,Just started noticing temperature and hot when braking.,Engine Overheating,P0217,Engine Cooling
+C029,Driving feels bad due to temperature and coolant when accelerating.,Engine Overheating,P0217,Engine Cooling
+C030,Can someone check the temperature and radiator in cold weather.,Engine Overheating,P0217,Engine Cooling
+C031,I have a problem with temperature and steam while driving.,Engine Overheating,P0217,Engine Cooling
+C032,My car has temperature and boil when I start the car.,Engine Overheating,P0217,Engine Cooling
+C033,Experiencing temperature and thermostat on the highway.,Engine Overheating,P0217,Engine Cooling
+C034,Noticed that temperature and water pump in the morning.,Engine Overheating,P0217,Engine Cooling
+C035,The mechanic said temperature and gauge red recently.,Engine Overheating,P0217,Engine Cooling
+C036,Dashboard shows temperature and hissing and it is getting worse.,Engine Overheating,P0217,Engine Cooling
+C037,Warning light for temperature and smoking hood which is dangerous.,Engine Overheating,P0217,Engine Cooling
+C038,Lately my vehicle has temperature and cooling fan every time I drive.,Engine Overheating,P0217,Engine Cooling
+C039,There is an issue with temperature and temp needle high,Engine Overheating,P0217,Engine Cooling
+C040,I am worried about coolant and overheat after it rains.,Engine Overheating,P0217,Engine Cooling
+C041,Seems like coolant and hot during long trips.,Engine Overheating,P0217,Engine Cooling
+C042,Hearing some noises regarding coolant and temperature at low speeds.,Engine Overheating,P0217,Engine Cooling
+C043,Just started noticing coolant and radiator when braking.,Engine Overheating,P0217,Engine Cooling
+C044,Driving feels bad due to coolant and steam when accelerating.,Engine Overheating,P0217,Engine Cooling
+C045,Can someone check the coolant and boil in cold weather.,Engine Overheating,P0217,Engine Cooling
+C046,I have a problem with coolant and thermostat while driving.,Engine Overheating,P0217,Engine Cooling
+C047,My car has coolant and water pump when I start the car.,Engine Overheating,P0217,Engine Cooling
+C048,Experiencing coolant and gauge red on the highway.,Engine Overheating,P0217,Engine Cooling
+C049,Noticed that coolant and hissing in the morning.,Engine Overheating,P0217,Engine Cooling
+C050,The mechanic said coolant and smoking hood recently.,Engine Overheating,P0217,Engine Cooling
+C051,Dashboard shows coolant and cooling fan and it is getting worse.,Engine Overheating,P0217,Engine Cooling
+C052,Warning light for coolant and temp needle high which is dangerous.,Engine Overheating,P0217,Engine Cooling
+C053,Lately my vehicle has radiator and overheat every time I drive.,Engine Overheating,P0217,Engine Cooling
+C054,There is an issue with radiator and hot,Engine Overheating,P0217,Engine Cooling
+C055,I am worried about radiator and temperature after it rains.,Engine Overheating,P0217,Engine Cooling
+C056,Seems like radiator and coolant during long trips.,Engine Overheating,P0217,Engine Cooling
+C057,Hearing some noises regarding radiator and steam at low speeds.,Engine Overheating,P0217,Engine Cooling
+C058,Just started noticing radiator and boil when braking.,Engine Overheating,P0217,Engine Cooling
+C059,Driving feels bad due to radiator and thermostat when accelerating.,Engine Overheating,P0217,Engine Cooling
+C060,Can someone check the radiator and water pump in cold weather.,Engine Overheating,P0217,Engine Cooling
+C061,I have a problem with radiator and gauge red while driving.,Engine Overheating,P0217,Engine Cooling
+C062,My car has radiator and hissing when I start the car.,Engine Overheating,P0217,Engine Cooling
+C063,Experiencing radiator and smoking hood on the highway.,Engine Overheating,P0217,Engine Cooling
+C064,Noticed that radiator and cooling fan in the morning.,Engine Overheating,P0217,Engine Cooling
+C065,The mechanic said radiator and temp needle high recently.,Engine Overheating,P0217,Engine Cooling
+C066,Dashboard shows steam and overheat and it is getting worse.,Engine Overheating,P0217,Engine Cooling
+C067,Warning light for steam and hot which is dangerous.,Engine Overheating,P0217,Engine Cooling
+C068,Lately my vehicle has steam and temperature every time I drive.,Engine Overheating,P0217,Engine Cooling
+C069,There is an issue with steam and coolant,Engine Overheating,P0217,Engine Cooling
+C070,I am worried about steam and radiator after it rains.,Engine Overheating,P0217,Engine Cooling
+C071,Seems like steam and boil during long trips.,Engine Overheating,P0217,Engine Cooling
+C072,Hearing some noises regarding steam and thermostat at low speeds.,Engine Overheating,P0217,Engine Cooling
+C073,Just started noticing steam and water pump when braking.,Engine Overheating,P0217,Engine Cooling
+C074,Driving feels bad due to steam and gauge red when accelerating.,Engine Overheating,P0217,Engine Cooling
+C075,Can someone check the steam and hissing in cold weather.,Engine Overheating,P0217,Engine Cooling
+C076,I have a problem with steam and smoking hood while driving.,Engine Overheating,P0217,Engine Cooling
+C077,My car has steam and cooling fan when I start the car.,Engine Overheating,P0217,Engine Cooling
+C078,Experiencing steam and temp needle high on the highway.,Engine Overheating,P0217,Engine Cooling
+C079,Noticed that boil and overheat in the morning.,Engine Overheating,P0217,Engine Cooling
+C080,The mechanic said boil and hot recently.,Engine Overheating,P0217,Engine Cooling
+C081,Dashboard shows boil and temperature and it is getting worse.,Engine Overheating,P0217,Engine Cooling
+C082,Warning light for boil and coolant which is dangerous.,Engine Overheating,P0217,Engine Cooling
+C083,Lately my vehicle has boil and radiator every time I drive.,Engine Overheating,P0217,Engine Cooling
+C084,There is an issue with boil and steam,Engine Overheating,P0217,Engine Cooling
+C085,I am worried about boil and thermostat after it rains.,Engine Overheating,P0217,Engine Cooling
+C086,Seems like boil and water pump during long trips.,Engine Overheating,P0217,Engine Cooling
+C087,Hearing some noises regarding boil and gauge red at low speeds.,Engine Overheating,P0217,Engine Cooling
+C088,Just started noticing boil and hissing when braking.,Engine Overheating,P0217,Engine Cooling
+C089,Driving feels bad due to boil and smoking hood when accelerating.,Engine Overheating,P0217,Engine Cooling
+C090,Can someone check the boil and cooling fan in cold weather.,Engine Overheating,P0217,Engine Cooling
+C091,I have a problem with boil and temp needle high while driving.,Engine Overheating,P0217,Engine Cooling
+C092,My car has thermostat and overheat when I start the car.,Engine Overheating,P0217,Engine Cooling
+C093,Experiencing thermostat and hot on the highway.,Engine Overheating,P0217,Engine Cooling
+C094,Noticed that thermostat and temperature in the morning.,Engine Overheating,P0217,Engine Cooling
+C095,The mechanic said thermostat and coolant recently.,Engine Overheating,P0217,Engine Cooling
+C096,Dashboard shows thermostat and radiator and it is getting worse.,Engine Overheating,P0217,Engine Cooling
+C097,Warning light for thermostat and steam which is dangerous.,Engine Overheating,P0217,Engine Cooling
+C098,Lately my vehicle has thermostat and boil every time I drive.,Engine Overheating,P0217,Engine Cooling
+C099,There is an issue with thermostat and water pump,Engine Overheating,P0217,Engine Cooling
+C100,I am worried about thermostat and gauge red after it rains.,Engine Overheating,P0217,Engine Cooling
+C101,Seems like thermostat and hissing during long trips.,Engine Overheating,P0217,Engine Cooling
+C102,Hearing some noises regarding thermostat and smoking hood at low speeds.,Engine Overheating,P0217,Engine Cooling
+C103,Just started noticing thermostat and cooling fan when braking.,Engine Overheating,P0217,Engine Cooling
+C104,Driving feels bad due to thermostat and temp needle high when accelerating.,Engine Overheating,P0217,Engine Cooling
+C105,Can someone check the water pump and overheat in cold weather.,Engine Overheating,P0217,Engine Cooling
+C106,I have a problem with water pump and hot while driving.,Engine Overheating,P0217,Engine Cooling
+C107,My car has water pump and temperature when I start the car.,Engine Overheating,P0217,Engine Cooling
+C108,Experiencing water pump and coolant on the highway.,Engine Overheating,P0217,Engine Cooling
+C109,Noticed that water pump and radiator in the morning.,Engine Overheating,P0217,Engine Cooling
+C110,The mechanic said water pump and steam recently.,Engine Overheating,P0217,Engine Cooling
+C111,Dashboard shows water pump and boil and it is getting worse.,Engine Overheating,P0217,Engine Cooling
+C112,Warning light for water pump and thermostat which is dangerous.,Engine Overheating,P0217,Engine Cooling
+C113,Lately my vehicle has water pump and gauge red every time I drive.,Engine Overheating,P0217,Engine Cooling
+C114,There is an issue with water pump and hissing,Engine Overheating,P0217,Engine Cooling
+C115,I am worried about water pump and smoking hood after it rains.,Engine Overheating,P0217,Engine Cooling
+C116,Seems like water pump and cooling fan during long trips.,Engine Overheating,P0217,Engine Cooling
+C117,Hearing some noises regarding water pump and temp needle high at low speeds.,Engine Overheating,P0217,Engine Cooling
+C118,Just started noticing gauge red and overheat when braking.,Engine Overheating,P0217,Engine Cooling
+C119,Driving feels bad due to gauge red and hot when accelerating.,Engine Overheating,P0217,Engine Cooling
+C120,Can someone check the gauge red and temperature in cold weather.,Engine Overheating,P0217,Engine Cooling
+C121,I have a problem with gauge red and coolant while driving.,Engine Overheating,P0217,Engine Cooling
+C122,My car has gauge red and radiator when I start the car.,Engine Overheating,P0217,Engine Cooling
+C123,Experiencing gauge red and steam on the highway.,Engine Overheating,P0217,Engine Cooling
+C124,Noticed that gauge red and boil in the morning.,Engine Overheating,P0217,Engine Cooling
+C125,The mechanic said gauge red and thermostat recently.,Engine Overheating,P0217,Engine Cooling
+C126,Dashboard shows gauge red and water pump and it is getting worse.,Engine Overheating,P0217,Engine Cooling
+C127,Warning light for gauge red and hissing which is dangerous.,Engine Overheating,P0217,Engine Cooling
+C128,Lately my vehicle has gauge red and smoking hood every time I drive.,Engine Overheating,P0217,Engine Cooling
+C129,There is an issue with gauge red and cooling fan,Engine Overheating,P0217,Engine Cooling
+C130,I am worried about gauge red and temp needle high after it rains.,Engine Overheating,P0217,Engine Cooling
+C131,Seems like hissing and overheat during long trips.,Engine Overheating,P0217,Engine Cooling
+C132,Hearing some noises regarding hissing and hot at low speeds.,Engine Overheating,P0217,Engine Cooling
+C133,Just started noticing hissing and temperature when braking.,Engine Overheating,P0217,Engine Cooling
+C134,Driving feels bad due to hissing and coolant when accelerating.,Engine Overheating,P0217,Engine Cooling
+C135,Can someone check the hissing and radiator in cold weather.,Engine Overheating,P0217,Engine Cooling
+C136,I have a problem with hissing and steam while driving.,Engine Overheating,P0217,Engine Cooling
+C137,My car has hissing and boil when I start the car.,Engine Overheating,P0217,Engine Cooling
+C138,Experiencing hissing and thermostat on the highway.,Engine Overheating,P0217,Engine Cooling
+C139,Noticed that hissing and water pump in the morning.,Engine Overheating,P0217,Engine Cooling
+C140,The mechanic said hissing and gauge red recently.,Engine Overheating,P0217,Engine Cooling
+C141,Dashboard shows hissing and smoking hood and it is getting worse.,Engine Overheating,P0217,Engine Cooling
+C142,Warning light for hissing and cooling fan which is dangerous.,Engine Overheating,P0217,Engine Cooling
+C143,Lately my vehicle has hissing and temp needle high every time I drive.,Engine Overheating,P0217,Engine Cooling
+C144,There is an issue with smoking hood and overheat,Engine Overheating,P0217,Engine Cooling
+C145,I am worried about smoking hood and hot after it rains.,Engine Overheating,P0217,Engine Cooling
+C146,Seems like smoking hood and temperature during long trips.,Engine Overheating,P0217,Engine Cooling
+C147,Hearing some noises regarding smoking hood and coolant at low speeds.,Engine Overheating,P0217,Engine Cooling
+C148,Just started noticing smoking hood and radiator when braking.,Engine Overheating,P0217,Engine Cooling
+C149,Driving feels bad due to smoking hood and steam when accelerating.,Engine Overheating,P0217,Engine Cooling
+C150,Can someone check the smoking hood and boil in cold weather.,Engine Overheating,P0217,Engine Cooling
+C151,I have a problem with smoking hood and thermostat while driving.,Engine Overheating,P0217,Engine Cooling
+C152,My car has smoking hood and water pump when I start the car.,Engine Overheating,P0217,Engine Cooling
+C153,Experiencing smoking hood and gauge red on the highway.,Engine Overheating,P0217,Engine Cooling
+C154,Noticed that smoking hood and hissing in the morning.,Engine Overheating,P0217,Engine Cooling
+C155,The mechanic said smoking hood and cooling fan recently.,Engine Overheating,P0217,Engine Cooling
+C156,Dashboard shows smoking hood and temp needle high and it is getting worse.,Engine Overheating,P0217,Engine Cooling
+C157,Warning light for cooling fan and overheat which is dangerous.,Engine Overheating,P0217,Engine Cooling
+C158,Lately my vehicle has cooling fan and hot every time I drive.,Engine Overheating,P0217,Engine Cooling
+C159,There is an issue with cooling fan and temperature,Engine Overheating,P0217,Engine Cooling
+C160,I am worried about cooling fan and coolant after it rains.,Engine Overheating,P0217,Engine Cooling
+C161,Seems like cooling fan and radiator during long trips.,Engine Overheating,P0217,Engine Cooling
+C162,Hearing some noises regarding cooling fan and steam at low speeds.,Engine Overheating,P0217,Engine Cooling
+C163,Just started noticing cooling fan and boil when braking.,Engine Overheating,P0217,Engine Cooling
+C164,Driving feels bad due to cooling fan and thermostat when accelerating.,Engine Overheating,P0217,Engine Cooling
+C165,Can someone check the cooling fan and water pump in cold weather.,Engine Overheating,P0217,Engine Cooling
+C166,I have a problem with cooling fan and gauge red while driving.,Engine Overheating,P0217,Engine Cooling
+C167,My car has cooling fan and hissing when I start the car.,Engine Overheating,P0217,Engine Cooling
+C168,Experiencing cooling fan and smoking hood on the highway.,Engine Overheating,P0217,Engine Cooling
+C169,Noticed that cooling fan and temp needle high in the morning.,Engine Overheating,P0217,Engine Cooling
+C170,The mechanic said temp needle high and overheat recently.,Engine Overheating,P0217,Engine Cooling
+C171,Dashboard shows temp needle high and hot and it is getting worse.,Engine Overheating,P0217,Engine Cooling
+C172,Warning light for temp needle high and temperature which is dangerous.,Engine Overheating,P0217,Engine Cooling
+C173,Lately my vehicle has temp needle high and coolant every time I drive.,Engine Overheating,P0217,Engine Cooling
+C174,There is an issue with temp needle high and radiator,Engine Overheating,P0217,Engine Cooling
+C175,I am worried about temp needle high and steam after it rains.,Engine Overheating,P0217,Engine Cooling
+C176,Seems like temp needle high and boil during long trips.,Engine Overheating,P0217,Engine Cooling
+C177,Hearing some noises regarding temp needle high and thermostat at low speeds.,Engine Overheating,P0217,Engine Cooling
+C178,Just started noticing temp needle high and water pump when braking.,Engine Overheating,P0217,Engine Cooling
+C179,Driving feels bad due to temp needle high and gauge red when accelerating.,Engine Overheating,P0217,Engine Cooling
+C180,Can someone check the temp needle high and hissing in cold weather.,Engine Overheating,P0217,Engine Cooling
+C181,I have a problem with temp needle high and smoking hood while driving.,Engine Overheating,P0217,Engine Cooling
+C182,My car has temp needle high and cooling fan when I start the car.,Engine Overheating,P0217,Engine Cooling
+C183,I have a problem with battery and alternator while driving.,Battery and Charging Fault,P0620,Electrical
+C184,My car has battery and charge when I start the car.,Battery and Charging Fault,P0620,Electrical
+C185,Experiencing battery and dead on the highway.,Battery and Charging Fault,P0620,Electrical
+C186,Noticed that battery and crank in the morning.,Battery and Charging Fault,P0620,Electrical
+C187,The mechanic said battery and jump start recently.,Battery and Charging Fault,P0620,Electrical
+C188,Dashboard shows battery and terminals and it is getting worse.,Battery and Charging Fault,P0620,Electrical
+C189,Warning light for battery and voltage which is dangerous.,Battery and Charging Fault,P0620,Electrical
+C190,Lately my vehicle has battery and electrical every time I drive.,Battery and Charging Fault,P0620,Electrical
+C191,There is an issue with battery and dim lights,Battery and Charging Fault,P0620,Electrical
+C192,I am worried about battery and wont start after it rains.,Battery and Charging Fault,P0620,Electrical
+C193,Seems like battery and clicking noise during long trips.,Battery and Charging Fault,P0620,Electrical
+C194,Hearing some noises regarding battery and power loss electrical at low speeds.,Battery and Charging Fault,P0620,Electrical
+C195,Just started noticing battery and battery light when braking.,Battery and Charging Fault,P0620,Electrical
+C196,Driving feels bad due to alternator and battery when accelerating.,Battery and Charging Fault,P0620,Electrical
+C197,Can someone check the alternator and charge in cold weather.,Battery and Charging Fault,P0620,Electrical
+C198,I have a problem with alternator and dead while driving.,Battery and Charging Fault,P0620,Electrical
+C199,My car has alternator and crank when I start the car.,Battery and Charging Fault,P0620,Electrical
+C200,Experiencing alternator and jump start on the highway.,Battery and Charging Fault,P0620,Electrical
+C201,Noticed that alternator and terminals in the morning.,Battery and Charging Fault,P0620,Electrical
+C202,The mechanic said alternator and voltage recently.,Battery and Charging Fault,P0620,Electrical
+C203,Dashboard shows alternator and electrical and it is getting worse.,Battery and Charging Fault,P0620,Electrical
+C204,Warning light for alternator and dim lights which is dangerous.,Battery and Charging Fault,P0620,Electrical
+C205,Lately my vehicle has alternator and wont start every time I drive.,Battery and Charging Fault,P0620,Electrical
+C206,There is an issue with alternator and clicking noise,Battery and Charging Fault,P0620,Electrical
+C207,I am worried about alternator and power loss electrical after it rains.,Battery and Charging Fault,P0620,Electrical
+C208,Seems like alternator and battery light during long trips.,Battery and Charging Fault,P0620,Electrical
+C209,Hearing some noises regarding charge and battery at low speeds.,Battery and Charging Fault,P0620,Electrical
+C210,Just started noticing charge and alternator when braking.,Battery and Charging Fault,P0620,Electrical
+C211,Driving feels bad due to charge and dead when accelerating.,Battery and Charging Fault,P0620,Electrical
+C212,Can someone check the charge and crank in cold weather.,Battery and Charging Fault,P0620,Electrical
+C213,I have a problem with charge and jump start while driving.,Battery and Charging Fault,P0620,Electrical
+C214,My car has charge and terminals when I start the car.,Battery and Charging Fault,P0620,Electrical
+C215,Experiencing charge and voltage on the highway.,Battery and Charging Fault,P0620,Electrical
+C216,Noticed that charge and electrical in the morning.,Battery and Charging Fault,P0620,Electrical
+C217,The mechanic said charge and dim lights recently.,Battery and Charging Fault,P0620,Electrical
+C218,Dashboard shows charge and wont start and it is getting worse.,Battery and Charging Fault,P0620,Electrical
+C219,Warning light for charge and clicking noise which is dangerous.,Battery and Charging Fault,P0620,Electrical
+C220,Lately my vehicle has charge and power loss electrical every time I drive.,Battery and Charging Fault,P0620,Electrical
+C221,There is an issue with charge and battery light,Battery and Charging Fault,P0620,Electrical
+C222,I am worried about dead and battery after it rains.,Battery and Charging Fault,P0620,Electrical
+C223,Seems like dead and alternator during long trips.,Battery and Charging Fault,P0620,Electrical
+C224,Hearing some noises regarding dead and charge at low speeds.,Battery and Charging Fault,P0620,Electrical
+C225,Just started noticing dead and crank when braking.,Battery and Charging Fault,P0620,Electrical
+C226,Driving feels bad due to dead and jump start when accelerating.,Battery and Charging Fault,P0620,Electrical
+C227,Can someone check the dead and terminals in cold weather.,Battery and Charging Fault,P0620,Electrical
+C228,I have a problem with dead and voltage while driving.,Battery and Charging Fault,P0620,Electrical
+C229,My car has dead and electrical when I start the car.,Battery and Charging Fault,P0620,Electrical
+C230,Experiencing dead and dim lights on the highway.,Battery and Charging Fault,P0620,Electrical
+C231,Noticed that dead and wont start in the morning.,Battery and Charging Fault,P0620,Electrical
+C232,The mechanic said dead and clicking noise recently.,Battery and Charging Fault,P0620,Electrical
+C233,Dashboard shows dead and power loss electrical and it is getting worse.,Battery and Charging Fault,P0620,Electrical
+C234,Warning light for dead and battery light which is dangerous.,Battery and Charging Fault,P0620,Electrical
+C235,Lately my vehicle has crank and battery every time I drive.,Battery and Charging Fault,P0620,Electrical
+C236,There is an issue with crank and alternator,Battery and Charging Fault,P0620,Electrical
+C237,I am worried about crank and charge after it rains.,Battery and Charging Fault,P0620,Electrical
+C238,Seems like crank and dead during long trips.,Battery and Charging Fault,P0620,Electrical
+C239,Hearing some noises regarding crank and jump start at low speeds.,Battery and Charging Fault,P0620,Electrical
+C240,Just started noticing crank and terminals when braking.,Battery and Charging Fault,P0620,Electrical
+C241,Driving feels bad due to crank and voltage when accelerating.,Battery and Charging Fault,P0620,Electrical
+C242,Can someone check the crank and electrical in cold weather.,Battery and Charging Fault,P0620,Electrical
+C243,I have a problem with crank and dim lights while driving.,Battery and Charging Fault,P0620,Electrical
+C244,My car has crank and wont start when I start the car.,Battery and Charging Fault,P0620,Electrical
+C245,Experiencing crank and clicking noise on the highway.,Battery and Charging Fault,P0620,Electrical
+C246,Noticed that crank and power loss electrical in the morning.,Battery and Charging Fault,P0620,Electrical
+C247,The mechanic said crank and battery light recently.,Battery and Charging Fault,P0620,Electrical
+C248,Dashboard shows jump start and battery and it is getting worse.,Battery and Charging Fault,P0620,Electrical
+C249,Warning light for jump start and alternator which is dangerous.,Battery and Charging Fault,P0620,Electrical
+C250,Lately my vehicle has jump start and charge every time I drive.,Battery and Charging Fault,P0620,Electrical
+C251,There is an issue with jump start and dead,Battery and Charging Fault,P0620,Electrical
+C252,I am worried about jump start and crank after it rains.,Battery and Charging Fault,P0620,Electrical
+C253,Seems like jump start and terminals during long trips.,Battery and Charging Fault,P0620,Electrical
+C254,Hearing some noises regarding jump start and voltage at low speeds.,Battery and Charging Fault,P0620,Electrical
+C255,Just started noticing jump start and electrical when braking.,Battery and Charging Fault,P0620,Electrical
+C256,Driving feels bad due to jump start and dim lights when accelerating.,Battery and Charging Fault,P0620,Electrical
+C257,Can someone check the jump start and wont start in cold weather.,Battery and Charging Fault,P0620,Electrical
+C258,I have a problem with jump start and clicking noise while driving.,Battery and Charging Fault,P0620,Electrical
+C259,My car has jump start and power loss electrical when I start the car.,Battery and Charging Fault,P0620,Electrical
+C260,Experiencing jump start and battery light on the highway.,Battery and Charging Fault,P0620,Electrical
+C261,Noticed that terminals and battery in the morning.,Battery and Charging Fault,P0620,Electrical
+C262,The mechanic said terminals and alternator recently.,Battery and Charging Fault,P0620,Electrical
+C263,Dashboard shows terminals and charge and it is getting worse.,Battery and Charging Fault,P0620,Electrical
+C264,Warning light for terminals and dead which is dangerous.,Battery and Charging Fault,P0620,Electrical
+C265,Lately my vehicle has terminals and crank every time I drive.,Battery and Charging Fault,P0620,Electrical
+C266,There is an issue with terminals and jump start,Battery and Charging Fault,P0620,Electrical
+C267,I am worried about terminals and voltage after it rains.,Battery and Charging Fault,P0620,Electrical
+C268,Seems like terminals and electrical during long trips.,Battery and Charging Fault,P0620,Electrical
+C269,Hearing some noises regarding terminals and dim lights at low speeds.,Battery and Charging Fault,P0620,Electrical
+C270,Just started noticing terminals and wont start when braking.,Battery and Charging Fault,P0620,Electrical
+C271,Driving feels bad due to terminals and clicking noise when accelerating.,Battery and Charging Fault,P0620,Electrical
+C272,Can someone check the terminals and power loss electrical in cold weather.,Battery and Charging Fault,P0620,Electrical
+C273,I have a problem with terminals and battery light while driving.,Battery and Charging Fault,P0620,Electrical
+C274,My car has voltage and battery when I start the car.,Battery and Charging Fault,P0620,Electrical
+C275,Experiencing voltage and alternator on the highway.,Battery and Charging Fault,P0620,Electrical
+C276,Noticed that voltage and charge in the morning.,Battery and Charging Fault,P0620,Electrical
+C277,The mechanic said voltage and dead recently.,Battery and Charging Fault,P0620,Electrical
+C278,Dashboard shows voltage and crank and it is getting worse.,Battery and Charging Fault,P0620,Electrical
+C279,Warning light for voltage and jump start which is dangerous.,Battery and Charging Fault,P0620,Electrical
+C280,Lately my vehicle has voltage and terminals every time I drive.,Battery and Charging Fault,P0620,Electrical
+C281,There is an issue with voltage and electrical,Battery and Charging Fault,P0620,Electrical
+C282,I am worried about voltage and dim lights after it rains.,Battery and Charging Fault,P0620,Electrical
+C283,Seems like voltage and wont start during long trips.,Battery and Charging Fault,P0620,Electrical
+C284,Hearing some noises regarding voltage and clicking noise at low speeds.,Battery and Charging Fault,P0620,Electrical
+C285,Just started noticing voltage and power loss electrical when braking.,Battery and Charging Fault,P0620,Electrical
+C286,Driving feels bad due to voltage and battery light when accelerating.,Battery and Charging Fault,P0620,Electrical
+C287,Can someone check the electrical and battery in cold weather.,Battery and Charging Fault,P0620,Electrical
+C288,I have a problem with electrical and alternator while driving.,Battery and Charging Fault,P0620,Electrical
+C289,My car has electrical and charge when I start the car.,Battery and Charging Fault,P0620,Electrical
+C290,Experiencing electrical and dead on the highway.,Battery and Charging Fault,P0620,Electrical
+C291,Noticed that electrical and crank in the morning.,Battery and Charging Fault,P0620,Electrical
+C292,The mechanic said electrical and jump start recently.,Battery and Charging Fault,P0620,Electrical
+C293,Dashboard shows electrical and terminals and it is getting worse.,Battery and Charging Fault,P0620,Electrical
+C294,Warning light for electrical and voltage which is dangerous.,Battery and Charging Fault,P0620,Electrical
+C295,Lately my vehicle has electrical and dim lights every time I drive.,Battery and Charging Fault,P0620,Electrical
+C296,There is an issue with electrical and wont start,Battery and Charging Fault,P0620,Electrical
+C297,I am worried about electrical and clicking noise after it rains.,Battery and Charging Fault,P0620,Electrical
+C298,Seems like electrical and power loss electrical during long trips.,Battery and Charging Fault,P0620,Electrical
+C299,Hearing some noises regarding electrical and battery light at low speeds.,Battery and Charging Fault,P0620,Electrical
+C300,Just started noticing dim lights and battery when braking.,Battery and Charging Fault,P0620,Electrical
+C301,Driving feels bad due to dim lights and alternator when accelerating.,Battery and Charging Fault,P0620,Electrical
+C302,Can someone check the dim lights and charge in cold weather.,Battery and Charging Fault,P0620,Electrical
+C303,I have a problem with dim lights and dead while driving.,Battery and Charging Fault,P0620,Electrical
+C304,My car has dim lights and crank when I start the car.,Battery and Charging Fault,P0620,Electrical
+C305,Experiencing dim lights and jump start on the highway.,Battery and Charging Fault,P0620,Electrical
+C306,Noticed that dim lights and terminals in the morning.,Battery and Charging Fault,P0620,Electrical
+C307,The mechanic said dim lights and voltage recently.,Battery and Charging Fault,P0620,Electrical
+C308,Dashboard shows dim lights and electrical and it is getting worse.,Battery and Charging Fault,P0620,Electrical
+C309,Warning light for dim lights and wont start which is dangerous.,Battery and Charging Fault,P0620,Electrical
+C310,Lately my vehicle has dim lights and clicking noise every time I drive.,Battery and Charging Fault,P0620,Electrical
+C311,There is an issue with dim lights and power loss electrical,Battery and Charging Fault,P0620,Electrical
+C312,I am worried about dim lights and battery light after it rains.,Battery and Charging Fault,P0620,Electrical
+C313,Seems like wont start and battery during long trips.,Battery and Charging Fault,P0620,Electrical
+C314,Hearing some noises regarding wont start and alternator at low speeds.,Battery and Charging Fault,P0620,Electrical
+C315,Just started noticing wont start and charge when braking.,Battery and Charging Fault,P0620,Electrical
+C316,Driving feels bad due to wont start and dead when accelerating.,Battery and Charging Fault,P0620,Electrical
+C317,Can someone check the wont start and crank in cold weather.,Battery and Charging Fault,P0620,Electrical
+C318,I have a problem with wont start and jump start while driving.,Battery and Charging Fault,P0620,Electrical
+C319,My car has wont start and terminals when I start the car.,Battery and Charging Fault,P0620,Electrical
+C320,Experiencing wont start and voltage on the highway.,Battery and Charging Fault,P0620,Electrical
+C321,Noticed that wont start and electrical in the morning.,Battery and Charging Fault,P0620,Electrical
+C322,The mechanic said wont start and dim lights recently.,Battery and Charging Fault,P0620,Electrical
+C323,Dashboard shows wont start and clicking noise and it is getting worse.,Battery and Charging Fault,P0620,Electrical
+C324,Warning light for wont start and power loss electrical which is dangerous.,Battery and Charging Fault,P0620,Electrical
+C325,Lately my vehicle has wont start and battery light every time I drive.,Battery and Charging Fault,P0620,Electrical
+C326,There is an issue with clicking noise and battery,Battery and Charging Fault,P0620,Electrical
+C327,I am worried about clicking noise and alternator after it rains.,Battery and Charging Fault,P0620,Electrical
+C328,Seems like clicking noise and charge during long trips.,Battery and Charging Fault,P0620,Electrical
+C329,Hearing some noises regarding clicking noise and dead at low speeds.,Battery and Charging Fault,P0620,Electrical
+C330,Just started noticing clicking noise and crank when braking.,Battery and Charging Fault,P0620,Electrical
+C331,Driving feels bad due to clicking noise and jump start when accelerating.,Battery and Charging Fault,P0620,Electrical
+C332,Can someone check the clicking noise and terminals in cold weather.,Battery and Charging Fault,P0620,Electrical
+C333,I have a problem with clicking noise and voltage while driving.,Battery and Charging Fault,P0620,Electrical
+C334,My car has clicking noise and electrical when I start the car.,Battery and Charging Fault,P0620,Electrical
+C335,Experiencing clicking noise and dim lights on the highway.,Battery and Charging Fault,P0620,Electrical
+C336,Noticed that clicking noise and wont start in the morning.,Battery and Charging Fault,P0620,Electrical
+C337,The mechanic said clicking noise and power loss electrical recently.,Battery and Charging Fault,P0620,Electrical
+C338,Dashboard shows clicking noise and battery light and it is getting worse.,Battery and Charging Fault,P0620,Electrical
+C339,Warning light for power loss electrical and battery which is dangerous.,Battery and Charging Fault,P0620,Electrical
+C340,Lately my vehicle has power loss electrical and alternator every time I drive.,Battery and Charging Fault,P0620,Electrical
+C341,There is an issue with power loss electrical and charge,Battery and Charging Fault,P0620,Electrical
+C342,I am worried about power loss electrical and dead after it rains.,Battery and Charging Fault,P0620,Electrical
+C343,Seems like power loss electrical and crank during long trips.,Battery and Charging Fault,P0620,Electrical
+C344,Hearing some noises regarding power loss electrical and jump start at low speeds.,Battery and Charging Fault,P0620,Electrical
+C345,Just started noticing power loss electrical and terminals when braking.,Battery and Charging Fault,P0620,Electrical
+C346,Driving feels bad due to power loss electrical and voltage when accelerating.,Battery and Charging Fault,P0620,Electrical
+C347,Can someone check the power loss electrical and electrical in cold weather.,Battery and Charging Fault,P0620,Electrical
+C348,I have a problem with power loss electrical and dim lights while driving.,Battery and Charging Fault,P0620,Electrical
+C349,My car has power loss electrical and wont start when I start the car.,Battery and Charging Fault,P0620,Electrical
+C350,Experiencing power loss electrical and clicking noise on the highway.,Battery and Charging Fault,P0620,Electrical
+C351,Noticed that power loss electrical and battery light in the morning.,Battery and Charging Fault,P0620,Electrical
+C352,The mechanic said battery light and battery recently.,Battery and Charging Fault,P0620,Electrical
+C353,Dashboard shows battery light and alternator and it is getting worse.,Battery and Charging Fault,P0620,Electrical
+C354,Warning light for battery light and charge which is dangerous.,Battery and Charging Fault,P0620,Electrical
+C355,Lately my vehicle has battery light and dead every time I drive.,Battery and Charging Fault,P0620,Electrical
+C356,There is an issue with battery light and crank,Battery and Charging Fault,P0620,Electrical
+C357,I am worried about battery light and jump start after it rains.,Battery and Charging Fault,P0620,Electrical
+C358,Seems like battery light and terminals during long trips.,Battery and Charging Fault,P0620,Electrical
+C359,Hearing some noises regarding battery light and voltage at low speeds.,Battery and Charging Fault,P0620,Electrical
+C360,Just started noticing battery light and electrical when braking.,Battery and Charging Fault,P0620,Electrical
+C361,Driving feels bad due to battery light and dim lights when accelerating.,Battery and Charging Fault,P0620,Electrical
+C362,Can someone check the battery light and wont start in cold weather.,Battery and Charging Fault,P0620,Electrical
+C363,I have a problem with battery light and clicking noise while driving.,Battery and Charging Fault,P0620,Electrical
+C364,My car has battery light and power loss electrical when I start the car.,Battery and Charging Fault,P0620,Electrical
+C365,I have a problem with fuel pressure and fuel pump while driving.,Fuel System Pressure Low,P0087,Fuel System
+C366,My car has fuel pressure and injector clogged when I start the car.,Fuel System Pressure Low,P0087,Fuel System
+C367,Experiencing fuel pressure and stuttering acceleration on the highway.,Fuel System Pressure Low,P0087,Fuel System
+C368,Noticed that fuel pressure and fuel starvation in the morning.,Fuel System Pressure Low,P0087,Fuel System
+C369,The mechanic said fuel pressure and gas tank recently.,Fuel System Pressure Low,P0087,Fuel System
+C370,Dashboard shows fuel pressure and fuel line and it is getting worse.,Fuel System Pressure Low,P0087,Fuel System
+C371,Warning light for fuel pressure and fuel rail which is dangerous.,Fuel System Pressure Low,P0087,Fuel System
+C372,Lately my vehicle has fuel pressure and low fuel pressure every time I drive.,Fuel System Pressure Low,P0087,Fuel System
+C373,There is an issue with fuel pressure and bad fuel filter,Fuel System Pressure Low,P0087,Fuel System
+C374,I am worried about fuel pressure and fuel system after it rains.,Fuel System Pressure Low,P0087,Fuel System
+C375,Seems like fuel pressure and sputtering fuel during long trips.,Fuel System Pressure Low,P0087,Fuel System
+C376,Hearing some noises regarding fuel pressure and hard start gas at low speeds.,Fuel System Pressure Low,P0087,Fuel System
+C377,Just started noticing fuel pressure and check engine gas when braking.,Fuel System Pressure Low,P0087,Fuel System
+C378,Driving feels bad due to fuel pump and fuel pressure when accelerating.,Fuel System Pressure Low,P0087,Fuel System
+C379,Can someone check the fuel pump and injector clogged in cold weather.,Fuel System Pressure Low,P0087,Fuel System
+C380,I have a problem with fuel pump and stuttering acceleration while driving.,Fuel System Pressure Low,P0087,Fuel System
+C381,My car has fuel pump and fuel starvation when I start the car.,Fuel System Pressure Low,P0087,Fuel System
+C382,Experiencing fuel pump and gas tank on the highway.,Fuel System Pressure Low,P0087,Fuel System
+C383,Noticed that fuel pump and fuel line in the morning.,Fuel System Pressure Low,P0087,Fuel System
+C384,The mechanic said fuel pump and fuel rail recently.,Fuel System Pressure Low,P0087,Fuel System
+C385,Dashboard shows fuel pump and low fuel pressure and it is getting worse.,Fuel System Pressure Low,P0087,Fuel System
+C386,Warning light for fuel pump and bad fuel filter which is dangerous.,Fuel System Pressure Low,P0087,Fuel System
+C387,Lately my vehicle has fuel pump and fuel system every time I drive.,Fuel System Pressure Low,P0087,Fuel System
+C388,There is an issue with fuel pump and sputtering fuel,Fuel System Pressure Low,P0087,Fuel System
+C389,I am worried about fuel pump and hard start gas after it rains.,Fuel System Pressure Low,P0087,Fuel System
+C390,Seems like fuel pump and check engine gas during long trips.,Fuel System Pressure Low,P0087,Fuel System
+C391,Hearing some noises regarding injector clogged and fuel pressure at low speeds.,Fuel System Pressure Low,P0087,Fuel System
+C392,Just started noticing injector clogged and fuel pump when braking.,Fuel System Pressure Low,P0087,Fuel System
+C393,Driving feels bad due to injector clogged and stuttering acceleration when accelerating.,Fuel System Pressure Low,P0087,Fuel System
+C394,Can someone check the injector clogged and fuel starvation in cold weather.,Fuel System Pressure Low,P0087,Fuel System
+C395,I have a problem with injector clogged and gas tank while driving.,Fuel System Pressure Low,P0087,Fuel System
+C396,My car has injector clogged and fuel line when I start the car.,Fuel System Pressure Low,P0087,Fuel System
+C397,Experiencing injector clogged and fuel rail on the highway.,Fuel System Pressure Low,P0087,Fuel System
+C398,Noticed that injector clogged and low fuel pressure in the morning.,Fuel System Pressure Low,P0087,Fuel System
+C399,The mechanic said injector clogged and bad fuel filter recently.,Fuel System Pressure Low,P0087,Fuel System
+C400,Dashboard shows injector clogged and fuel system and it is getting worse.,Fuel System Pressure Low,P0087,Fuel System
+C401,Warning light for injector clogged and sputtering fuel which is dangerous.,Fuel System Pressure Low,P0087,Fuel System
+C402,Lately my vehicle has injector clogged and hard start gas every time I drive.,Fuel System Pressure Low,P0087,Fuel System
+C403,There is an issue with injector clogged and check engine gas,Fuel System Pressure Low,P0087,Fuel System
+C404,I am worried about stuttering acceleration and fuel pressure after it rains.,Fuel System Pressure Low,P0087,Fuel System
+C405,Seems like stuttering acceleration and fuel pump during long trips.,Fuel System Pressure Low,P0087,Fuel System
+C406,Hearing some noises regarding stuttering acceleration and injector clogged at low speeds.,Fuel System Pressure Low,P0087,Fuel System
+C407,Just started noticing stuttering acceleration and fuel starvation when braking.,Fuel System Pressure Low,P0087,Fuel System
+C408,Driving feels bad due to stuttering acceleration and gas tank when accelerating.,Fuel System Pressure Low,P0087,Fuel System
+C409,Can someone check the stuttering acceleration and fuel line in cold weather.,Fuel System Pressure Low,P0087,Fuel System
+C410,I have a problem with stuttering acceleration and fuel rail while driving.,Fuel System Pressure Low,P0087,Fuel System
+C411,My car has stuttering acceleration and low fuel pressure when I start the car.,Fuel System Pressure Low,P0087,Fuel System
+C412,Experiencing stuttering acceleration and bad fuel filter on the highway.,Fuel System Pressure Low,P0087,Fuel System
+C413,Noticed that stuttering acceleration and fuel system in the morning.,Fuel System Pressure Low,P0087,Fuel System
+C414,The mechanic said stuttering acceleration and sputtering fuel recently.,Fuel System Pressure Low,P0087,Fuel System
+C415,Dashboard shows stuttering acceleration and hard start gas and it is getting worse.,Fuel System Pressure Low,P0087,Fuel System
+C416,Warning light for stuttering acceleration and check engine gas which is dangerous.,Fuel System Pressure Low,P0087,Fuel System
+C417,Lately my vehicle has fuel starvation and fuel pressure every time I drive.,Fuel System Pressure Low,P0087,Fuel System
+C418,There is an issue with fuel starvation and fuel pump,Fuel System Pressure Low,P0087,Fuel System
+C419,I am worried about fuel starvation and injector clogged after it rains.,Fuel System Pressure Low,P0087,Fuel System
+C420,Seems like fuel starvation and stuttering acceleration during long trips.,Fuel System Pressure Low,P0087,Fuel System
+C421,Hearing some noises regarding fuel starvation and gas tank at low speeds.,Fuel System Pressure Low,P0087,Fuel System
+C422,Just started noticing fuel starvation and fuel line when braking.,Fuel System Pressure Low,P0087,Fuel System
+C423,Driving feels bad due to fuel starvation and fuel rail when accelerating.,Fuel System Pressure Low,P0087,Fuel System
+C424,Can someone check the fuel starvation and low fuel pressure in cold weather.,Fuel System Pressure Low,P0087,Fuel System
+C425,I have a problem with fuel starvation and bad fuel filter while driving.,Fuel System Pressure Low,P0087,Fuel System
+C426,My car has fuel starvation and fuel system when I start the car.,Fuel System Pressure Low,P0087,Fuel System
+C427,Experiencing fuel starvation and sputtering fuel on the highway.,Fuel System Pressure Low,P0087,Fuel System
+C428,Noticed that fuel starvation and hard start gas in the morning.,Fuel System Pressure Low,P0087,Fuel System
+C429,The mechanic said fuel starvation and check engine gas recently.,Fuel System Pressure Low,P0087,Fuel System
+C430,Dashboard shows gas tank and fuel pressure and it is getting worse.,Fuel System Pressure Low,P0087,Fuel System
+C431,Warning light for gas tank and fuel pump which is dangerous.,Fuel System Pressure Low,P0087,Fuel System
+C432,Lately my vehicle has gas tank and injector clogged every time I drive.,Fuel System Pressure Low,P0087,Fuel System
+C433,There is an issue with gas tank and stuttering acceleration,Fuel System Pressure Low,P0087,Fuel System
+C434,I am worried about gas tank and fuel starvation after it rains.,Fuel System Pressure Low,P0087,Fuel System
+C435,Seems like gas tank and fuel line during long trips.,Fuel System Pressure Low,P0087,Fuel System
+C436,Hearing some noises regarding gas tank and fuel rail at low speeds.,Fuel System Pressure Low,P0087,Fuel System
+C437,Just started noticing gas tank and low fuel pressure when braking.,Fuel System Pressure Low,P0087,Fuel System
+C438,Driving feels bad due to gas tank and bad fuel filter when accelerating.,Fuel System Pressure Low,P0087,Fuel System
+C439,Can someone check the gas tank and fuel system in cold weather.,Fuel System Pressure Low,P0087,Fuel System
+C440,I have a problem with gas tank and sputtering fuel while driving.,Fuel System Pressure Low,P0087,Fuel System
+C441,My car has gas tank and hard start gas when I start the car.,Fuel System Pressure Low,P0087,Fuel System
+C442,Experiencing gas tank and check engine gas on the highway.,Fuel System Pressure Low,P0087,Fuel System
+C443,Noticed that fuel line and fuel pressure in the morning.,Fuel System Pressure Low,P0087,Fuel System
+C444,The mechanic said fuel line and fuel pump recently.,Fuel System Pressure Low,P0087,Fuel System
+C445,Dashboard shows fuel line and injector clogged and it is getting worse.,Fuel System Pressure Low,P0087,Fuel System
+C446,Warning light for fuel line and stuttering acceleration which is dangerous.,Fuel System Pressure Low,P0087,Fuel System
+C447,Lately my vehicle has fuel line and fuel starvation every time I drive.,Fuel System Pressure Low,P0087,Fuel System
+C448,There is an issue with fuel line and gas tank,Fuel System Pressure Low,P0087,Fuel System
+C449,I am worried about fuel line and fuel rail after it rains.,Fuel System Pressure Low,P0087,Fuel System
+C450,Seems like fuel line and low fuel pressure during long trips.,Fuel System Pressure Low,P0087,Fuel System
+C451,Hearing some noises regarding fuel line and bad fuel filter at low speeds.,Fuel System Pressure Low,P0087,Fuel System
+C452,Just started noticing fuel line and fuel system when braking.,Fuel System Pressure Low,P0087,Fuel System
+C453,Driving feels bad due to fuel line and sputtering fuel when accelerating.,Fuel System Pressure Low,P0087,Fuel System
+C454,Can someone check the fuel line and hard start gas in cold weather.,Fuel System Pressure Low,P0087,Fuel System
+C455,I have a problem with fuel line and check engine gas while driving.,Fuel System Pressure Low,P0087,Fuel System
+C456,My car has fuel rail and fuel pressure when I start the car.,Fuel System Pressure Low,P0087,Fuel System
+C457,Experiencing fuel rail and fuel pump on the highway.,Fuel System Pressure Low,P0087,Fuel System
+C458,Noticed that fuel rail and injector clogged in the morning.,Fuel System Pressure Low,P0087,Fuel System
+C459,The mechanic said fuel rail and stuttering acceleration recently.,Fuel System Pressure Low,P0087,Fuel System
+C460,Dashboard shows fuel rail and fuel starvation and it is getting worse.,Fuel System Pressure Low,P0087,Fuel System
+C461,Warning light for fuel rail and gas tank which is dangerous.,Fuel System Pressure Low,P0087,Fuel System
+C462,Lately my vehicle has fuel rail and fuel line every time I drive.,Fuel System Pressure Low,P0087,Fuel System
+C463,There is an issue with fuel rail and low fuel pressure,Fuel System Pressure Low,P0087,Fuel System
+C464,I am worried about fuel rail and bad fuel filter after it rains.,Fuel System Pressure Low,P0087,Fuel System
+C465,Seems like fuel rail and fuel system during long trips.,Fuel System Pressure Low,P0087,Fuel System
+C466,Hearing some noises regarding fuel rail and sputtering fuel at low speeds.,Fuel System Pressure Low,P0087,Fuel System
+C467,Just started noticing fuel rail and hard start gas when braking.,Fuel System Pressure Low,P0087,Fuel System
+C468,Driving feels bad due to fuel rail and check engine gas when accelerating.,Fuel System Pressure Low,P0087,Fuel System
+C469,Can someone check the low fuel pressure and fuel pressure in cold weather.,Fuel System Pressure Low,P0087,Fuel System
+C470,I have a problem with low fuel pressure and fuel pump while driving.,Fuel System Pressure Low,P0087,Fuel System
+C471,My car has low fuel pressure and injector clogged when I start the car.,Fuel System Pressure Low,P0087,Fuel System
+C472,Experiencing low fuel pressure and stuttering acceleration on the highway.,Fuel System Pressure Low,P0087,Fuel System
+C473,Noticed that low fuel pressure and fuel starvation in the morning.,Fuel System Pressure Low,P0087,Fuel System
+C474,The mechanic said low fuel pressure and gas tank recently.,Fuel System Pressure Low,P0087,Fuel System
+C475,Dashboard shows low fuel pressure and fuel line and it is getting worse.,Fuel System Pressure Low,P0087,Fuel System
+C476,Warning light for low fuel pressure and fuel rail which is dangerous.,Fuel System Pressure Low,P0087,Fuel System
+C477,Lately my vehicle has low fuel pressure and bad fuel filter every time I drive.,Fuel System Pressure Low,P0087,Fuel System
+C478,There is an issue with low fuel pressure and fuel system,Fuel System Pressure Low,P0087,Fuel System
+C479,I am worried about low fuel pressure and sputtering fuel after it rains.,Fuel System Pressure Low,P0087,Fuel System
+C480,Seems like low fuel pressure and hard start gas during long trips.,Fuel System Pressure Low,P0087,Fuel System
+C481,Hearing some noises regarding low fuel pressure and check engine gas at low speeds.,Fuel System Pressure Low,P0087,Fuel System
+C482,Just started noticing bad fuel filter and fuel pressure when braking.,Fuel System Pressure Low,P0087,Fuel System
+C483,Driving feels bad due to bad fuel filter and fuel pump when accelerating.,Fuel System Pressure Low,P0087,Fuel System
+C484,Can someone check the bad fuel filter and injector clogged in cold weather.,Fuel System Pressure Low,P0087,Fuel System
+C485,I have a problem with bad fuel filter and stuttering acceleration while driving.,Fuel System Pressure Low,P0087,Fuel System
+C486,My car has bad fuel filter and fuel starvation when I start the car.,Fuel System Pressure Low,P0087,Fuel System
+C487,Experiencing bad fuel filter and gas tank on the highway.,Fuel System Pressure Low,P0087,Fuel System
+C488,Noticed that bad fuel filter and fuel line in the morning.,Fuel System Pressure Low,P0087,Fuel System
+C489,The mechanic said bad fuel filter and fuel rail recently.,Fuel System Pressure Low,P0087,Fuel System
+C490,Dashboard shows bad fuel filter and low fuel pressure and it is getting worse.,Fuel System Pressure Low,P0087,Fuel System
+C491,Warning light for bad fuel filter and fuel system which is dangerous.,Fuel System Pressure Low,P0087,Fuel System
+C492,Lately my vehicle has bad fuel filter and sputtering fuel every time I drive.,Fuel System Pressure Low,P0087,Fuel System
+C493,There is an issue with bad fuel filter and hard start gas,Fuel System Pressure Low,P0087,Fuel System
+C494,I am worried about bad fuel filter and check engine gas after it rains.,Fuel System Pressure Low,P0087,Fuel System
+C495,Seems like fuel system and fuel pressure during long trips.,Fuel System Pressure Low,P0087,Fuel System
+C496,Hearing some noises regarding fuel system and fuel pump at low speeds.,Fuel System Pressure Low,P0087,Fuel System
+C497,Just started noticing fuel system and injector clogged when braking.,Fuel System Pressure Low,P0087,Fuel System
+C498,Driving feels bad due to fuel system and stuttering acceleration when accelerating.,Fuel System Pressure Low,P0087,Fuel System
+C499,Can someone check the fuel system and fuel starvation in cold weather.,Fuel System Pressure Low,P0087,Fuel System
+C500,I have a problem with fuel system and gas tank while driving.,Fuel System Pressure Low,P0087,Fuel System
+C501,My car has fuel system and fuel line when I start the car.,Fuel System Pressure Low,P0087,Fuel System
+C502,Experiencing fuel system and fuel rail on the highway.,Fuel System Pressure Low,P0087,Fuel System
+C503,Noticed that fuel system and low fuel pressure in the morning.,Fuel System Pressure Low,P0087,Fuel System
+C504,The mechanic said fuel system and bad fuel filter recently.,Fuel System Pressure Low,P0087,Fuel System
+C505,Dashboard shows fuel system and sputtering fuel and it is getting worse.,Fuel System Pressure Low,P0087,Fuel System
+C506,Warning light for fuel system and hard start gas which is dangerous.,Fuel System Pressure Low,P0087,Fuel System
+C507,Lately my vehicle has fuel system and check engine gas every time I drive.,Fuel System Pressure Low,P0087,Fuel System
+C508,There is an issue with sputtering fuel and fuel pressure,Fuel System Pressure Low,P0087,Fuel System
+C509,I am worried about sputtering fuel and fuel pump after it rains.,Fuel System Pressure Low,P0087,Fuel System
+C510,Seems like sputtering fuel and injector clogged during long trips.,Fuel System Pressure Low,P0087,Fuel System
+C511,Hearing some noises regarding sputtering fuel and stuttering acceleration at low speeds.,Fuel System Pressure Low,P0087,Fuel System
+C512,Just started noticing sputtering fuel and fuel starvation when braking.,Fuel System Pressure Low,P0087,Fuel System
+C513,Driving feels bad due to sputtering fuel and gas tank when accelerating.,Fuel System Pressure Low,P0087,Fuel System
+C514,Can someone check the sputtering fuel and fuel line in cold weather.,Fuel System Pressure Low,P0087,Fuel System
+C515,I have a problem with sputtering fuel and fuel rail while driving.,Fuel System Pressure Low,P0087,Fuel System
+C516,My car has sputtering fuel and low fuel pressure when I start the car.,Fuel System Pressure Low,P0087,Fuel System
+C517,Experiencing sputtering fuel and bad fuel filter on the highway.,Fuel System Pressure Low,P0087,Fuel System
+C518,Noticed that sputtering fuel and fuel system in the morning.,Fuel System Pressure Low,P0087,Fuel System
+C519,The mechanic said sputtering fuel and hard start gas recently.,Fuel System Pressure Low,P0087,Fuel System
+C520,Dashboard shows sputtering fuel and check engine gas and it is getting worse.,Fuel System Pressure Low,P0087,Fuel System
+C521,Warning light for hard start gas and fuel pressure which is dangerous.,Fuel System Pressure Low,P0087,Fuel System
+C522,Lately my vehicle has hard start gas and fuel pump every time I drive.,Fuel System Pressure Low,P0087,Fuel System
+C523,There is an issue with hard start gas and injector clogged,Fuel System Pressure Low,P0087,Fuel System
+C524,I am worried about hard start gas and stuttering acceleration after it rains.,Fuel System Pressure Low,P0087,Fuel System
+C525,Seems like hard start gas and fuel starvation during long trips.,Fuel System Pressure Low,P0087,Fuel System
+C526,Hearing some noises regarding hard start gas and gas tank at low speeds.,Fuel System Pressure Low,P0087,Fuel System
+C527,Just started noticing hard start gas and fuel line when braking.,Fuel System Pressure Low,P0087,Fuel System
+C528,Driving feels bad due to hard start gas and fuel rail when accelerating.,Fuel System Pressure Low,P0087,Fuel System
+C529,Can someone check the hard start gas and low fuel pressure in cold weather.,Fuel System Pressure Low,P0087,Fuel System
+C530,I have a problem with hard start gas and bad fuel filter while driving.,Fuel System Pressure Low,P0087,Fuel System
+C531,My car has hard start gas and fuel system when I start the car.,Fuel System Pressure Low,P0087,Fuel System
+C532,Experiencing hard start gas and sputtering fuel on the highway.,Fuel System Pressure Low,P0087,Fuel System
+C533,Noticed that hard start gas and check engine gas in the morning.,Fuel System Pressure Low,P0087,Fuel System
+C534,The mechanic said check engine gas and fuel pressure recently.,Fuel System Pressure Low,P0087,Fuel System
+C535,Dashboard shows check engine gas and fuel pump and it is getting worse.,Fuel System Pressure Low,P0087,Fuel System
+C536,Warning light for check engine gas and injector clogged which is dangerous.,Fuel System Pressure Low,P0087,Fuel System
+C537,Lately my vehicle has check engine gas and stuttering acceleration every time I drive.,Fuel System Pressure Low,P0087,Fuel System
+C538,There is an issue with check engine gas and fuel starvation,Fuel System Pressure Low,P0087,Fuel System
+C539,I am worried about check engine gas and gas tank after it rains.,Fuel System Pressure Low,P0087,Fuel System
+C540,Seems like check engine gas and fuel line during long trips.,Fuel System Pressure Low,P0087,Fuel System
+C541,Hearing some noises regarding check engine gas and fuel rail at low speeds.,Fuel System Pressure Low,P0087,Fuel System
+C542,Just started noticing check engine gas and low fuel pressure when braking.,Fuel System Pressure Low,P0087,Fuel System
+C543,Driving feels bad due to check engine gas and bad fuel filter when accelerating.,Fuel System Pressure Low,P0087,Fuel System
+C544,Can someone check the check engine gas and fuel system in cold weather.,Fuel System Pressure Low,P0087,Fuel System
+C545,I have a problem with check engine gas and sputtering fuel while driving.,Fuel System Pressure Low,P0087,Fuel System
+C546,My car has check engine gas and hard start gas when I start the car.,Fuel System Pressure Low,P0087,Fuel System
+C547,I have a problem with oxygen and sensor while driving.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C548,My car has oxygen and o2 when I start the car.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C549,Experiencing oxygen and lambda on the highway.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C550,Noticed that oxygen and emissions in the morning.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C551,The mechanic said oxygen and exhaust recently.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C552,Dashboard shows oxygen and rich and it is getting worse.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C553,Warning light for oxygen and lean which is dangerous.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C554,Lately my vehicle has oxygen and smell every time I drive.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C555,There is an issue with oxygen and unburnt,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C556,I am worried about oxygen and fuel trim after it rains.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C557,Seems like oxygen and catalytic during long trips.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C558,Hearing some noises regarding oxygen and rotten egg at low speeds.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C559,Just started noticing oxygen and poor mileage when braking.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C560,Driving feels bad due to sensor and oxygen when accelerating.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C561,Can someone check the sensor and o2 in cold weather.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C562,I have a problem with sensor and lambda while driving.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C563,My car has sensor and emissions when I start the car.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C564,Experiencing sensor and exhaust on the highway.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C565,Noticed that sensor and rich in the morning.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C566,The mechanic said sensor and lean recently.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C567,Dashboard shows sensor and smell and it is getting worse.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C568,Warning light for sensor and unburnt which is dangerous.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C569,Lately my vehicle has sensor and fuel trim every time I drive.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C570,There is an issue with sensor and catalytic,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C571,I am worried about sensor and rotten egg after it rains.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C572,Seems like sensor and poor mileage during long trips.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C573,Hearing some noises regarding o2 and oxygen at low speeds.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C574,Just started noticing o2 and sensor when braking.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C575,Driving feels bad due to o2 and lambda when accelerating.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C576,Can someone check the o2 and emissions in cold weather.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C577,I have a problem with o2 and exhaust while driving.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C578,My car has o2 and rich when I start the car.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C579,Experiencing o2 and lean on the highway.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C580,Noticed that o2 and smell in the morning.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C581,The mechanic said o2 and unburnt recently.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C582,Dashboard shows o2 and fuel trim and it is getting worse.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C583,Warning light for o2 and catalytic which is dangerous.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C584,Lately my vehicle has o2 and rotten egg every time I drive.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C585,There is an issue with o2 and poor mileage,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C586,I am worried about lambda and oxygen after it rains.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C587,Seems like lambda and sensor during long trips.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C588,Hearing some noises regarding lambda and o2 at low speeds.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C589,Just started noticing lambda and emissions when braking.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C590,Driving feels bad due to lambda and exhaust when accelerating.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C591,Can someone check the lambda and rich in cold weather.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C592,I have a problem with lambda and lean while driving.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C593,My car has lambda and smell when I start the car.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C594,Experiencing lambda and unburnt on the highway.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C595,Noticed that lambda and fuel trim in the morning.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C596,The mechanic said lambda and catalytic recently.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C597,Dashboard shows lambda and rotten egg and it is getting worse.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C598,Warning light for lambda and poor mileage which is dangerous.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C599,Lately my vehicle has emissions and oxygen every time I drive.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C600,There is an issue with emissions and sensor,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C601,I am worried about emissions and o2 after it rains.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C602,Seems like emissions and lambda during long trips.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C603,Hearing some noises regarding emissions and exhaust at low speeds.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C604,Just started noticing emissions and rich when braking.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C605,Driving feels bad due to emissions and lean when accelerating.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C606,Can someone check the emissions and smell in cold weather.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C607,I have a problem with emissions and unburnt while driving.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C608,My car has emissions and fuel trim when I start the car.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C609,Experiencing emissions and catalytic on the highway.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C610,Noticed that emissions and rotten egg in the morning.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C611,The mechanic said emissions and poor mileage recently.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C612,Dashboard shows exhaust and oxygen and it is getting worse.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C613,Warning light for exhaust and sensor which is dangerous.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C614,Lately my vehicle has exhaust and o2 every time I drive.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C615,There is an issue with exhaust and lambda,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C616,I am worried about exhaust and emissions after it rains.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C617,Seems like exhaust and rich during long trips.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C618,Hearing some noises regarding exhaust and lean at low speeds.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C619,Just started noticing exhaust and smell when braking.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C620,Driving feels bad due to exhaust and unburnt when accelerating.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C621,Can someone check the exhaust and fuel trim in cold weather.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C622,I have a problem with exhaust and catalytic while driving.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C623,My car has exhaust and rotten egg when I start the car.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C624,Experiencing exhaust and poor mileage on the highway.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C625,Noticed that rich and oxygen in the morning.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C626,The mechanic said rich and sensor recently.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C627,Dashboard shows rich and o2 and it is getting worse.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C628,Warning light for rich and lambda which is dangerous.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C629,Lately my vehicle has rich and emissions every time I drive.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C630,There is an issue with rich and exhaust,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C631,I am worried about rich and lean after it rains.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C632,Seems like rich and smell during long trips.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C633,Hearing some noises regarding rich and unburnt at low speeds.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C634,Just started noticing rich and fuel trim when braking.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C635,Driving feels bad due to rich and catalytic when accelerating.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C636,Can someone check the rich and rotten egg in cold weather.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C637,I have a problem with rich and poor mileage while driving.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C638,My car has lean and oxygen when I start the car.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C639,Experiencing lean and sensor on the highway.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C640,Noticed that lean and o2 in the morning.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C641,The mechanic said lean and lambda recently.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C642,Dashboard shows lean and emissions and it is getting worse.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C643,Warning light for lean and exhaust which is dangerous.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C644,Lately my vehicle has lean and rich every time I drive.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C645,There is an issue with lean and smell,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C646,I am worried about lean and unburnt after it rains.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C647,Seems like lean and fuel trim during long trips.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C648,Hearing some noises regarding lean and catalytic at low speeds.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C649,Just started noticing lean and rotten egg when braking.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C650,Driving feels bad due to lean and poor mileage when accelerating.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C651,Can someone check the smell and oxygen in cold weather.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C652,I have a problem with smell and sensor while driving.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C653,My car has smell and o2 when I start the car.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C654,Experiencing smell and lambda on the highway.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C655,Noticed that smell and emissions in the morning.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C656,The mechanic said smell and exhaust recently.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C657,Dashboard shows smell and rich and it is getting worse.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C658,Warning light for smell and lean which is dangerous.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C659,Lately my vehicle has smell and unburnt every time I drive.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C660,There is an issue with smell and fuel trim,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C661,I am worried about smell and catalytic after it rains.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C662,Seems like smell and rotten egg during long trips.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C663,Hearing some noises regarding smell and poor mileage at low speeds.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C664,Just started noticing unburnt and oxygen when braking.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C665,Driving feels bad due to unburnt and sensor when accelerating.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C666,Can someone check the unburnt and o2 in cold weather.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C667,I have a problem with unburnt and lambda while driving.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C668,My car has unburnt and emissions when I start the car.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C669,Experiencing unburnt and exhaust on the highway.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C670,Noticed that unburnt and rich in the morning.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C671,The mechanic said unburnt and lean recently.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C672,Dashboard shows unburnt and smell and it is getting worse.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C673,Warning light for unburnt and fuel trim which is dangerous.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C674,Lately my vehicle has unburnt and catalytic every time I drive.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C675,There is an issue with unburnt and rotten egg,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C676,I am worried about unburnt and poor mileage after it rains.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C677,Seems like fuel trim and oxygen during long trips.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C678,Hearing some noises regarding fuel trim and sensor at low speeds.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C679,Just started noticing fuel trim and o2 when braking.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C680,Driving feels bad due to fuel trim and lambda when accelerating.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C681,Can someone check the fuel trim and emissions in cold weather.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C682,I have a problem with fuel trim and exhaust while driving.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C683,My car has fuel trim and rich when I start the car.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C684,Experiencing fuel trim and lean on the highway.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C685,Noticed that fuel trim and smell in the morning.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C686,The mechanic said fuel trim and unburnt recently.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C687,Dashboard shows fuel trim and catalytic and it is getting worse.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C688,Warning light for fuel trim and rotten egg which is dangerous.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C689,Lately my vehicle has fuel trim and poor mileage every time I drive.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C690,There is an issue with catalytic and oxygen,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C691,I am worried about catalytic and sensor after it rains.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C692,Seems like catalytic and o2 during long trips.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C693,Hearing some noises regarding catalytic and lambda at low speeds.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C694,Just started noticing catalytic and emissions when braking.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C695,Driving feels bad due to catalytic and exhaust when accelerating.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C696,Can someone check the catalytic and rich in cold weather.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C697,I have a problem with catalytic and lean while driving.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C698,My car has catalytic and smell when I start the car.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C699,Experiencing catalytic and unburnt on the highway.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C700,Noticed that catalytic and fuel trim in the morning.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C701,The mechanic said catalytic and rotten egg recently.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C702,Dashboard shows catalytic and poor mileage and it is getting worse.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C703,Warning light for rotten egg and oxygen which is dangerous.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C704,Lately my vehicle has rotten egg and sensor every time I drive.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C705,There is an issue with rotten egg and o2,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C706,I am worried about rotten egg and lambda after it rains.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C707,Seems like rotten egg and emissions during long trips.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C708,Hearing some noises regarding rotten egg and exhaust at low speeds.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C709,Just started noticing rotten egg and rich when braking.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C710,Driving feels bad due to rotten egg and lean when accelerating.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C711,Can someone check the rotten egg and smell in cold weather.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C712,I have a problem with rotten egg and unburnt while driving.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C713,My car has rotten egg and fuel trim when I start the car.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C714,Experiencing rotten egg and catalytic on the highway.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C715,Noticed that rotten egg and poor mileage in the morning.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C716,The mechanic said poor mileage and oxygen recently.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C717,Dashboard shows poor mileage and sensor and it is getting worse.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C718,Warning light for poor mileage and o2 which is dangerous.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C719,Lately my vehicle has poor mileage and lambda every time I drive.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C720,There is an issue with poor mileage and emissions,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C721,I am worried about poor mileage and exhaust after it rains.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C722,Seems like poor mileage and rich during long trips.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C723,Hearing some noises regarding poor mileage and lean at low speeds.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C724,Just started noticing poor mileage and smell when braking.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C725,Driving feels bad due to poor mileage and unburnt when accelerating.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C726,Can someone check the poor mileage and fuel trim in cold weather.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C727,I have a problem with poor mileage and catalytic while driving.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C728,My car has poor mileage and rotten egg when I start the car.,Oxygen Sensor Fault,P0131,Emissions and Exhaust
+C729,I have a problem with brake and pad while driving.,Brake System Fault,P0571,Brakes
+C730,My car has brake and rotor when I start the car.,Brake System Fault,P0571,Brakes
+C731,Experiencing brake and caliper on the highway.,Brake System Fault,P0571,Brakes
+C732,Noticed that brake and fluid in the morning.,Brake System Fault,P0571,Brakes
+C733,The mechanic said brake and pedal recently.,Brake System Fault,P0571,Brakes
+C734,Dashboard shows brake and squeal and it is getting worse.,Brake System Fault,P0571,Brakes
+C735,Warning light for brake and grind which is dangerous.,Brake System Fault,P0571,Brakes
+C736,Lately my vehicle has brake and spongy every time I drive.,Brake System Fault,P0571,Brakes
+C737,There is an issue with brake and stop,Brake System Fault,P0571,Brakes
+C738,I am worried about brake and disc after it rains.,Brake System Fault,P0571,Brakes
+C739,Seems like brake and pulling braking during long trips.,Brake System Fault,P0571,Brakes
+C740,Hearing some noises regarding brake and shaking stopping at low speeds.,Brake System Fault,P0571,Brakes
+C741,Just started noticing brake and handbrake when braking.,Brake System Fault,P0571,Brakes
+C742,Driving feels bad due to pad and brake when accelerating.,Brake System Fault,P0571,Brakes
+C743,Can someone check the pad and rotor in cold weather.,Brake System Fault,P0571,Brakes
+C744,I have a problem with pad and caliper while driving.,Brake System Fault,P0571,Brakes
+C745,My car has pad and fluid when I start the car.,Brake System Fault,P0571,Brakes
+C746,Experiencing pad and pedal on the highway.,Brake System Fault,P0571,Brakes
+C747,Noticed that pad and squeal in the morning.,Brake System Fault,P0571,Brakes
+C748,The mechanic said pad and grind recently.,Brake System Fault,P0571,Brakes
+C749,Dashboard shows pad and spongy and it is getting worse.,Brake System Fault,P0571,Brakes
+C750,Warning light for pad and stop which is dangerous.,Brake System Fault,P0571,Brakes
+C751,Lately my vehicle has pad and disc every time I drive.,Brake System Fault,P0571,Brakes
+C752,There is an issue with pad and pulling braking,Brake System Fault,P0571,Brakes
+C753,I am worried about pad and shaking stopping after it rains.,Brake System Fault,P0571,Brakes
+C754,Seems like pad and handbrake during long trips.,Brake System Fault,P0571,Brakes
+C755,Hearing some noises regarding rotor and brake at low speeds.,Brake System Fault,P0571,Brakes
+C756,Just started noticing rotor and pad when braking.,Brake System Fault,P0571,Brakes
+C757,Driving feels bad due to rotor and caliper when accelerating.,Brake System Fault,P0571,Brakes
+C758,Can someone check the rotor and fluid in cold weather.,Brake System Fault,P0571,Brakes
+C759,I have a problem with rotor and pedal while driving.,Brake System Fault,P0571,Brakes
+C760,My car has rotor and squeal when I start the car.,Brake System Fault,P0571,Brakes
+C761,Experiencing rotor and grind on the highway.,Brake System Fault,P0571,Brakes
+C762,Noticed that rotor and spongy in the morning.,Brake System Fault,P0571,Brakes
+C763,The mechanic said rotor and stop recently.,Brake System Fault,P0571,Brakes
+C764,Dashboard shows rotor and disc and it is getting worse.,Brake System Fault,P0571,Brakes
+C765,Warning light for rotor and pulling braking which is dangerous.,Brake System Fault,P0571,Brakes
+C766,Lately my vehicle has rotor and shaking stopping every time I drive.,Brake System Fault,P0571,Brakes
+C767,There is an issue with rotor and handbrake,Brake System Fault,P0571,Brakes
+C768,I am worried about caliper and brake after it rains.,Brake System Fault,P0571,Brakes
+C769,Seems like caliper and pad during long trips.,Brake System Fault,P0571,Brakes
+C770,Hearing some noises regarding caliper and rotor at low speeds.,Brake System Fault,P0571,Brakes
+C771,Just started noticing caliper and fluid when braking.,Brake System Fault,P0571,Brakes
+C772,Driving feels bad due to caliper and pedal when accelerating.,Brake System Fault,P0571,Brakes
+C773,Can someone check the caliper and squeal in cold weather.,Brake System Fault,P0571,Brakes
+C774,I have a problem with caliper and grind while driving.,Brake System Fault,P0571,Brakes
+C775,My car has caliper and spongy when I start the car.,Brake System Fault,P0571,Brakes
+C776,Experiencing caliper and stop on the highway.,Brake System Fault,P0571,Brakes
+C777,Noticed that caliper and disc in the morning.,Brake System Fault,P0571,Brakes
+C778,The mechanic said caliper and pulling braking recently.,Brake System Fault,P0571,Brakes
+C779,Dashboard shows caliper and shaking stopping and it is getting worse.,Brake System Fault,P0571,Brakes
+C780,Warning light for caliper and handbrake which is dangerous.,Brake System Fault,P0571,Brakes
+C781,Lately my vehicle has fluid and brake every time I drive.,Brake System Fault,P0571,Brakes
+C782,There is an issue with fluid and pad,Brake System Fault,P0571,Brakes
+C783,I am worried about fluid and rotor after it rains.,Brake System Fault,P0571,Brakes
+C784,Seems like fluid and caliper during long trips.,Brake System Fault,P0571,Brakes
+C785,Hearing some noises regarding fluid and pedal at low speeds.,Brake System Fault,P0571,Brakes
+C786,Just started noticing fluid and squeal when braking.,Brake System Fault,P0571,Brakes
+C787,Driving feels bad due to fluid and grind when accelerating.,Brake System Fault,P0571,Brakes
+C788,Can someone check the fluid and spongy in cold weather.,Brake System Fault,P0571,Brakes
+C789,I have a problem with fluid and stop while driving.,Brake System Fault,P0571,Brakes
+C790,My car has fluid and disc when I start the car.,Brake System Fault,P0571,Brakes
+C791,Experiencing fluid and pulling braking on the highway.,Brake System Fault,P0571,Brakes
+C792,Noticed that fluid and shaking stopping in the morning.,Brake System Fault,P0571,Brakes
+C793,The mechanic said fluid and handbrake recently.,Brake System Fault,P0571,Brakes
+C794,Dashboard shows pedal and brake and it is getting worse.,Brake System Fault,P0571,Brakes
+C795,Warning light for pedal and pad which is dangerous.,Brake System Fault,P0571,Brakes
+C796,Lately my vehicle has pedal and rotor every time I drive.,Brake System Fault,P0571,Brakes
+C797,There is an issue with pedal and caliper,Brake System Fault,P0571,Brakes
+C798,I am worried about pedal and fluid after it rains.,Brake System Fault,P0571,Brakes
+C799,Seems like pedal and squeal during long trips.,Brake System Fault,P0571,Brakes
+C800,Hearing some noises regarding pedal and grind at low speeds.,Brake System Fault,P0571,Brakes
+C801,Just started noticing pedal and spongy when braking.,Brake System Fault,P0571,Brakes
+C802,Driving feels bad due to pedal and stop when accelerating.,Brake System Fault,P0571,Brakes
+C803,Can someone check the pedal and disc in cold weather.,Brake System Fault,P0571,Brakes
+C804,I have a problem with pedal and pulling braking while driving.,Brake System Fault,P0571,Brakes
+C805,My car has pedal and shaking stopping when I start the car.,Brake System Fault,P0571,Brakes
+C806,Experiencing pedal and handbrake on the highway.,Brake System Fault,P0571,Brakes
+C807,Noticed that squeal and brake in the morning.,Brake System Fault,P0571,Brakes
+C808,The mechanic said squeal and pad recently.,Brake System Fault,P0571,Brakes
+C809,Dashboard shows squeal and rotor and it is getting worse.,Brake System Fault,P0571,Brakes
+C810,Warning light for squeal and caliper which is dangerous.,Brake System Fault,P0571,Brakes
+C811,Lately my vehicle has squeal and fluid every time I drive.,Brake System Fault,P0571,Brakes
+C812,There is an issue with squeal and pedal,Brake System Fault,P0571,Brakes
+C813,I am worried about squeal and grind after it rains.,Brake System Fault,P0571,Brakes
+C814,Seems like squeal and spongy during long trips.,Brake System Fault,P0571,Brakes
+C815,Hearing some noises regarding squeal and stop at low speeds.,Brake System Fault,P0571,Brakes
+C816,Just started noticing squeal and disc when braking.,Brake System Fault,P0571,Brakes
+C817,Driving feels bad due to squeal and pulling braking when accelerating.,Brake System Fault,P0571,Brakes
+C818,Can someone check the squeal and shaking stopping in cold weather.,Brake System Fault,P0571,Brakes
+C819,I have a problem with squeal and handbrake while driving.,Brake System Fault,P0571,Brakes
+C820,My car has grind and brake when I start the car.,Brake System Fault,P0571,Brakes
+C821,Experiencing grind and pad on the highway.,Brake System Fault,P0571,Brakes
+C822,Noticed that grind and rotor in the morning.,Brake System Fault,P0571,Brakes
+C823,The mechanic said grind and caliper recently.,Brake System Fault,P0571,Brakes
+C824,Dashboard shows grind and fluid and it is getting worse.,Brake System Fault,P0571,Brakes
+C825,Warning light for grind and pedal which is dangerous.,Brake System Fault,P0571,Brakes
+C826,Lately my vehicle has grind and squeal every time I drive.,Brake System Fault,P0571,Brakes
+C827,There is an issue with grind and spongy,Brake System Fault,P0571,Brakes
+C828,I am worried about grind and stop after it rains.,Brake System Fault,P0571,Brakes
+C829,Seems like grind and disc during long trips.,Brake System Fault,P0571,Brakes
+C830,Hearing some noises regarding grind and pulling braking at low speeds.,Brake System Fault,P0571,Brakes
+C831,Just started noticing grind and shaking stopping when braking.,Brake System Fault,P0571,Brakes
+C832,Driving feels bad due to grind and handbrake when accelerating.,Brake System Fault,P0571,Brakes
+C833,Can someone check the spongy and brake in cold weather.,Brake System Fault,P0571,Brakes
+C834,I have a problem with spongy and pad while driving.,Brake System Fault,P0571,Brakes
+C835,My car has spongy and rotor when I start the car.,Brake System Fault,P0571,Brakes
+C836,Experiencing spongy and caliper on the highway.,Brake System Fault,P0571,Brakes
+C837,Noticed that spongy and fluid in the morning.,Brake System Fault,P0571,Brakes
+C838,The mechanic said spongy and pedal recently.,Brake System Fault,P0571,Brakes
+C839,Dashboard shows spongy and squeal and it is getting worse.,Brake System Fault,P0571,Brakes
+C840,Warning light for spongy and grind which is dangerous.,Brake System Fault,P0571,Brakes
+C841,Lately my vehicle has spongy and stop every time I drive.,Brake System Fault,P0571,Brakes
+C842,There is an issue with spongy and disc,Brake System Fault,P0571,Brakes
+C843,I am worried about spongy and pulling braking after it rains.,Brake System Fault,P0571,Brakes
+C844,Seems like spongy and shaking stopping during long trips.,Brake System Fault,P0571,Brakes
+C845,Hearing some noises regarding spongy and handbrake at low speeds.,Brake System Fault,P0571,Brakes
+C846,Just started noticing stop and brake when braking.,Brake System Fault,P0571,Brakes
+C847,Driving feels bad due to stop and pad when accelerating.,Brake System Fault,P0571,Brakes
+C848,Can someone check the stop and rotor in cold weather.,Brake System Fault,P0571,Brakes
+C849,I have a problem with stop and caliper while driving.,Brake System Fault,P0571,Brakes
+C850,My car has stop and fluid when I start the car.,Brake System Fault,P0571,Brakes
+C851,Experiencing stop and pedal on the highway.,Brake System Fault,P0571,Brakes
+C852,Noticed that stop and squeal in the morning.,Brake System Fault,P0571,Brakes
+C853,The mechanic said stop and grind recently.,Brake System Fault,P0571,Brakes
+C854,Dashboard shows stop and spongy and it is getting worse.,Brake System Fault,P0571,Brakes
+C855,Warning light for stop and disc which is dangerous.,Brake System Fault,P0571,Brakes
+C856,Lately my vehicle has stop and pulling braking every time I drive.,Brake System Fault,P0571,Brakes
+C857,There is an issue with stop and shaking stopping,Brake System Fault,P0571,Brakes
+C858,I am worried about stop and handbrake after it rains.,Brake System Fault,P0571,Brakes
+C859,Seems like disc and brake during long trips.,Brake System Fault,P0571,Brakes
+C860,Hearing some noises regarding disc and pad at low speeds.,Brake System Fault,P0571,Brakes
+C861,Just started noticing disc and rotor when braking.,Brake System Fault,P0571,Brakes
+C862,Driving feels bad due to disc and caliper when accelerating.,Brake System Fault,P0571,Brakes
+C863,Can someone check the disc and fluid in cold weather.,Brake System Fault,P0571,Brakes
+C864,I have a problem with disc and pedal while driving.,Brake System Fault,P0571,Brakes
+C865,My car has disc and squeal when I start the car.,Brake System Fault,P0571,Brakes
+C866,Experiencing disc and grind on the highway.,Brake System Fault,P0571,Brakes
+C867,Noticed that disc and spongy in the morning.,Brake System Fault,P0571,Brakes
+C868,The mechanic said disc and stop recently.,Brake System Fault,P0571,Brakes
+C869,Dashboard shows disc and pulling braking and it is getting worse.,Brake System Fault,P0571,Brakes
+C870,Warning light for disc and shaking stopping which is dangerous.,Brake System Fault,P0571,Brakes
+C871,Lately my vehicle has disc and handbrake every time I drive.,Brake System Fault,P0571,Brakes
+C872,There is an issue with pulling braking and brake,Brake System Fault,P0571,Brakes
+C873,I am worried about pulling braking and pad after it rains.,Brake System Fault,P0571,Brakes
+C874,Seems like pulling braking and rotor during long trips.,Brake System Fault,P0571,Brakes
+C875,Hearing some noises regarding pulling braking and caliper at low speeds.,Brake System Fault,P0571,Brakes
+C876,Just started noticing pulling braking and fluid when braking.,Brake System Fault,P0571,Brakes
+C877,Driving feels bad due to pulling braking and pedal when accelerating.,Brake System Fault,P0571,Brakes
+C878,Can someone check the pulling braking and squeal in cold weather.,Brake System Fault,P0571,Brakes
+C879,I have a problem with pulling braking and grind while driving.,Brake System Fault,P0571,Brakes
+C880,My car has pulling braking and spongy when I start the car.,Brake System Fault,P0571,Brakes
+C881,Experiencing pulling braking and stop on the highway.,Brake System Fault,P0571,Brakes
+C882,Noticed that pulling braking and disc in the morning.,Brake System Fault,P0571,Brakes
+C883,The mechanic said pulling braking and shaking stopping recently.,Brake System Fault,P0571,Brakes
+C884,Dashboard shows pulling braking and handbrake and it is getting worse.,Brake System Fault,P0571,Brakes
+C885,Warning light for shaking stopping and brake which is dangerous.,Brake System Fault,P0571,Brakes
+C886,Lately my vehicle has shaking stopping and pad every time I drive.,Brake System Fault,P0571,Brakes
+C887,There is an issue with shaking stopping and rotor,Brake System Fault,P0571,Brakes
+C888,I am worried about shaking stopping and caliper after it rains.,Brake System Fault,P0571,Brakes
+C889,Seems like shaking stopping and fluid during long trips.,Brake System Fault,P0571,Brakes
+C890,Hearing some noises regarding shaking stopping and pedal at low speeds.,Brake System Fault,P0571,Brakes
+C891,Just started noticing shaking stopping and squeal when braking.,Brake System Fault,P0571,Brakes
+C892,Driving feels bad due to shaking stopping and grind when accelerating.,Brake System Fault,P0571,Brakes
+C893,Can someone check the shaking stopping and spongy in cold weather.,Brake System Fault,P0571,Brakes
+C894,I have a problem with shaking stopping and stop while driving.,Brake System Fault,P0571,Brakes
+C895,My car has shaking stopping and disc when I start the car.,Brake System Fault,P0571,Brakes
+C896,Experiencing shaking stopping and pulling braking on the highway.,Brake System Fault,P0571,Brakes
+C897,Noticed that shaking stopping and handbrake in the morning.,Brake System Fault,P0571,Brakes
+C898,The mechanic said handbrake and brake recently.,Brake System Fault,P0571,Brakes
+C899,Dashboard shows handbrake and pad and it is getting worse.,Brake System Fault,P0571,Brakes
+C900,Warning light for handbrake and rotor which is dangerous.,Brake System Fault,P0571,Brakes
+C901,Lately my vehicle has handbrake and caliper every time I drive.,Brake System Fault,P0571,Brakes
+C902,There is an issue with handbrake and fluid,Brake System Fault,P0571,Brakes
+C903,I am worried about handbrake and pedal after it rains.,Brake System Fault,P0571,Brakes
+C904,Seems like handbrake and squeal during long trips.,Brake System Fault,P0571,Brakes
+C905,Hearing some noises regarding handbrake and grind at low speeds.,Brake System Fault,P0571,Brakes
+C906,Just started noticing handbrake and spongy when braking.,Brake System Fault,P0571,Brakes
+C907,Driving feels bad due to handbrake and stop when accelerating.,Brake System Fault,P0571,Brakes
+C908,Can someone check the handbrake and disc in cold weather.,Brake System Fault,P0571,Brakes
+C909,I have a problem with handbrake and pulling braking while driving.,Brake System Fault,P0571,Brakes
+C910,My car has handbrake and shaking stopping when I start the car.,Brake System Fault,P0571,Brakes
+C911,I have a problem with transmission and gear while driving.,Transmission Fault,P0700,Transmission
+C912,My car has transmission and shift when I start the car.,Transmission Fault,P0700,Transmission
+C913,Experiencing transmission and slip on the highway.,Transmission Fault,P0700,Transmission
+C914,Noticed that transmission and clutch in the morning.,Transmission Fault,P0700,Transmission
+C915,The mechanic said transmission and automatic recently.,Transmission Fault,P0700,Transmission
+C916,Dashboard shows transmission and manual and it is getting worse.,Transmission Fault,P0700,Transmission
+C917,Warning light for transmission and torque which is dangerous.,Transmission Fault,P0700,Transmission
+C918,Lately my vehicle has transmission and converter every time I drive.,Transmission Fault,P0700,Transmission
+C919,There is an issue with transmission and jerk,Transmission Fault,P0700,Transmission
+C920,I am worried about transmission and fluid red after it rains.,Transmission Fault,P0700,Transmission
+C921,Seems like transmission and delayed engagement during long trips.,Transmission Fault,P0700,Transmission
+C922,Hearing some noises regarding transmission and hard shift at low speeds.,Transmission Fault,P0700,Transmission
+C923,Just started noticing transmission and stuck gear when braking.,Transmission Fault,P0700,Transmission
+C924,Driving feels bad due to gear and transmission when accelerating.,Transmission Fault,P0700,Transmission
+C925,Can someone check the gear and shift in cold weather.,Transmission Fault,P0700,Transmission
+C926,I have a problem with gear and slip while driving.,Transmission Fault,P0700,Transmission
+C927,My car has gear and clutch when I start the car.,Transmission Fault,P0700,Transmission
+C928,Experiencing gear and automatic on the highway.,Transmission Fault,P0700,Transmission
+C929,Noticed that gear and manual in the morning.,Transmission Fault,P0700,Transmission
+C930,The mechanic said gear and torque recently.,Transmission Fault,P0700,Transmission
+C931,Dashboard shows gear and converter and it is getting worse.,Transmission Fault,P0700,Transmission
+C932,Warning light for gear and jerk which is dangerous.,Transmission Fault,P0700,Transmission
+C933,Lately my vehicle has gear and fluid red every time I drive.,Transmission Fault,P0700,Transmission
+C934,There is an issue with gear and delayed engagement,Transmission Fault,P0700,Transmission
+C935,I am worried about gear and hard shift after it rains.,Transmission Fault,P0700,Transmission
+C936,Seems like gear and stuck gear during long trips.,Transmission Fault,P0700,Transmission
+C937,Hearing some noises regarding shift and transmission at low speeds.,Transmission Fault,P0700,Transmission
+C938,Just started noticing shift and gear when braking.,Transmission Fault,P0700,Transmission
+C939,Driving feels bad due to shift and slip when accelerating.,Transmission Fault,P0700,Transmission
+C940,Can someone check the shift and clutch in cold weather.,Transmission Fault,P0700,Transmission
+C941,I have a problem with shift and automatic while driving.,Transmission Fault,P0700,Transmission
+C942,My car has shift and manual when I start the car.,Transmission Fault,P0700,Transmission
+C943,Experiencing shift and torque on the highway.,Transmission Fault,P0700,Transmission
+C944,Noticed that shift and converter in the morning.,Transmission Fault,P0700,Transmission
+C945,The mechanic said shift and jerk recently.,Transmission Fault,P0700,Transmission
+C946,Dashboard shows shift and fluid red and it is getting worse.,Transmission Fault,P0700,Transmission
+C947,Warning light for shift and delayed engagement which is dangerous.,Transmission Fault,P0700,Transmission
+C948,Lately my vehicle has shift and hard shift every time I drive.,Transmission Fault,P0700,Transmission
+C949,There is an issue with shift and stuck gear,Transmission Fault,P0700,Transmission
+C950,I am worried about slip and transmission after it rains.,Transmission Fault,P0700,Transmission
+C951,Seems like slip and gear during long trips.,Transmission Fault,P0700,Transmission
+C952,Hearing some noises regarding slip and shift at low speeds.,Transmission Fault,P0700,Transmission
+C953,Just started noticing slip and clutch when braking.,Transmission Fault,P0700,Transmission
+C954,Driving feels bad due to slip and automatic when accelerating.,Transmission Fault,P0700,Transmission
+C955,Can someone check the slip and manual in cold weather.,Transmission Fault,P0700,Transmission
+C956,I have a problem with slip and torque while driving.,Transmission Fault,P0700,Transmission
+C957,My car has slip and converter when I start the car.,Transmission Fault,P0700,Transmission
+C958,Experiencing slip and jerk on the highway.,Transmission Fault,P0700,Transmission
+C959,Noticed that slip and fluid red in the morning.,Transmission Fault,P0700,Transmission
+C960,The mechanic said slip and delayed engagement recently.,Transmission Fault,P0700,Transmission
+C961,Dashboard shows slip and hard shift and it is getting worse.,Transmission Fault,P0700,Transmission
+C962,Warning light for slip and stuck gear which is dangerous.,Transmission Fault,P0700,Transmission
+C963,Lately my vehicle has clutch and transmission every time I drive.,Transmission Fault,P0700,Transmission
+C964,There is an issue with clutch and gear,Transmission Fault,P0700,Transmission
+C965,I am worried about clutch and shift after it rains.,Transmission Fault,P0700,Transmission
+C966,Seems like clutch and slip during long trips.,Transmission Fault,P0700,Transmission
+C967,Hearing some noises regarding clutch and automatic at low speeds.,Transmission Fault,P0700,Transmission
+C968,Just started noticing clutch and manual when braking.,Transmission Fault,P0700,Transmission
+C969,Driving feels bad due to clutch and torque when accelerating.,Transmission Fault,P0700,Transmission
+C970,Can someone check the clutch and converter in cold weather.,Transmission Fault,P0700,Transmission
+C971,I have a problem with clutch and jerk while driving.,Transmission Fault,P0700,Transmission
+C972,My car has clutch and fluid red when I start the car.,Transmission Fault,P0700,Transmission
+C973,Experiencing clutch and delayed engagement on the highway.,Transmission Fault,P0700,Transmission
+C974,Noticed that clutch and hard shift in the morning.,Transmission Fault,P0700,Transmission
+C975,The mechanic said clutch and stuck gear recently.,Transmission Fault,P0700,Transmission
+C976,Dashboard shows automatic and transmission and it is getting worse.,Transmission Fault,P0700,Transmission
+C977,Warning light for automatic and gear which is dangerous.,Transmission Fault,P0700,Transmission
+C978,Lately my vehicle has automatic and shift every time I drive.,Transmission Fault,P0700,Transmission
+C979,There is an issue with automatic and slip,Transmission Fault,P0700,Transmission
+C980,I am worried about automatic and clutch after it rains.,Transmission Fault,P0700,Transmission
+C981,Seems like automatic and manual during long trips.,Transmission Fault,P0700,Transmission
+C982,Hearing some noises regarding automatic and torque at low speeds.,Transmission Fault,P0700,Transmission
+C983,Just started noticing automatic and converter when braking.,Transmission Fault,P0700,Transmission
+C984,Driving feels bad due to automatic and jerk when accelerating.,Transmission Fault,P0700,Transmission
+C985,Can someone check the automatic and fluid red in cold weather.,Transmission Fault,P0700,Transmission
+C986,I have a problem with automatic and delayed engagement while driving.,Transmission Fault,P0700,Transmission
+C987,My car has automatic and hard shift when I start the car.,Transmission Fault,P0700,Transmission
+C988,Experiencing automatic and stuck gear on the highway.,Transmission Fault,P0700,Transmission
+C989,Noticed that manual and transmission in the morning.,Transmission Fault,P0700,Transmission
+C990,The mechanic said manual and gear recently.,Transmission Fault,P0700,Transmission
+C991,Dashboard shows manual and shift and it is getting worse.,Transmission Fault,P0700,Transmission
+C992,Warning light for manual and slip which is dangerous.,Transmission Fault,P0700,Transmission
+C993,Lately my vehicle has manual and clutch every time I drive.,Transmission Fault,P0700,Transmission
+C994,There is an issue with manual and automatic,Transmission Fault,P0700,Transmission
+C995,I am worried about manual and torque after it rains.,Transmission Fault,P0700,Transmission
+C996,Seems like manual and converter during long trips.,Transmission Fault,P0700,Transmission
+C997,Hearing some noises regarding manual and jerk at low speeds.,Transmission Fault,P0700,Transmission
+C998,Just started noticing manual and fluid red when braking.,Transmission Fault,P0700,Transmission
+C999,Driving feels bad due to manual and delayed engagement when accelerating.,Transmission Fault,P0700,Transmission
+C1000,Can someone check the manual and hard shift in cold weather.,Transmission Fault,P0700,Transmission
+C1001,I have a problem with manual and stuck gear while driving.,Transmission Fault,P0700,Transmission
+C1002,My car has torque and transmission when I start the car.,Transmission Fault,P0700,Transmission
+C1003,Experiencing torque and gear on the highway.,Transmission Fault,P0700,Transmission
+C1004,Noticed that torque and shift in the morning.,Transmission Fault,P0700,Transmission
+C1005,The mechanic said torque and slip recently.,Transmission Fault,P0700,Transmission
+C1006,Dashboard shows torque and clutch and it is getting worse.,Transmission Fault,P0700,Transmission
+C1007,Warning light for torque and automatic which is dangerous.,Transmission Fault,P0700,Transmission
+C1008,Lately my vehicle has torque and manual every time I drive.,Transmission Fault,P0700,Transmission
+C1009,There is an issue with torque and converter,Transmission Fault,P0700,Transmission
+C1010,I am worried about torque and jerk after it rains.,Transmission Fault,P0700,Transmission
+C1011,Seems like torque and fluid red during long trips.,Transmission Fault,P0700,Transmission
+C1012,Hearing some noises regarding torque and delayed engagement at low speeds.,Transmission Fault,P0700,Transmission
+C1013,Just started noticing torque and hard shift when braking.,Transmission Fault,P0700,Transmission
+C1014,Driving feels bad due to torque and stuck gear when accelerating.,Transmission Fault,P0700,Transmission
+C1015,Can someone check the converter and transmission in cold weather.,Transmission Fault,P0700,Transmission
+C1016,I have a problem with converter and gear while driving.,Transmission Fault,P0700,Transmission
+C1017,My car has converter and shift when I start the car.,Transmission Fault,P0700,Transmission
+C1018,Experiencing converter and slip on the highway.,Transmission Fault,P0700,Transmission
+C1019,Noticed that converter and clutch in the morning.,Transmission Fault,P0700,Transmission
+C1020,The mechanic said converter and automatic recently.,Transmission Fault,P0700,Transmission
+C1021,Dashboard shows converter and manual and it is getting worse.,Transmission Fault,P0700,Transmission
+C1022,Warning light for converter and torque which is dangerous.,Transmission Fault,P0700,Transmission
+C1023,Lately my vehicle has converter and jerk every time I drive.,Transmission Fault,P0700,Transmission
+C1024,There is an issue with converter and fluid red,Transmission Fault,P0700,Transmission
+C1025,I am worried about converter and delayed engagement after it rains.,Transmission Fault,P0700,Transmission
+C1026,Seems like converter and hard shift during long trips.,Transmission Fault,P0700,Transmission
+C1027,Hearing some noises regarding converter and stuck gear at low speeds.,Transmission Fault,P0700,Transmission
+C1028,Just started noticing jerk and transmission when braking.,Transmission Fault,P0700,Transmission
+C1029,Driving feels bad due to jerk and gear when accelerating.,Transmission Fault,P0700,Transmission
+C1030,Can someone check the jerk and shift in cold weather.,Transmission Fault,P0700,Transmission
+C1031,I have a problem with jerk and slip while driving.,Transmission Fault,P0700,Transmission
+C1032,My car has jerk and clutch when I start the car.,Transmission Fault,P0700,Transmission
+C1033,Experiencing jerk and automatic on the highway.,Transmission Fault,P0700,Transmission
+C1034,Noticed that jerk and manual in the morning.,Transmission Fault,P0700,Transmission
+C1035,The mechanic said jerk and torque recently.,Transmission Fault,P0700,Transmission
+C1036,Dashboard shows jerk and converter and it is getting worse.,Transmission Fault,P0700,Transmission
+C1037,Warning light for jerk and fluid red which is dangerous.,Transmission Fault,P0700,Transmission
+C1038,Lately my vehicle has jerk and delayed engagement every time I drive.,Transmission Fault,P0700,Transmission
+C1039,There is an issue with jerk and hard shift,Transmission Fault,P0700,Transmission
+C1040,I am worried about jerk and stuck gear after it rains.,Transmission Fault,P0700,Transmission
+C1041,Seems like fluid red and transmission during long trips.,Transmission Fault,P0700,Transmission
+C1042,Hearing some noises regarding fluid red and gear at low speeds.,Transmission Fault,P0700,Transmission
+C1043,Just started noticing fluid red and shift when braking.,Transmission Fault,P0700,Transmission
+C1044,Driving feels bad due to fluid red and slip when accelerating.,Transmission Fault,P0700,Transmission
+C1045,Can someone check the fluid red and clutch in cold weather.,Transmission Fault,P0700,Transmission
+C1046,I have a problem with fluid red and automatic while driving.,Transmission Fault,P0700,Transmission
+C1047,My car has fluid red and manual when I start the car.,Transmission Fault,P0700,Transmission
+C1048,Experiencing fluid red and torque on the highway.,Transmission Fault,P0700,Transmission
+C1049,Noticed that fluid red and converter in the morning.,Transmission Fault,P0700,Transmission
+C1050,The mechanic said fluid red and jerk recently.,Transmission Fault,P0700,Transmission
+C1051,Dashboard shows fluid red and delayed engagement and it is getting worse.,Transmission Fault,P0700,Transmission
+C1052,Warning light for fluid red and hard shift which is dangerous.,Transmission Fault,P0700,Transmission
+C1053,Lately my vehicle has fluid red and stuck gear every time I drive.,Transmission Fault,P0700,Transmission
+C1054,There is an issue with delayed engagement and transmission,Transmission Fault,P0700,Transmission
+C1055,I am worried about delayed engagement and gear after it rains.,Transmission Fault,P0700,Transmission
+C1056,Seems like delayed engagement and shift during long trips.,Transmission Fault,P0700,Transmission
+C1057,Hearing some noises regarding delayed engagement and slip at low speeds.,Transmission Fault,P0700,Transmission
+C1058,Just started noticing delayed engagement and clutch when braking.,Transmission Fault,P0700,Transmission
+C1059,Driving feels bad due to delayed engagement and automatic when accelerating.,Transmission Fault,P0700,Transmission
+C1060,Can someone check the delayed engagement and manual in cold weather.,Transmission Fault,P0700,Transmission
+C1061,I have a problem with delayed engagement and torque while driving.,Transmission Fault,P0700,Transmission
+C1062,My car has delayed engagement and converter when I start the car.,Transmission Fault,P0700,Transmission
+C1063,Experiencing delayed engagement and jerk on the highway.,Transmission Fault,P0700,Transmission
+C1064,Noticed that delayed engagement and fluid red in the morning.,Transmission Fault,P0700,Transmission
+C1065,The mechanic said delayed engagement and hard shift recently.,Transmission Fault,P0700,Transmission
+C1066,Dashboard shows delayed engagement and stuck gear and it is getting worse.,Transmission Fault,P0700,Transmission
+C1067,Warning light for hard shift and transmission which is dangerous.,Transmission Fault,P0700,Transmission
+C1068,Lately my vehicle has hard shift and gear every time I drive.,Transmission Fault,P0700,Transmission
+C1069,There is an issue with hard shift and shift,Transmission Fault,P0700,Transmission
+C1070,I am worried about hard shift and slip after it rains.,Transmission Fault,P0700,Transmission
+C1071,Seems like hard shift and clutch during long trips.,Transmission Fault,P0700,Transmission
+C1072,Hearing some noises regarding hard shift and automatic at low speeds.,Transmission Fault,P0700,Transmission
+C1073,Just started noticing hard shift and manual when braking.,Transmission Fault,P0700,Transmission
+C1074,Driving feels bad due to hard shift and torque when accelerating.,Transmission Fault,P0700,Transmission
+C1075,Can someone check the hard shift and converter in cold weather.,Transmission Fault,P0700,Transmission
+C1076,I have a problem with hard shift and jerk while driving.,Transmission Fault,P0700,Transmission
+C1077,My car has hard shift and fluid red when I start the car.,Transmission Fault,P0700,Transmission
+C1078,Experiencing hard shift and delayed engagement on the highway.,Transmission Fault,P0700,Transmission
+C1079,Noticed that hard shift and stuck gear in the morning.,Transmission Fault,P0700,Transmission
+C1080,The mechanic said stuck gear and transmission recently.,Transmission Fault,P0700,Transmission
+C1081,Dashboard shows stuck gear and gear and it is getting worse.,Transmission Fault,P0700,Transmission
+C1082,Warning light for stuck gear and shift which is dangerous.,Transmission Fault,P0700,Transmission
+C1083,Lately my vehicle has stuck gear and slip every time I drive.,Transmission Fault,P0700,Transmission
+C1084,There is an issue with stuck gear and clutch,Transmission Fault,P0700,Transmission
+C1085,I am worried about stuck gear and automatic after it rains.,Transmission Fault,P0700,Transmission
+C1086,Seems like stuck gear and manual during long trips.,Transmission Fault,P0700,Transmission
+C1087,Hearing some noises regarding stuck gear and torque at low speeds.,Transmission Fault,P0700,Transmission
+C1088,Just started noticing stuck gear and converter when braking.,Transmission Fault,P0700,Transmission
+C1089,Driving feels bad due to stuck gear and jerk when accelerating.,Transmission Fault,P0700,Transmission
+C1090,Can someone check the stuck gear and fluid red in cold weather.,Transmission Fault,P0700,Transmission
+C1091,I have a problem with stuck gear and delayed engagement while driving.,Transmission Fault,P0700,Transmission
+C1092,My car has stuck gear and hard shift when I start the car.,Transmission Fault,P0700,Transmission
+C1093,I have a problem with misfire and spark while driving.,Engine Misfire,P0300,Engine
+C1094,My car has misfire and plug when I start the car.,Engine Misfire,P0300,Engine
+C1095,Experiencing misfire and coil on the highway.,Engine Misfire,P0300,Engine
+C1096,Noticed that misfire and cylinder in the morning.,Engine Misfire,P0300,Engine
+C1097,The mechanic said misfire and shake recently.,Engine Misfire,P0300,Engine
+C1098,Dashboard shows misfire and vibrate and it is getting worse.,Engine Misfire,P0300,Engine
+C1099,Warning light for misfire and rough idle which is dangerous.,Engine Misfire,P0300,Engine
+C1100,Lately my vehicle has misfire and buck every time I drive.,Engine Misfire,P0300,Engine
+C1101,There is an issue with misfire and surge,Engine Misfire,P0300,Engine
+C1102,I am worried about misfire and ignition after it rains.,Engine Misfire,P0300,Engine
+C1103,Seems like misfire and engine light flashing during long trips.,Engine Misfire,P0300,Engine
+C1104,Hearing some noises regarding misfire and stumble at low speeds.,Engine Misfire,P0300,Engine
+C1105,Just started noticing misfire and pop exhaust when braking.,Engine Misfire,P0300,Engine
+C1106,Driving feels bad due to spark and misfire when accelerating.,Engine Misfire,P0300,Engine
+C1107,Can someone check the spark and plug in cold weather.,Engine Misfire,P0300,Engine
+C1108,I have a problem with spark and coil while driving.,Engine Misfire,P0300,Engine
+C1109,My car has spark and cylinder when I start the car.,Engine Misfire,P0300,Engine
+C1110,Experiencing spark and shake on the highway.,Engine Misfire,P0300,Engine
+C1111,Noticed that spark and vibrate in the morning.,Engine Misfire,P0300,Engine
+C1112,The mechanic said spark and rough idle recently.,Engine Misfire,P0300,Engine
+C1113,Dashboard shows spark and buck and it is getting worse.,Engine Misfire,P0300,Engine
+C1114,Warning light for spark and surge which is dangerous.,Engine Misfire,P0300,Engine
+C1115,Lately my vehicle has spark and ignition every time I drive.,Engine Misfire,P0300,Engine
+C1116,There is an issue with spark and engine light flashing,Engine Misfire,P0300,Engine
+C1117,I am worried about spark and stumble after it rains.,Engine Misfire,P0300,Engine
+C1118,Seems like spark and pop exhaust during long trips.,Engine Misfire,P0300,Engine
+C1119,Hearing some noises regarding plug and misfire at low speeds.,Engine Misfire,P0300,Engine
+C1120,Just started noticing plug and spark when braking.,Engine Misfire,P0300,Engine
+C1121,Driving feels bad due to plug and coil when accelerating.,Engine Misfire,P0300,Engine
+C1122,Can someone check the plug and cylinder in cold weather.,Engine Misfire,P0300,Engine
+C1123,I have a problem with plug and shake while driving.,Engine Misfire,P0300,Engine
+C1124,My car has plug and vibrate when I start the car.,Engine Misfire,P0300,Engine
+C1125,Experiencing plug and rough idle on the highway.,Engine Misfire,P0300,Engine
+C1126,Noticed that plug and buck in the morning.,Engine Misfire,P0300,Engine
+C1127,The mechanic said plug and surge recently.,Engine Misfire,P0300,Engine
+C1128,Dashboard shows plug and ignition and it is getting worse.,Engine Misfire,P0300,Engine
+C1129,Warning light for plug and engine light flashing which is dangerous.,Engine Misfire,P0300,Engine
+C1130,Lately my vehicle has plug and stumble every time I drive.,Engine Misfire,P0300,Engine
+C1131,There is an issue with plug and pop exhaust,Engine Misfire,P0300,Engine
+C1132,I am worried about coil and misfire after it rains.,Engine Misfire,P0300,Engine
+C1133,Seems like coil and spark during long trips.,Engine Misfire,P0300,Engine
+C1134,Hearing some noises regarding coil and plug at low speeds.,Engine Misfire,P0300,Engine
+C1135,Just started noticing coil and cylinder when braking.,Engine Misfire,P0300,Engine
+C1136,Driving feels bad due to coil and shake when accelerating.,Engine Misfire,P0300,Engine
+C1137,Can someone check the coil and vibrate in cold weather.,Engine Misfire,P0300,Engine
+C1138,I have a problem with coil and rough idle while driving.,Engine Misfire,P0300,Engine
+C1139,My car has coil and buck when I start the car.,Engine Misfire,P0300,Engine
+C1140,Experiencing coil and surge on the highway.,Engine Misfire,P0300,Engine
+C1141,Noticed that coil and ignition in the morning.,Engine Misfire,P0300,Engine
+C1142,The mechanic said coil and engine light flashing recently.,Engine Misfire,P0300,Engine
+C1143,Dashboard shows coil and stumble and it is getting worse.,Engine Misfire,P0300,Engine
+C1144,Warning light for coil and pop exhaust which is dangerous.,Engine Misfire,P0300,Engine
+C1145,Lately my vehicle has cylinder and misfire every time I drive.,Engine Misfire,P0300,Engine
+C1146,There is an issue with cylinder and spark,Engine Misfire,P0300,Engine
+C1147,I am worried about cylinder and plug after it rains.,Engine Misfire,P0300,Engine
+C1148,Seems like cylinder and coil during long trips.,Engine Misfire,P0300,Engine
+C1149,Hearing some noises regarding cylinder and shake at low speeds.,Engine Misfire,P0300,Engine
+C1150,Just started noticing cylinder and vibrate when braking.,Engine Misfire,P0300,Engine
+C1151,Driving feels bad due to cylinder and rough idle when accelerating.,Engine Misfire,P0300,Engine
+C1152,Can someone check the cylinder and buck in cold weather.,Engine Misfire,P0300,Engine
+C1153,I have a problem with cylinder and surge while driving.,Engine Misfire,P0300,Engine
+C1154,My car has cylinder and ignition when I start the car.,Engine Misfire,P0300,Engine
+C1155,Experiencing cylinder and engine light flashing on the highway.,Engine Misfire,P0300,Engine
+C1156,Noticed that cylinder and stumble in the morning.,Engine Misfire,P0300,Engine
+C1157,The mechanic said cylinder and pop exhaust recently.,Engine Misfire,P0300,Engine
+C1158,Dashboard shows shake and misfire and it is getting worse.,Engine Misfire,P0300,Engine
+C1159,Warning light for shake and spark which is dangerous.,Engine Misfire,P0300,Engine
+C1160,Lately my vehicle has shake and plug every time I drive.,Engine Misfire,P0300,Engine
+C1161,There is an issue with shake and coil,Engine Misfire,P0300,Engine
+C1162,I am worried about shake and cylinder after it rains.,Engine Misfire,P0300,Engine
+C1163,Seems like shake and vibrate during long trips.,Engine Misfire,P0300,Engine
+C1164,Hearing some noises regarding shake and rough idle at low speeds.,Engine Misfire,P0300,Engine
+C1165,Just started noticing shake and buck when braking.,Engine Misfire,P0300,Engine
+C1166,Driving feels bad due to shake and surge when accelerating.,Engine Misfire,P0300,Engine
+C1167,Can someone check the shake and ignition in cold weather.,Engine Misfire,P0300,Engine
+C1168,I have a problem with shake and engine light flashing while driving.,Engine Misfire,P0300,Engine
+C1169,My car has shake and stumble when I start the car.,Engine Misfire,P0300,Engine
+C1170,Experiencing shake and pop exhaust on the highway.,Engine Misfire,P0300,Engine
+C1171,Noticed that vibrate and misfire in the morning.,Engine Misfire,P0300,Engine
+C1172,The mechanic said vibrate and spark recently.,Engine Misfire,P0300,Engine
+C1173,Dashboard shows vibrate and plug and it is getting worse.,Engine Misfire,P0300,Engine
+C1174,Warning light for vibrate and coil which is dangerous.,Engine Misfire,P0300,Engine
+C1175,Lately my vehicle has vibrate and cylinder every time I drive.,Engine Misfire,P0300,Engine
+C1176,There is an issue with vibrate and shake,Engine Misfire,P0300,Engine
+C1177,I am worried about vibrate and rough idle after it rains.,Engine Misfire,P0300,Engine
+C1178,Seems like vibrate and buck during long trips.,Engine Misfire,P0300,Engine
+C1179,Hearing some noises regarding vibrate and surge at low speeds.,Engine Misfire,P0300,Engine
+C1180,Just started noticing vibrate and ignition when braking.,Engine Misfire,P0300,Engine
+C1181,Driving feels bad due to vibrate and engine light flashing when accelerating.,Engine Misfire,P0300,Engine
+C1182,Can someone check the vibrate and stumble in cold weather.,Engine Misfire,P0300,Engine
+C1183,I have a problem with vibrate and pop exhaust while driving.,Engine Misfire,P0300,Engine
+C1184,My car has rough idle and misfire when I start the car.,Engine Misfire,P0300,Engine
+C1185,Experiencing rough idle and spark on the highway.,Engine Misfire,P0300,Engine
+C1186,Noticed that rough idle and plug in the morning.,Engine Misfire,P0300,Engine
+C1187,The mechanic said rough idle and coil recently.,Engine Misfire,P0300,Engine
+C1188,Dashboard shows rough idle and cylinder and it is getting worse.,Engine Misfire,P0300,Engine
+C1189,Warning light for rough idle and shake which is dangerous.,Engine Misfire,P0300,Engine
+C1190,Lately my vehicle has rough idle and vibrate every time I drive.,Engine Misfire,P0300,Engine
+C1191,There is an issue with rough idle and buck,Engine Misfire,P0300,Engine
+C1192,I am worried about rough idle and surge after it rains.,Engine Misfire,P0300,Engine
+C1193,Seems like rough idle and ignition during long trips.,Engine Misfire,P0300,Engine
+C1194,Hearing some noises regarding rough idle and engine light flashing at low speeds.,Engine Misfire,P0300,Engine
+C1195,Just started noticing rough idle and stumble when braking.,Engine Misfire,P0300,Engine
+C1196,Driving feels bad due to rough idle and pop exhaust when accelerating.,Engine Misfire,P0300,Engine
+C1197,Can someone check the buck and misfire in cold weather.,Engine Misfire,P0300,Engine
+C1198,I have a problem with buck and spark while driving.,Engine Misfire,P0300,Engine
+C1199,My car has buck and plug when I start the car.,Engine Misfire,P0300,Engine
+C1200,Experiencing buck and coil on the highway.,Engine Misfire,P0300,Engine
+C1201,Noticed that buck and cylinder in the morning.,Engine Misfire,P0300,Engine
+C1202,The mechanic said buck and shake recently.,Engine Misfire,P0300,Engine
+C1203,Dashboard shows buck and vibrate and it is getting worse.,Engine Misfire,P0300,Engine
+C1204,Warning light for buck and rough idle which is dangerous.,Engine Misfire,P0300,Engine
+C1205,Lately my vehicle has buck and surge every time I drive.,Engine Misfire,P0300,Engine
+C1206,There is an issue with buck and ignition,Engine Misfire,P0300,Engine
+C1207,I am worried about buck and engine light flashing after it rains.,Engine Misfire,P0300,Engine
+C1208,Seems like buck and stumble during long trips.,Engine Misfire,P0300,Engine
+C1209,Hearing some noises regarding buck and pop exhaust at low speeds.,Engine Misfire,P0300,Engine
+C1210,Just started noticing surge and misfire when braking.,Engine Misfire,P0300,Engine
+C1211,Driving feels bad due to surge and spark when accelerating.,Engine Misfire,P0300,Engine
+C1212,Can someone check the surge and plug in cold weather.,Engine Misfire,P0300,Engine
+C1213,I have a problem with surge and coil while driving.,Engine Misfire,P0300,Engine
+C1214,My car has surge and cylinder when I start the car.,Engine Misfire,P0300,Engine
+C1215,Experiencing surge and shake on the highway.,Engine Misfire,P0300,Engine
+C1216,Noticed that surge and vibrate in the morning.,Engine Misfire,P0300,Engine
+C1217,The mechanic said surge and rough idle recently.,Engine Misfire,P0300,Engine
+C1218,Dashboard shows surge and buck and it is getting worse.,Engine Misfire,P0300,Engine
+C1219,Warning light for surge and ignition which is dangerous.,Engine Misfire,P0300,Engine
+C1220,Lately my vehicle has surge and engine light flashing every time I drive.,Engine Misfire,P0300,Engine
+C1221,There is an issue with surge and stumble,Engine Misfire,P0300,Engine
+C1222,I am worried about surge and pop exhaust after it rains.,Engine Misfire,P0300,Engine
+C1223,Seems like ignition and misfire during long trips.,Engine Misfire,P0300,Engine
+C1224,Hearing some noises regarding ignition and spark at low speeds.,Engine Misfire,P0300,Engine
+C1225,Just started noticing ignition and plug when braking.,Engine Misfire,P0300,Engine
+C1226,Driving feels bad due to ignition and coil when accelerating.,Engine Misfire,P0300,Engine
+C1227,Can someone check the ignition and cylinder in cold weather.,Engine Misfire,P0300,Engine
+C1228,I have a problem with ignition and shake while driving.,Engine Misfire,P0300,Engine
+C1229,My car has ignition and vibrate when I start the car.,Engine Misfire,P0300,Engine
+C1230,Experiencing ignition and rough idle on the highway.,Engine Misfire,P0300,Engine
+C1231,Noticed that ignition and buck in the morning.,Engine Misfire,P0300,Engine
+C1232,The mechanic said ignition and surge recently.,Engine Misfire,P0300,Engine
+C1233,Dashboard shows ignition and engine light flashing and it is getting worse.,Engine Misfire,P0300,Engine
+C1234,Warning light for ignition and stumble which is dangerous.,Engine Misfire,P0300,Engine
+C1235,Lately my vehicle has ignition and pop exhaust every time I drive.,Engine Misfire,P0300,Engine
+C1236,There is an issue with engine light flashing and misfire,Engine Misfire,P0300,Engine
+C1237,I am worried about engine light flashing and spark after it rains.,Engine Misfire,P0300,Engine
+C1238,Seems like engine light flashing and plug during long trips.,Engine Misfire,P0300,Engine
+C1239,Hearing some noises regarding engine light flashing and coil at low speeds.,Engine Misfire,P0300,Engine
+C1240,Just started noticing engine light flashing and cylinder when braking.,Engine Misfire,P0300,Engine
+C1241,Driving feels bad due to engine light flashing and shake when accelerating.,Engine Misfire,P0300,Engine
+C1242,Can someone check the engine light flashing and vibrate in cold weather.,Engine Misfire,P0300,Engine
+C1243,I have a problem with engine light flashing and rough idle while driving.,Engine Misfire,P0300,Engine
+C1244,My car has engine light flashing and buck when I start the car.,Engine Misfire,P0300,Engine
+C1245,Experiencing engine light flashing and surge on the highway.,Engine Misfire,P0300,Engine
+C1246,Noticed that engine light flashing and ignition in the morning.,Engine Misfire,P0300,Engine
+C1247,The mechanic said engine light flashing and stumble recently.,Engine Misfire,P0300,Engine
+C1248,Dashboard shows engine light flashing and pop exhaust and it is getting worse.,Engine Misfire,P0300,Engine
+C1249,Warning light for stumble and misfire which is dangerous.,Engine Misfire,P0300,Engine
+C1250,Lately my vehicle has stumble and spark every time I drive.,Engine Misfire,P0300,Engine
+C1251,There is an issue with stumble and plug,Engine Misfire,P0300,Engine
+C1252,I am worried about stumble and coil after it rains.,Engine Misfire,P0300,Engine
+C1253,Seems like stumble and cylinder during long trips.,Engine Misfire,P0300,Engine
+C1254,Hearing some noises regarding stumble and shake at low speeds.,Engine Misfire,P0300,Engine
+C1255,Just started noticing stumble and vibrate when braking.,Engine Misfire,P0300,Engine
+C1256,Driving feels bad due to stumble and rough idle when accelerating.,Engine Misfire,P0300,Engine
+C1257,Can someone check the stumble and buck in cold weather.,Engine Misfire,P0300,Engine
+C1258,I have a problem with stumble and surge while driving.,Engine Misfire,P0300,Engine
+C1259,My car has stumble and ignition when I start the car.,Engine Misfire,P0300,Engine
+C1260,Experiencing stumble and engine light flashing on the highway.,Engine Misfire,P0300,Engine
+C1261,Noticed that stumble and pop exhaust in the morning.,Engine Misfire,P0300,Engine
+C1262,The mechanic said pop exhaust and misfire recently.,Engine Misfire,P0300,Engine
+C1263,Dashboard shows pop exhaust and spark and it is getting worse.,Engine Misfire,P0300,Engine
+C1264,Warning light for pop exhaust and plug which is dangerous.,Engine Misfire,P0300,Engine
+C1265,Lately my vehicle has pop exhaust and coil every time I drive.,Engine Misfire,P0300,Engine
+C1266,There is an issue with pop exhaust and cylinder,Engine Misfire,P0300,Engine
+C1267,I am worried about pop exhaust and shake after it rains.,Engine Misfire,P0300,Engine
+C1268,Seems like pop exhaust and vibrate during long trips.,Engine Misfire,P0300,Engine
+C1269,Hearing some noises regarding pop exhaust and rough idle at low speeds.,Engine Misfire,P0300,Engine
+C1270,Just started noticing pop exhaust and buck when braking.,Engine Misfire,P0300,Engine
+C1271,Driving feels bad due to pop exhaust and surge when accelerating.,Engine Misfire,P0300,Engine
+C1272,Can someone check the pop exhaust and ignition in cold weather.,Engine Misfire,P0300,Engine
+C1273,I have a problem with pop exhaust and engine light flashing while driving.,Engine Misfire,P0300,Engine
+C1274,My car has pop exhaust and stumble when I start the car.,Engine Misfire,P0300,Engine
+C1275,I have a problem with air conditioning and ac while driving.,Air Conditioning Failure,P0533,HVAC
+C1276,My car has air conditioning and compressor when I start the car.,Air Conditioning Failure,P0533,HVAC
+C1277,Experiencing air conditioning and refrigerant on the highway.,Air Conditioning Failure,P0533,HVAC
+C1278,Noticed that air conditioning and freon in the morning.,Air Conditioning Failure,P0533,HVAC
+C1279,The mechanic said air conditioning and warm air recently.,Air Conditioning Failure,P0533,HVAC
+C1280,Dashboard shows air conditioning and cool and it is getting worse.,Air Conditioning Failure,P0533,HVAC
+C1281,Warning light for air conditioning and hvac which is dangerous.,Air Conditioning Failure,P0533,HVAC
+C1282,Lately my vehicle has air conditioning and vent every time I drive.,Air Conditioning Failure,P0533,HVAC
+C1283,There is an issue with air conditioning and blows hot,Air Conditioning Failure,P0533,HVAC
+C1284,I am worried about air conditioning and condenser after it rains.,Air Conditioning Failure,P0533,HVAC
+C1285,Seems like air conditioning and no cold air during long trips.,Air Conditioning Failure,P0533,HVAC
+C1286,Hearing some noises regarding air conditioning and ac clutch at low speeds.,Air Conditioning Failure,P0533,HVAC
+C1287,Just started noticing air conditioning and blower motor when braking.,Air Conditioning Failure,P0533,HVAC
+C1288,Driving feels bad due to ac and air conditioning when accelerating.,Air Conditioning Failure,P0533,HVAC
+C1289,Can someone check the ac and compressor in cold weather.,Air Conditioning Failure,P0533,HVAC
+C1290,I have a problem with ac and refrigerant while driving.,Air Conditioning Failure,P0533,HVAC
+C1291,My car has ac and freon when I start the car.,Air Conditioning Failure,P0533,HVAC
+C1292,Experiencing ac and warm air on the highway.,Air Conditioning Failure,P0533,HVAC
+C1293,Noticed that ac and cool in the morning.,Air Conditioning Failure,P0533,HVAC
+C1294,The mechanic said ac and hvac recently.,Air Conditioning Failure,P0533,HVAC
+C1295,Dashboard shows ac and vent and it is getting worse.,Air Conditioning Failure,P0533,HVAC
+C1296,Warning light for ac and blows hot which is dangerous.,Air Conditioning Failure,P0533,HVAC
+C1297,Lately my vehicle has ac and condenser every time I drive.,Air Conditioning Failure,P0533,HVAC
+C1298,There is an issue with ac and no cold air,Air Conditioning Failure,P0533,HVAC
+C1299,I am worried about ac and ac clutch after it rains.,Air Conditioning Failure,P0533,HVAC
+C1300,Seems like ac and blower motor during long trips.,Air Conditioning Failure,P0533,HVAC
+C1301,Hearing some noises regarding compressor and air conditioning at low speeds.,Air Conditioning Failure,P0533,HVAC
+C1302,Just started noticing compressor and ac when braking.,Air Conditioning Failure,P0533,HVAC
+C1303,Driving feels bad due to compressor and refrigerant when accelerating.,Air Conditioning Failure,P0533,HVAC
+C1304,Can someone check the compressor and freon in cold weather.,Air Conditioning Failure,P0533,HVAC
+C1305,I have a problem with compressor and warm air while driving.,Air Conditioning Failure,P0533,HVAC
+C1306,My car has compressor and cool when I start the car.,Air Conditioning Failure,P0533,HVAC
+C1307,Experiencing compressor and hvac on the highway.,Air Conditioning Failure,P0533,HVAC
+C1308,Noticed that compressor and vent in the morning.,Air Conditioning Failure,P0533,HVAC
+C1309,The mechanic said compressor and blows hot recently.,Air Conditioning Failure,P0533,HVAC
+C1310,Dashboard shows compressor and condenser and it is getting worse.,Air Conditioning Failure,P0533,HVAC
+C1311,Warning light for compressor and no cold air which is dangerous.,Air Conditioning Failure,P0533,HVAC
+C1312,Lately my vehicle has compressor and ac clutch every time I drive.,Air Conditioning Failure,P0533,HVAC
+C1313,There is an issue with compressor and blower motor,Air Conditioning Failure,P0533,HVAC
+C1314,I am worried about refrigerant and air conditioning after it rains.,Air Conditioning Failure,P0533,HVAC
+C1315,Seems like refrigerant and ac during long trips.,Air Conditioning Failure,P0533,HVAC
+C1316,Hearing some noises regarding refrigerant and compressor at low speeds.,Air Conditioning Failure,P0533,HVAC
+C1317,Just started noticing refrigerant and freon when braking.,Air Conditioning Failure,P0533,HVAC
+C1318,Driving feels bad due to refrigerant and warm air when accelerating.,Air Conditioning Failure,P0533,HVAC
+C1319,Can someone check the refrigerant and cool in cold weather.,Air Conditioning Failure,P0533,HVAC
+C1320,I have a problem with refrigerant and hvac while driving.,Air Conditioning Failure,P0533,HVAC
+C1321,My car has refrigerant and vent when I start the car.,Air Conditioning Failure,P0533,HVAC
+C1322,Experiencing refrigerant and blows hot on the highway.,Air Conditioning Failure,P0533,HVAC
+C1323,Noticed that refrigerant and condenser in the morning.,Air Conditioning Failure,P0533,HVAC
+C1324,The mechanic said refrigerant and no cold air recently.,Air Conditioning Failure,P0533,HVAC
+C1325,Dashboard shows refrigerant and ac clutch and it is getting worse.,Air Conditioning Failure,P0533,HVAC
+C1326,Warning light for refrigerant and blower motor which is dangerous.,Air Conditioning Failure,P0533,HVAC
+C1327,Lately my vehicle has freon and air conditioning every time I drive.,Air Conditioning Failure,P0533,HVAC
+C1328,There is an issue with freon and ac,Air Conditioning Failure,P0533,HVAC
+C1329,I am worried about freon and compressor after it rains.,Air Conditioning Failure,P0533,HVAC
+C1330,Seems like freon and refrigerant during long trips.,Air Conditioning Failure,P0533,HVAC
+C1331,Hearing some noises regarding freon and warm air at low speeds.,Air Conditioning Failure,P0533,HVAC
+C1332,Just started noticing freon and cool when braking.,Air Conditioning Failure,P0533,HVAC
+C1333,Driving feels bad due to freon and hvac when accelerating.,Air Conditioning Failure,P0533,HVAC
+C1334,Can someone check the freon and vent in cold weather.,Air Conditioning Failure,P0533,HVAC
+C1335,I have a problem with freon and blows hot while driving.,Air Conditioning Failure,P0533,HVAC
+C1336,My car has freon and condenser when I start the car.,Air Conditioning Failure,P0533,HVAC
+C1337,Experiencing freon and no cold air on the highway.,Air Conditioning Failure,P0533,HVAC
+C1338,Noticed that freon and ac clutch in the morning.,Air Conditioning Failure,P0533,HVAC
+C1339,The mechanic said freon and blower motor recently.,Air Conditioning Failure,P0533,HVAC
+C1340,Dashboard shows warm air and air conditioning and it is getting worse.,Air Conditioning Failure,P0533,HVAC
+C1341,Warning light for warm air and ac which is dangerous.,Air Conditioning Failure,P0533,HVAC
+C1342,Lately my vehicle has warm air and compressor every time I drive.,Air Conditioning Failure,P0533,HVAC
+C1343,There is an issue with warm air and refrigerant,Air Conditioning Failure,P0533,HVAC
+C1344,I am worried about warm air and freon after it rains.,Air Conditioning Failure,P0533,HVAC
+C1345,Seems like warm air and cool during long trips.,Air Conditioning Failure,P0533,HVAC
+C1346,Hearing some noises regarding warm air and hvac at low speeds.,Air Conditioning Failure,P0533,HVAC
+C1347,Just started noticing warm air and vent when braking.,Air Conditioning Failure,P0533,HVAC
+C1348,Driving feels bad due to warm air and blows hot when accelerating.,Air Conditioning Failure,P0533,HVAC
+C1349,Can someone check the warm air and condenser in cold weather.,Air Conditioning Failure,P0533,HVAC
+C1350,I have a problem with warm air and no cold air while driving.,Air Conditioning Failure,P0533,HVAC
+C1351,My car has warm air and ac clutch when I start the car.,Air Conditioning Failure,P0533,HVAC
+C1352,Experiencing warm air and blower motor on the highway.,Air Conditioning Failure,P0533,HVAC
+C1353,Noticed that cool and air conditioning in the morning.,Air Conditioning Failure,P0533,HVAC
+C1354,The mechanic said cool and ac recently.,Air Conditioning Failure,P0533,HVAC
+C1355,Dashboard shows cool and compressor and it is getting worse.,Air Conditioning Failure,P0533,HVAC
+C1356,Warning light for cool and refrigerant which is dangerous.,Air Conditioning Failure,P0533,HVAC
+C1357,Lately my vehicle has cool and freon every time I drive.,Air Conditioning Failure,P0533,HVAC
+C1358,There is an issue with cool and warm air,Air Conditioning Failure,P0533,HVAC
+C1359,I am worried about cool and hvac after it rains.,Air Conditioning Failure,P0533,HVAC
+C1360,Seems like cool and vent during long trips.,Air Conditioning Failure,P0533,HVAC
+C1361,Hearing some noises regarding cool and blows hot at low speeds.,Air Conditioning Failure,P0533,HVAC
+C1362,Just started noticing cool and condenser when braking.,Air Conditioning Failure,P0533,HVAC
+C1363,Driving feels bad due to cool and no cold air when accelerating.,Air Conditioning Failure,P0533,HVAC
+C1364,Can someone check the cool and ac clutch in cold weather.,Air Conditioning Failure,P0533,HVAC
+C1365,I have a problem with cool and blower motor while driving.,Air Conditioning Failure,P0533,HVAC
+C1366,My car has hvac and air conditioning when I start the car.,Air Conditioning Failure,P0533,HVAC
+C1367,Experiencing hvac and ac on the highway.,Air Conditioning Failure,P0533,HVAC
+C1368,Noticed that hvac and compressor in the morning.,Air Conditioning Failure,P0533,HVAC
+C1369,The mechanic said hvac and refrigerant recently.,Air Conditioning Failure,P0533,HVAC
+C1370,Dashboard shows hvac and freon and it is getting worse.,Air Conditioning Failure,P0533,HVAC
+C1371,Warning light for hvac and warm air which is dangerous.,Air Conditioning Failure,P0533,HVAC
+C1372,Lately my vehicle has hvac and cool every time I drive.,Air Conditioning Failure,P0533,HVAC
+C1373,There is an issue with hvac and vent,Air Conditioning Failure,P0533,HVAC
+C1374,I am worried about hvac and blows hot after it rains.,Air Conditioning Failure,P0533,HVAC
+C1375,Seems like hvac and condenser during long trips.,Air Conditioning Failure,P0533,HVAC
+C1376,Hearing some noises regarding hvac and no cold air at low speeds.,Air Conditioning Failure,P0533,HVAC
+C1377,Just started noticing hvac and ac clutch when braking.,Air Conditioning Failure,P0533,HVAC
+C1378,Driving feels bad due to hvac and blower motor when accelerating.,Air Conditioning Failure,P0533,HVAC
+C1379,Can someone check the vent and air conditioning in cold weather.,Air Conditioning Failure,P0533,HVAC
+C1380,I have a problem with vent and ac while driving.,Air Conditioning Failure,P0533,HVAC
+C1381,My car has vent and compressor when I start the car.,Air Conditioning Failure,P0533,HVAC
+C1382,Experiencing vent and refrigerant on the highway.,Air Conditioning Failure,P0533,HVAC
+C1383,Noticed that vent and freon in the morning.,Air Conditioning Failure,P0533,HVAC
+C1384,The mechanic said vent and warm air recently.,Air Conditioning Failure,P0533,HVAC
+C1385,Dashboard shows vent and cool and it is getting worse.,Air Conditioning Failure,P0533,HVAC
+C1386,Warning light for vent and hvac which is dangerous.,Air Conditioning Failure,P0533,HVAC
+C1387,Lately my vehicle has vent and blows hot every time I drive.,Air Conditioning Failure,P0533,HVAC
+C1388,There is an issue with vent and condenser,Air Conditioning Failure,P0533,HVAC
+C1389,I am worried about vent and no cold air after it rains.,Air Conditioning Failure,P0533,HVAC
+C1390,Seems like vent and ac clutch during long trips.,Air Conditioning Failure,P0533,HVAC
+C1391,Hearing some noises regarding vent and blower motor at low speeds.,Air Conditioning Failure,P0533,HVAC
+C1392,Just started noticing blows hot and air conditioning when braking.,Air Conditioning Failure,P0533,HVAC
+C1393,Driving feels bad due to blows hot and ac when accelerating.,Air Conditioning Failure,P0533,HVAC
+C1394,Can someone check the blows hot and compressor in cold weather.,Air Conditioning Failure,P0533,HVAC
+C1395,I have a problem with blows hot and refrigerant while driving.,Air Conditioning Failure,P0533,HVAC
+C1396,My car has blows hot and freon when I start the car.,Air Conditioning Failure,P0533,HVAC
+C1397,Experiencing blows hot and warm air on the highway.,Air Conditioning Failure,P0533,HVAC
+C1398,Noticed that blows hot and cool in the morning.,Air Conditioning Failure,P0533,HVAC
+C1399,The mechanic said blows hot and hvac recently.,Air Conditioning Failure,P0533,HVAC
+C1400,Dashboard shows blows hot and vent and it is getting worse.,Air Conditioning Failure,P0533,HVAC
+C1401,Warning light for blows hot and condenser which is dangerous.,Air Conditioning Failure,P0533,HVAC
+C1402,Lately my vehicle has blows hot and no cold air every time I drive.,Air Conditioning Failure,P0533,HVAC
+C1403,There is an issue with blows hot and ac clutch,Air Conditioning Failure,P0533,HVAC
+C1404,I am worried about blows hot and blower motor after it rains.,Air Conditioning Failure,P0533,HVAC
+C1405,Seems like condenser and air conditioning during long trips.,Air Conditioning Failure,P0533,HVAC
+C1406,Hearing some noises regarding condenser and ac at low speeds.,Air Conditioning Failure,P0533,HVAC
+C1407,Just started noticing condenser and compressor when braking.,Air Conditioning Failure,P0533,HVAC
+C1408,Driving feels bad due to condenser and refrigerant when accelerating.,Air Conditioning Failure,P0533,HVAC
+C1409,Can someone check the condenser and freon in cold weather.,Air Conditioning Failure,P0533,HVAC
+C1410,I have a problem with condenser and warm air while driving.,Air Conditioning Failure,P0533,HVAC
+C1411,My car has condenser and cool when I start the car.,Air Conditioning Failure,P0533,HVAC
+C1412,Experiencing condenser and hvac on the highway.,Air Conditioning Failure,P0533,HVAC
+C1413,Noticed that condenser and vent in the morning.,Air Conditioning Failure,P0533,HVAC
+C1414,The mechanic said condenser and blows hot recently.,Air Conditioning Failure,P0533,HVAC
+C1415,Dashboard shows condenser and no cold air and it is getting worse.,Air Conditioning Failure,P0533,HVAC
+C1416,Warning light for condenser and ac clutch which is dangerous.,Air Conditioning Failure,P0533,HVAC
+C1417,Lately my vehicle has condenser and blower motor every time I drive.,Air Conditioning Failure,P0533,HVAC
+C1418,There is an issue with no cold air and air conditioning,Air Conditioning Failure,P0533,HVAC
+C1419,I am worried about no cold air and ac after it rains.,Air Conditioning Failure,P0533,HVAC
+C1420,Seems like no cold air and compressor during long trips.,Air Conditioning Failure,P0533,HVAC
+C1421,Hearing some noises regarding no cold air and refrigerant at low speeds.,Air Conditioning Failure,P0533,HVAC
+C1422,Just started noticing no cold air and freon when braking.,Air Conditioning Failure,P0533,HVAC
+C1423,Driving feels bad due to no cold air and warm air when accelerating.,Air Conditioning Failure,P0533,HVAC
+C1424,Can someone check the no cold air and cool in cold weather.,Air Conditioning Failure,P0533,HVAC
+C1425,I have a problem with no cold air and hvac while driving.,Air Conditioning Failure,P0533,HVAC
+C1426,My car has no cold air and vent when I start the car.,Air Conditioning Failure,P0533,HVAC
+C1427,Experiencing no cold air and blows hot on the highway.,Air Conditioning Failure,P0533,HVAC
+C1428,Noticed that no cold air and condenser in the morning.,Air Conditioning Failure,P0533,HVAC
+C1429,The mechanic said no cold air and ac clutch recently.,Air Conditioning Failure,P0533,HVAC
+C1430,Dashboard shows no cold air and blower motor and it is getting worse.,Air Conditioning Failure,P0533,HVAC
+C1431,Warning light for ac clutch and air conditioning which is dangerous.,Air Conditioning Failure,P0533,HVAC
+C1432,Lately my vehicle has ac clutch and ac every time I drive.,Air Conditioning Failure,P0533,HVAC
+C1433,There is an issue with ac clutch and compressor,Air Conditioning Failure,P0533,HVAC
+C1434,I am worried about ac clutch and refrigerant after it rains.,Air Conditioning Failure,P0533,HVAC
+C1435,Seems like ac clutch and freon during long trips.,Air Conditioning Failure,P0533,HVAC
+C1436,Hearing some noises regarding ac clutch and warm air at low speeds.,Air Conditioning Failure,P0533,HVAC
+C1437,Just started noticing ac clutch and cool when braking.,Air Conditioning Failure,P0533,HVAC
+C1438,Driving feels bad due to ac clutch and hvac when accelerating.,Air Conditioning Failure,P0533,HVAC
+C1439,Can someone check the ac clutch and vent in cold weather.,Air Conditioning Failure,P0533,HVAC
+C1440,I have a problem with ac clutch and blows hot while driving.,Air Conditioning Failure,P0533,HVAC
+C1441,My car has ac clutch and condenser when I start the car.,Air Conditioning Failure,P0533,HVAC
+C1442,Experiencing ac clutch and no cold air on the highway.,Air Conditioning Failure,P0533,HVAC
+C1443,Noticed that ac clutch and blower motor in the morning.,Air Conditioning Failure,P0533,HVAC
+C1444,The mechanic said blower motor and air conditioning recently.,Air Conditioning Failure,P0533,HVAC
+C1445,Dashboard shows blower motor and ac and it is getting worse.,Air Conditioning Failure,P0533,HVAC
+C1446,Warning light for blower motor and compressor which is dangerous.,Air Conditioning Failure,P0533,HVAC
+C1447,Lately my vehicle has blower motor and refrigerant every time I drive.,Air Conditioning Failure,P0533,HVAC
+C1448,There is an issue with blower motor and freon,Air Conditioning Failure,P0533,HVAC
+C1449,I am worried about blower motor and warm air after it rains.,Air Conditioning Failure,P0533,HVAC
+C1450,Seems like blower motor and cool during long trips.,Air Conditioning Failure,P0533,HVAC
+C1451,Hearing some noises regarding blower motor and hvac at low speeds.,Air Conditioning Failure,P0533,HVAC
+C1452,Just started noticing blower motor and vent when braking.,Air Conditioning Failure,P0533,HVAC
+C1453,Driving feels bad due to blower motor and blows hot when accelerating.,Air Conditioning Failure,P0533,HVAC
+C1454,Can someone check the blower motor and condenser in cold weather.,Air Conditioning Failure,P0533,HVAC
+C1455,I have a problem with blower motor and no cold air while driving.,Air Conditioning Failure,P0533,HVAC
+C1456,My car has blower motor and ac clutch when I start the car.,Air Conditioning Failure,P0533,HVAC
+C1457,I have a problem with abs light and wheel speed sensor while driving.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1458,My car has abs light and traction control warning when I start the car.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1459,Experiencing abs light and anti-lock braking system on the highway.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1460,Noticed that abs light and skidding abs in the morning.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1461,The mechanic said abs light and slip indicator recently.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1462,Dashboard shows abs light and stability control and it is getting worse.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1463,Warning light for abs light and yaw sensor which is dangerous.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1464,Lately my vehicle has abs light and tone ring broken every time I drive.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1465,There is an issue with abs light and abs module,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1466,I am worried about abs light and pulsating brake pedal abs after it rains.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1467,Seems like abs light and loss of traction during long trips.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1468,Hearing some noises regarding abs light and abs engaged at low speeds.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1469,Just started noticing abs light and speedometer erratic when braking.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1470,Driving feels bad due to wheel speed sensor and abs light when accelerating.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1471,Can someone check the wheel speed sensor and traction control warning in cold weather.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1472,I have a problem with wheel speed sensor and anti-lock braking system while driving.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1473,My car has wheel speed sensor and skidding abs when I start the car.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1474,Experiencing wheel speed sensor and slip indicator on the highway.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1475,Noticed that wheel speed sensor and stability control in the morning.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1476,The mechanic said wheel speed sensor and yaw sensor recently.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1477,Dashboard shows wheel speed sensor and tone ring broken and it is getting worse.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1478,Warning light for wheel speed sensor and abs module which is dangerous.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1479,Lately my vehicle has wheel speed sensor and pulsating brake pedal abs every time I drive.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1480,There is an issue with wheel speed sensor and loss of traction,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1481,I am worried about wheel speed sensor and abs engaged after it rains.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1482,Seems like wheel speed sensor and speedometer erratic during long trips.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1483,Hearing some noises regarding traction control warning and abs light at low speeds.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1484,Just started noticing traction control warning and wheel speed sensor when braking.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1485,Driving feels bad due to traction control warning and anti-lock braking system when accelerating.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1486,Can someone check the traction control warning and skidding abs in cold weather.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1487,I have a problem with traction control warning and slip indicator while driving.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1488,My car has traction control warning and stability control when I start the car.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1489,Experiencing traction control warning and yaw sensor on the highway.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1490,Noticed that traction control warning and tone ring broken in the morning.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1491,The mechanic said traction control warning and abs module recently.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1492,Dashboard shows traction control warning and pulsating brake pedal abs and it is getting worse.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1493,Warning light for traction control warning and loss of traction which is dangerous.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1494,Lately my vehicle has traction control warning and abs engaged every time I drive.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1495,There is an issue with traction control warning and speedometer erratic,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1496,I am worried about anti-lock braking system and abs light after it rains.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1497,Seems like anti-lock braking system and wheel speed sensor during long trips.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1498,Hearing some noises regarding anti-lock braking system and traction control warning at low speeds.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1499,Just started noticing anti-lock braking system and skidding abs when braking.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1500,Driving feels bad due to anti-lock braking system and slip indicator when accelerating.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1501,Can someone check the anti-lock braking system and stability control in cold weather.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1502,I have a problem with anti-lock braking system and yaw sensor while driving.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1503,My car has anti-lock braking system and tone ring broken when I start the car.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1504,Experiencing anti-lock braking system and abs module on the highway.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1505,Noticed that anti-lock braking system and pulsating brake pedal abs in the morning.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1506,The mechanic said anti-lock braking system and loss of traction recently.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1507,Dashboard shows anti-lock braking system and abs engaged and it is getting worse.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1508,Warning light for anti-lock braking system and speedometer erratic which is dangerous.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1509,Lately my vehicle has skidding abs and abs light every time I drive.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1510,There is an issue with skidding abs and wheel speed sensor,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1511,I am worried about skidding abs and traction control warning after it rains.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1512,Seems like skidding abs and anti-lock braking system during long trips.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1513,Hearing some noises regarding skidding abs and slip indicator at low speeds.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1514,Just started noticing skidding abs and stability control when braking.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1515,Driving feels bad due to skidding abs and yaw sensor when accelerating.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1516,Can someone check the skidding abs and tone ring broken in cold weather.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1517,I have a problem with skidding abs and abs module while driving.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1518,My car has skidding abs and pulsating brake pedal abs when I start the car.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1519,Experiencing skidding abs and loss of traction on the highway.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1520,Noticed that skidding abs and abs engaged in the morning.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1521,The mechanic said skidding abs and speedometer erratic recently.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1522,Dashboard shows slip indicator and abs light and it is getting worse.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1523,Warning light for slip indicator and wheel speed sensor which is dangerous.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1524,Lately my vehicle has slip indicator and traction control warning every time I drive.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1525,There is an issue with slip indicator and anti-lock braking system,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1526,I am worried about slip indicator and skidding abs after it rains.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1527,Seems like slip indicator and stability control during long trips.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1528,Hearing some noises regarding slip indicator and yaw sensor at low speeds.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1529,Just started noticing slip indicator and tone ring broken when braking.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1530,Driving feels bad due to slip indicator and abs module when accelerating.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1531,Can someone check the slip indicator and pulsating brake pedal abs in cold weather.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1532,I have a problem with slip indicator and loss of traction while driving.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1533,My car has slip indicator and abs engaged when I start the car.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1534,Experiencing slip indicator and speedometer erratic on the highway.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1535,Noticed that stability control and abs light in the morning.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1536,The mechanic said stability control and wheel speed sensor recently.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1537,Dashboard shows stability control and traction control warning and it is getting worse.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1538,Warning light for stability control and anti-lock braking system which is dangerous.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1539,Lately my vehicle has stability control and skidding abs every time I drive.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1540,There is an issue with stability control and slip indicator,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1541,I am worried about stability control and yaw sensor after it rains.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1542,Seems like stability control and tone ring broken during long trips.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1543,Hearing some noises regarding stability control and abs module at low speeds.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1544,Just started noticing stability control and pulsating brake pedal abs when braking.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1545,Driving feels bad due to stability control and loss of traction when accelerating.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1546,Can someone check the stability control and abs engaged in cold weather.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1547,I have a problem with stability control and speedometer erratic while driving.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1548,My car has yaw sensor and abs light when I start the car.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1549,Experiencing yaw sensor and wheel speed sensor on the highway.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1550,Noticed that yaw sensor and traction control warning in the morning.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1551,The mechanic said yaw sensor and anti-lock braking system recently.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1552,Dashboard shows yaw sensor and skidding abs and it is getting worse.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1553,Warning light for yaw sensor and slip indicator which is dangerous.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1554,Lately my vehicle has yaw sensor and stability control every time I drive.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1555,There is an issue with yaw sensor and tone ring broken,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1556,I am worried about yaw sensor and abs module after it rains.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1557,Seems like yaw sensor and pulsating brake pedal abs during long trips.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1558,Hearing some noises regarding yaw sensor and loss of traction at low speeds.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1559,Just started noticing yaw sensor and abs engaged when braking.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1560,Driving feels bad due to yaw sensor and speedometer erratic when accelerating.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1561,Can someone check the tone ring broken and abs light in cold weather.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1562,I have a problem with tone ring broken and wheel speed sensor while driving.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1563,My car has tone ring broken and traction control warning when I start the car.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1564,Experiencing tone ring broken and anti-lock braking system on the highway.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1565,Noticed that tone ring broken and skidding abs in the morning.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1566,The mechanic said tone ring broken and slip indicator recently.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1567,Dashboard shows tone ring broken and stability control and it is getting worse.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1568,Warning light for tone ring broken and yaw sensor which is dangerous.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1569,Lately my vehicle has tone ring broken and abs module every time I drive.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1570,There is an issue with tone ring broken and pulsating brake pedal abs,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1571,I am worried about tone ring broken and loss of traction after it rains.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1572,Seems like tone ring broken and abs engaged during long trips.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1573,Hearing some noises regarding tone ring broken and speedometer erratic at low speeds.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1574,Just started noticing abs module and abs light when braking.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1575,Driving feels bad due to abs module and wheel speed sensor when accelerating.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1576,Can someone check the abs module and traction control warning in cold weather.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1577,I have a problem with abs module and anti-lock braking system while driving.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1578,My car has abs module and skidding abs when I start the car.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1579,Experiencing abs module and slip indicator on the highway.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1580,Noticed that abs module and stability control in the morning.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1581,The mechanic said abs module and yaw sensor recently.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1582,Dashboard shows abs module and tone ring broken and it is getting worse.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1583,Warning light for abs module and pulsating brake pedal abs which is dangerous.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1584,Lately my vehicle has abs module and loss of traction every time I drive.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1585,There is an issue with abs module and abs engaged,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1586,I am worried about abs module and speedometer erratic after it rains.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1587,Seems like pulsating brake pedal abs and abs light during long trips.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1588,Hearing some noises regarding pulsating brake pedal abs and wheel speed sensor at low speeds.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1589,Just started noticing pulsating brake pedal abs and traction control warning when braking.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1590,Driving feels bad due to pulsating brake pedal abs and anti-lock braking system when accelerating.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1591,Can someone check the pulsating brake pedal abs and skidding abs in cold weather.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1592,I have a problem with pulsating brake pedal abs and slip indicator while driving.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1593,My car has pulsating brake pedal abs and stability control when I start the car.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1594,Experiencing pulsating brake pedal abs and yaw sensor on the highway.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1595,Noticed that pulsating brake pedal abs and tone ring broken in the morning.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1596,The mechanic said pulsating brake pedal abs and abs module recently.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1597,Dashboard shows pulsating brake pedal abs and loss of traction and it is getting worse.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1598,Warning light for pulsating brake pedal abs and abs engaged which is dangerous.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1599,Lately my vehicle has pulsating brake pedal abs and speedometer erratic every time I drive.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1600,There is an issue with loss of traction and abs light,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1601,I am worried about loss of traction and wheel speed sensor after it rains.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1602,Seems like loss of traction and traction control warning during long trips.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1603,Hearing some noises regarding loss of traction and anti-lock braking system at low speeds.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1604,Just started noticing loss of traction and skidding abs when braking.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1605,Driving feels bad due to loss of traction and slip indicator when accelerating.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1606,Can someone check the loss of traction and stability control in cold weather.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1607,I have a problem with loss of traction and yaw sensor while driving.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1608,My car has loss of traction and tone ring broken when I start the car.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1609,Experiencing loss of traction and abs module on the highway.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1610,Noticed that loss of traction and pulsating brake pedal abs in the morning.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1611,The mechanic said loss of traction and abs engaged recently.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1612,Dashboard shows loss of traction and speedometer erratic and it is getting worse.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1613,Warning light for abs engaged and abs light which is dangerous.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1614,Lately my vehicle has abs engaged and wheel speed sensor every time I drive.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1615,There is an issue with abs engaged and traction control warning,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1616,I am worried about abs engaged and anti-lock braking system after it rains.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1617,Seems like abs engaged and skidding abs during long trips.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1618,Hearing some noises regarding abs engaged and slip indicator at low speeds.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1619,Just started noticing abs engaged and stability control when braking.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1620,Driving feels bad due to abs engaged and yaw sensor when accelerating.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1621,Can someone check the abs engaged and tone ring broken in cold weather.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1622,I have a problem with abs engaged and abs module while driving.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1623,My car has abs engaged and pulsating brake pedal abs when I start the car.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1624,Experiencing abs engaged and loss of traction on the highway.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1625,Noticed that abs engaged and speedometer erratic in the morning.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1626,The mechanic said speedometer erratic and abs light recently.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1627,Dashboard shows speedometer erratic and wheel speed sensor and it is getting worse.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1628,Warning light for speedometer erratic and traction control warning which is dangerous.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1629,Lately my vehicle has speedometer erratic and anti-lock braking system every time I drive.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1630,There is an issue with speedometer erratic and skidding abs,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1631,I am worried about speedometer erratic and slip indicator after it rains.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1632,Seems like speedometer erratic and stability control during long trips.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1633,Hearing some noises regarding speedometer erratic and yaw sensor at low speeds.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1634,Just started noticing speedometer erratic and tone ring broken when braking.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1635,Driving feels bad due to speedometer erratic and abs module when accelerating.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1636,Can someone check the speedometer erratic and pulsating brake pedal abs in cold weather.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1637,I have a problem with speedometer erratic and loss of traction while driving.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1638,My car has speedometer erratic and abs engaged when I start the car.,ABS Wheel Speed Sensor Fault,P0500,ABS and Traction Control
+C1639,I have a problem with steering and suspension while driving.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1640,My car has steering and strut when I start the car.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1641,Experiencing steering and shock on the highway.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1642,Noticed that steering and tie rod in the morning.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1643,The mechanic said steering and pull recently.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1644,Dashboard shows steering and wander and it is getting worse.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1645,Warning light for steering and clunk which is dangerous.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1646,Lately my vehicle has steering and alignment every time I drive.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1647,There is an issue with steering and power steering,Steering and Suspension Fault,P0563,Steering and Suspension
+C1648,I am worried about steering and wheel bearing after it rains.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1649,Seems like steering and sway bar during long trips.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1650,Hearing some noises regarding steering and bouncy ride at low speeds.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1651,Just started noticing steering and heavy steering when braking.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1652,Driving feels bad due to suspension and steering when accelerating.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1653,Can someone check the suspension and strut in cold weather.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1654,I have a problem with suspension and shock while driving.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1655,My car has suspension and tie rod when I start the car.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1656,Experiencing suspension and pull on the highway.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1657,Noticed that suspension and wander in the morning.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1658,The mechanic said suspension and clunk recently.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1659,Dashboard shows suspension and alignment and it is getting worse.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1660,Warning light for suspension and power steering which is dangerous.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1661,Lately my vehicle has suspension and wheel bearing every time I drive.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1662,There is an issue with suspension and sway bar,Steering and Suspension Fault,P0563,Steering and Suspension
+C1663,I am worried about suspension and bouncy ride after it rains.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1664,Seems like suspension and heavy steering during long trips.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1665,Hearing some noises regarding strut and steering at low speeds.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1666,Just started noticing strut and suspension when braking.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1667,Driving feels bad due to strut and shock when accelerating.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1668,Can someone check the strut and tie rod in cold weather.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1669,I have a problem with strut and pull while driving.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1670,My car has strut and wander when I start the car.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1671,Experiencing strut and clunk on the highway.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1672,Noticed that strut and alignment in the morning.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1673,The mechanic said strut and power steering recently.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1674,Dashboard shows strut and wheel bearing and it is getting worse.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1675,Warning light for strut and sway bar which is dangerous.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1676,Lately my vehicle has strut and bouncy ride every time I drive.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1677,There is an issue with strut and heavy steering,Steering and Suspension Fault,P0563,Steering and Suspension
+C1678,I am worried about shock and steering after it rains.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1679,Seems like shock and suspension during long trips.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1680,Hearing some noises regarding shock and strut at low speeds.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1681,Just started noticing shock and tie rod when braking.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1682,Driving feels bad due to shock and pull when accelerating.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1683,Can someone check the shock and wander in cold weather.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1684,I have a problem with shock and clunk while driving.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1685,My car has shock and alignment when I start the car.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1686,Experiencing shock and power steering on the highway.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1687,Noticed that shock and wheel bearing in the morning.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1688,The mechanic said shock and sway bar recently.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1689,Dashboard shows shock and bouncy ride and it is getting worse.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1690,Warning light for shock and heavy steering which is dangerous.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1691,Lately my vehicle has tie rod and steering every time I drive.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1692,There is an issue with tie rod and suspension,Steering and Suspension Fault,P0563,Steering and Suspension
+C1693,I am worried about tie rod and strut after it rains.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1694,Seems like tie rod and shock during long trips.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1695,Hearing some noises regarding tie rod and pull at low speeds.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1696,Just started noticing tie rod and wander when braking.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1697,Driving feels bad due to tie rod and clunk when accelerating.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1698,Can someone check the tie rod and alignment in cold weather.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1699,I have a problem with tie rod and power steering while driving.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1700,My car has tie rod and wheel bearing when I start the car.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1701,Experiencing tie rod and sway bar on the highway.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1702,Noticed that tie rod and bouncy ride in the morning.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1703,The mechanic said tie rod and heavy steering recently.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1704,Dashboard shows pull and steering and it is getting worse.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1705,Warning light for pull and suspension which is dangerous.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1706,Lately my vehicle has pull and strut every time I drive.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1707,There is an issue with pull and shock,Steering and Suspension Fault,P0563,Steering and Suspension
+C1708,I am worried about pull and tie rod after it rains.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1709,Seems like pull and wander during long trips.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1710,Hearing some noises regarding pull and clunk at low speeds.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1711,Just started noticing pull and alignment when braking.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1712,Driving feels bad due to pull and power steering when accelerating.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1713,Can someone check the pull and wheel bearing in cold weather.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1714,I have a problem with pull and sway bar while driving.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1715,My car has pull and bouncy ride when I start the car.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1716,Experiencing pull and heavy steering on the highway.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1717,Noticed that wander and steering in the morning.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1718,The mechanic said wander and suspension recently.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1719,Dashboard shows wander and strut and it is getting worse.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1720,Warning light for wander and shock which is dangerous.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1721,Lately my vehicle has wander and tie rod every time I drive.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1722,There is an issue with wander and pull,Steering and Suspension Fault,P0563,Steering and Suspension
+C1723,I am worried about wander and clunk after it rains.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1724,Seems like wander and alignment during long trips.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1725,Hearing some noises regarding wander and power steering at low speeds.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1726,Just started noticing wander and wheel bearing when braking.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1727,Driving feels bad due to wander and sway bar when accelerating.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1728,Can someone check the wander and bouncy ride in cold weather.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1729,I have a problem with wander and heavy steering while driving.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1730,My car has clunk and steering when I start the car.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1731,Experiencing clunk and suspension on the highway.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1732,Noticed that clunk and strut in the morning.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1733,The mechanic said clunk and shock recently.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1734,Dashboard shows clunk and tie rod and it is getting worse.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1735,Warning light for clunk and pull which is dangerous.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1736,Lately my vehicle has clunk and wander every time I drive.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1737,There is an issue with clunk and alignment,Steering and Suspension Fault,P0563,Steering and Suspension
+C1738,I am worried about clunk and power steering after it rains.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1739,Seems like clunk and wheel bearing during long trips.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1740,Hearing some noises regarding clunk and sway bar at low speeds.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1741,Just started noticing clunk and bouncy ride when braking.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1742,Driving feels bad due to clunk and heavy steering when accelerating.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1743,Can someone check the alignment and steering in cold weather.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1744,I have a problem with alignment and suspension while driving.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1745,My car has alignment and strut when I start the car.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1746,Experiencing alignment and shock on the highway.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1747,Noticed that alignment and tie rod in the morning.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1748,The mechanic said alignment and pull recently.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1749,Dashboard shows alignment and wander and it is getting worse.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1750,Warning light for alignment and clunk which is dangerous.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1751,Lately my vehicle has alignment and power steering every time I drive.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1752,There is an issue with alignment and wheel bearing,Steering and Suspension Fault,P0563,Steering and Suspension
+C1753,I am worried about alignment and sway bar after it rains.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1754,Seems like alignment and bouncy ride during long trips.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1755,Hearing some noises regarding alignment and heavy steering at low speeds.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1756,Just started noticing power steering and steering when braking.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1757,Driving feels bad due to power steering and suspension when accelerating.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1758,Can someone check the power steering and strut in cold weather.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1759,I have a problem with power steering and shock while driving.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1760,My car has power steering and tie rod when I start the car.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1761,Experiencing power steering and pull on the highway.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1762,Noticed that power steering and wander in the morning.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1763,The mechanic said power steering and clunk recently.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1764,Dashboard shows power steering and alignment and it is getting worse.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1765,Warning light for power steering and wheel bearing which is dangerous.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1766,Lately my vehicle has power steering and sway bar every time I drive.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1767,There is an issue with power steering and bouncy ride,Steering and Suspension Fault,P0563,Steering and Suspension
+C1768,I am worried about power steering and heavy steering after it rains.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1769,Seems like wheel bearing and steering during long trips.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1770,Hearing some noises regarding wheel bearing and suspension at low speeds.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1771,Just started noticing wheel bearing and strut when braking.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1772,Driving feels bad due to wheel bearing and shock when accelerating.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1773,Can someone check the wheel bearing and tie rod in cold weather.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1774,I have a problem with wheel bearing and pull while driving.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1775,My car has wheel bearing and wander when I start the car.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1776,Experiencing wheel bearing and clunk on the highway.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1777,Noticed that wheel bearing and alignment in the morning.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1778,The mechanic said wheel bearing and power steering recently.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1779,Dashboard shows wheel bearing and sway bar and it is getting worse.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1780,Warning light for wheel bearing and bouncy ride which is dangerous.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1781,Lately my vehicle has wheel bearing and heavy steering every time I drive.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1782,There is an issue with sway bar and steering,Steering and Suspension Fault,P0563,Steering and Suspension
+C1783,I am worried about sway bar and suspension after it rains.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1784,Seems like sway bar and strut during long trips.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1785,Hearing some noises regarding sway bar and shock at low speeds.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1786,Just started noticing sway bar and tie rod when braking.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1787,Driving feels bad due to sway bar and pull when accelerating.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1788,Can someone check the sway bar and wander in cold weather.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1789,I have a problem with sway bar and clunk while driving.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1790,My car has sway bar and alignment when I start the car.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1791,Experiencing sway bar and power steering on the highway.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1792,Noticed that sway bar and wheel bearing in the morning.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1793,The mechanic said sway bar and bouncy ride recently.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1794,Dashboard shows sway bar and heavy steering and it is getting worse.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1795,Warning light for bouncy ride and steering which is dangerous.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1796,Lately my vehicle has bouncy ride and suspension every time I drive.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1797,There is an issue with bouncy ride and strut,Steering and Suspension Fault,P0563,Steering and Suspension
+C1798,I am worried about bouncy ride and shock after it rains.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1799,Seems like bouncy ride and tie rod during long trips.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1800,Hearing some noises regarding bouncy ride and pull at low speeds.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1801,Just started noticing bouncy ride and wander when braking.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1802,Driving feels bad due to bouncy ride and clunk when accelerating.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1803,Can someone check the bouncy ride and alignment in cold weather.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1804,I have a problem with bouncy ride and power steering while driving.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1805,My car has bouncy ride and wheel bearing when I start the car.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1806,Experiencing bouncy ride and sway bar on the highway.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1807,Noticed that bouncy ride and heavy steering in the morning.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1808,The mechanic said heavy steering and steering recently.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1809,Dashboard shows heavy steering and suspension and it is getting worse.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1810,Warning light for heavy steering and strut which is dangerous.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1811,Lately my vehicle has heavy steering and shock every time I drive.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1812,There is an issue with heavy steering and tie rod,Steering and Suspension Fault,P0563,Steering and Suspension
+C1813,I am worried about heavy steering and pull after it rains.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1814,Seems like heavy steering and wander during long trips.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1815,Hearing some noises regarding heavy steering and clunk at low speeds.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1816,Just started noticing heavy steering and alignment when braking.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1817,Driving feels bad due to heavy steering and power steering when accelerating.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1818,Can someone check the heavy steering and wheel bearing in cold weather.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1819,I have a problem with heavy steering and sway bar while driving.,Steering and Suspension Fault,P0563,Steering and Suspension
+C1820,My car has heavy steering and bouncy ride when I start the car.,Steering and Suspension Fault,P0563,Steering and Suspension

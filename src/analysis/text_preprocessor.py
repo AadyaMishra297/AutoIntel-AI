@@ -3,6 +3,7 @@ import string
 import nltk
 from nltk.stem import WordNetLemmatizer
 
+
 _FALLBACK_STOPWORDS = {
     "i", "me", "my", "myself", "we", "our", "ours", "ourselves", "you", "your",
     "yours", "yourself", "yourselves", "he", "him", "his", "himself", "she",
@@ -20,56 +21,120 @@ _FALLBACK_STOPWORDS = {
     "can", "shall", "may", "need", "dare", "ought", "used",
 }
 
-_NLTK_RESOURCES = ["punkt", "punkt_tab", "stopwords", "wordnet", "omw-1.4"]
 
-_nltk_available = {"tokenize": False, "stopwords": False, "lemmatize": False}
+# ---------------------------------------------------------
+# NLTK RESOURCE SETUP
+# ---------------------------------------------------------
 
-for _resource in _NLTK_RESOURCES:
+_NLTK_RESOURCES = {
+    "punkt": "tokenizers/punkt",
+    "punkt_tab": "tokenizers/punkt_tab",
+    "stopwords": "corpora/stopwords",
+    "wordnet": "corpora/wordnet",
+    "omw-1.4": "corpora/omw-1.4",
+}
+
+
+for resource, resource_path in _NLTK_RESOURCES.items():
     try:
-        nltk.data.find(f"tokenizers/{_resource}")
-        _nltk_available["tokenize"] = True
-    except LookupError:
+        nltk.data.find(resource_path)
+    except (LookupError, OSError):
         try:
-            nltk.data.find(f"corpora/{_resource}")
-            if _resource == "stopwords":
-                _nltk_available["stopwords"] = True
-            if _resource in ("wordnet", "omw-1.4"):
-                _nltk_available["lemmatize"] = True
-        except LookupError:
-            try:
-                nltk.download(_resource, quiet=True, raise_on_error=False)
-            except Exception:
-                pass
+            nltk.download(
+                resource,
+                quiet=True,
+                raise_on_error=False
+            )
+        except Exception:
+            pass
+
+
+_nltk_available = {
+    "tokenize": False,
+    "stopwords": False,
+    "lemmatize": False,
+}
+
+
+# ---------------------------------------------------------
+# TOKENIZER SETUP
+# ---------------------------------------------------------
 
 try:
     from nltk.tokenize import word_tokenize as _nltk_tokenize
-    _test = _nltk_tokenize("test sentence")
+
+    _nltk_tokenize("test sentence")
+
     _nltk_available["tokenize"] = True
+
 except Exception:
     _nltk_available["tokenize"] = False
 
+
+# ---------------------------------------------------------
+# STOPWORDS SETUP
+# ---------------------------------------------------------
+
 try:
     from nltk.corpus import stopwords as _nltk_stopwords
-    _sw_set = set(_nltk_stopwords.words("english"))
+
+    _sw_set = set(
+        _nltk_stopwords.words("english")
+    )
+
     _nltk_available["stopwords"] = True
+
 except Exception:
     _sw_set = _FALLBACK_STOPWORDS
 
+
+# ---------------------------------------------------------
+# LEMMATIZER SETUP
+# ---------------------------------------------------------
+
 _lemmatizer = None
+
 try:
     _lemmatizer = WordNetLemmatizer()
+
     _lemmatizer.lemmatize("test")
+
     _nltk_available["lemmatize"] = True
+
 except Exception:
     _nltk_available["lemmatize"] = False
 
-_stopwords = _sw_set if _nltk_available["stopwords"] else _FALLBACK_STOPWORDS
+
+_stopwords = (
+    _sw_set
+    if _nltk_available["stopwords"]
+    else _FALLBACK_STOPWORDS
+)
+
 
 KEEP_WORDS = {
-    "not", "no", "nor", "never", "without", "against",
-    "up", "down", "very", "hard", "heavy", "low", "high",
+    "not",
+    "no",
+    "nor",
+    "never",
+    "without",
+    "against",
+    "up",
+    "down",
+    "very",
+    "hard",
+    "heavy",
+    "low",
+    "high",
 }
+
+
 _stopwords = _stopwords - KEEP_WORDS
+
+
+# ---------------------------------------------------------
+# AUTOMOTIVE NORMALIZATIONS
+# ---------------------------------------------------------
 
 AUTOMOTIVE_NORMALIZATIONS = {
     r"\bac\b": "air conditioning",
@@ -112,53 +177,150 @@ AUTOMOTIVE_NORMALIZATIONS = {
 
 
 def _normalize_automotive_terms(text: str) -> str:
+
     for pattern, replacement in AUTOMOTIVE_NORMALIZATIONS.items():
-        text = re.sub(pattern, replacement, text, flags=re.IGNORECASE)
+
+        text = re.sub(
+            pattern,
+            replacement,
+            text,
+            flags=re.IGNORECASE,
+        )
+
     return text
 
 
 def _remove_special_characters(text: str) -> str:
-    text = re.sub(r"[^a-zA-Z0-9\s]", " ", text)
-    text = re.sub(r"\s+", " ", text).strip()
+
+    text = re.sub(
+        r"[^a-zA-Z0-9\s]",
+        " ",
+        text,
+    )
+
+    text = re.sub(
+        r"\s+",
+        " ",
+        text,
+    ).strip()
+
     return text
 
 
+# ---------------------------------------------------------
+# MAIN PREPROCESS FUNCTION
+# ---------------------------------------------------------
+
 def preprocess(text: str) -> str:
+
     if not isinstance(text, str) or not text.strip():
         return ""
 
     text = text.lower()
+
     text = _normalize_automotive_terms(text)
+
     text = _remove_special_characters(text)
 
+
     if _nltk_available["tokenize"]:
-        from nltk.tokenize import word_tokenize as _wt
-        tokens = _wt(text)
+
+        try:
+            tokens = _nltk_tokenize(text)
+
+        except Exception:
+            tokens = text.split()
+
     else:
+
         tokens = text.split()
 
-    tokens = [t for t in tokens if t not in string.punctuation]
-    tokens = [t for t in tokens if t not in _stopwords]
-    tokens = [t for t in tokens if len(t) > 1]
 
-    if _nltk_available["lemmatize"] and _lemmatizer is not None:
-        tokens = [_lemmatizer.lemmatize(t) for t in tokens]
-        tokens = [_lemmatizer.lemmatize(t, pos="v") for t in tokens]
+    tokens = [
+        token
+        for token in tokens
+        if token not in string.punctuation
+    ]
+
+
+    tokens = [
+        token
+        for token in tokens
+        if token not in _stopwords
+    ]
+
+
+    tokens = [
+        token
+        for token in tokens
+        if len(token) > 1
+    ]
+
+
+    if (
+        _nltk_available["lemmatize"]
+        and _lemmatizer is not None
+    ):
+
+        try:
+
+            tokens = [
+                _lemmatizer.lemmatize(token)
+                for token in tokens
+            ]
+
+            tokens = [
+                _lemmatizer.lemmatize(
+                    token,
+                    pos="v",
+                )
+                for token in tokens
+            ]
+
+        except Exception:
+            pass
+
 
     return " ".join(tokens)
 
 
+# ---------------------------------------------------------
+# TEST
+# ---------------------------------------------------------
+
 if __name__ == "__main__":
+
     sample_complaints = [
+
         "My car engine is getting extremely hot after driving for 20 minutes",
+
         "ABS warning light is on and brakes feel spongy",
+
         "AC is blowing warm air and not cooling the cabin",
+
         "Transmission slipping between gears when driving on highway",
+
         "Battery keeps dying overnight and car won't start in the morning",
+
     ]
-    print("Text Preprocessing Demo\n" + "=" * 50)
+
+
+    print(
+        "Text Preprocessing Demo\n"
+        + "=" * 50
+    )
+
+
     for complaint in sample_complaints:
+
         processed = preprocess(complaint)
-        print(f"Original : {complaint}")
-        print(f"Processed: {processed}")
+
+        print(
+            f"Original : {complaint}"
+        )
+
+        print(
+            f"Processed: {processed}"
+        )
+
         print("-" * 50)
