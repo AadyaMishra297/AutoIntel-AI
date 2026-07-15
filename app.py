@@ -283,6 +283,40 @@ if diagnosis:
             for line in explanation_lines:
                 st.write(f"- {line}")
 
+        # ---- Other Possible Diagnoses -------------------------------------------
+        additional_matches = result.get("additional_matches") or []
+
+        if additional_matches:
+            with st.container(border=True):
+                section_header(
+                    "Other Possible Diagnoses",
+                    "Additional OBD faults that also matched this complaint",
+                )
+
+                hcol1, hcol2, hcol3 = st.columns([1.2, 2.4, 1.4])
+                hcol1.markdown("**OBD Code**")
+                hcol2.markdown("**Fault Name**")
+                hcol3.markdown("**Similarity**")
+
+                for i, match in enumerate(additional_matches):
+                    match_score_pct = (match.get("similarity_score") or 0.0) * 100
+                    match_label, match_color = similarity_status(match_score_pct)
+
+                    mcol1, mcol2, mcol3 = st.columns([1.2, 2.4, 1.4])
+                    with mcol1:
+                        st.write(f"`{match.get('obd_code', 'N/A')}`")
+                    with mcol2:
+                        st.write(match.get("fault_name") or "Unknown fault")
+                        st.caption(f"Confidence: {match.get('confidence', 'N/A')}")
+                    with mcol3:
+                        st.markdown(
+                            f"{match_score_pct:.0f}% &nbsp; {status_badge(match_label, match_color)}",
+                            unsafe_allow_html=True,
+                        )
+
+                    if i < len(additional_matches) - 1:
+                        st.divider()
+
         # ---- Download report ---------------------------------------------------
         preventive_lines = (
             [

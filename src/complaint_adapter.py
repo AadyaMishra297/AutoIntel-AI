@@ -7,6 +7,10 @@ Streamlit app, which expects analyze_complaint(text) -> dict in the shape:
         "obd_code": <full OBD_Codes row dict, or None>,
         "confidence": float in [0, 1],
         "matched_keywords": [str, ...],
+        "additional_matches": [
+            {"fault_name": str, "obd_code": str, "similarity_score": float, "confidence": str},
+            ...
+        ],
     }
 
 Member 3's engine returns a different shape (status flag, OBD code as a
@@ -52,6 +56,7 @@ def analyze_complaint(complaint_text):
             "obd_code": None,
             "confidence": result.get("similarity_score", 0.0) or 0.0,
             "matched_keywords": [],
+            "additional_matches": [],
         }
 
     # status == "success"
@@ -66,4 +71,5 @@ def analyze_complaint(complaint_text):
         "obd_code": full_obd_row,
         "confidence": result.get("similarity_score", 0.0) or 0.0,
         "matched_keywords": matched_keywords,
+        "additional_matches": result.get("additional_matches", []),
     }
