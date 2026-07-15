@@ -103,9 +103,22 @@ def analyze_complaint(complaint_text: str, top_n: int = 1) -> dict:
 
     query_vector = _tfidf_vectorizer.transform([processed_query])
     similarity_scores = cosine_similarity(query_vector, _tfidf_matrix).flatten()
-
-    best_idx = int(np.argmax(similarity_scores))
-    best_score = float(similarity_scores[best_idx])
+    
+    # Group by unique fault_name to get the best score per fault
+    fault_scores = {}
+    for idx, score in enumerate(similarity_scores):
+        fault = _corpus_df.iloc[idx]["fault_name"]
+        if fault not in fault_scores or score > fault_scores[fault]["score"]:
+            fault_scores[fault] = {
+                "score": float(score),
+                "idx": idx
+            }
+            
+    # Sort the unique faults by score descending
+    sorted_faults = sorted(fault_scores.values(), key=lambda x: x["score"], reverse=True)
+    
+    best_idx = sorted_faults[0]["idx"]
+    best_score = sorted_faults[0]["score"]
     confidence = _get_confidence_label(best_score)
 
     if confidence == "No Match":
@@ -127,8 +140,22 @@ def analyze_complaint(complaint_text: str, top_n: int = 1) -> dict:
         "matched_complaint": best_row["complaint_text"],
         "similarity_score": round(best_score, 4),
         "confidence": confidence,
+        "additional_matches": []
     }
     result.update(repair_info)
+    
+    # Add other possible matches if they meet a minimum threshold (e.g., Medium)
+    for match in sorted_faults[1:]:
+        match_score = match["score"]
+        match_conf = _get_confidence_label(match_score)
+        if match_conf in ["High", "Medium"]:
+            row = _corpus_df.iloc[match["idx"]]
+            result["additional_matches"].append({
+                "fault_name": row["fault_name"],
+                "obd_code": row["obd_code"],
+                "similarity_score": round(match_score, 4),
+                "confidence": match_conf
+            })
 
     return result
 
@@ -169,6 +196,7 @@ if __name__ == "__main__":
         "Brakes are squealing and pedal feels soft",
         "Transmission is slipping between gears",
         "AC blowing hot air in the cabin",
+        "The car feels sluggish and there is a burning smell near the engine, might be the fuel or brakes"
     ]
 
     print("Matching Engine – Quick Test\n" + "=" * 60)
@@ -180,6 +208,11 @@ if __name__ == "__main__":
             print(f"Score     : {result['similarity_score']} [{result['confidence']}]")
             print(f"Severity  : {result.get('severity', 'N/A')}")
             print(f"Cost (INR): {result.get('estimated_cost_inr', 'N/A')}")
+            
+            if result.get("additional_matches"):
+                print("Other Possible Matches:")
+                for match in result["additional_matches"]:
+                    print(f"  - {match['fault_name']} ({match['obd_code']}) | Score: {match['similarity_score']} [{match['confidence']}]")
         else:
             print(f"Status    : {result['status']} – {result['message']}")
         print("-" * 60)
