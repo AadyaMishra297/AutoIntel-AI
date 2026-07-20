@@ -1,15 +1,3 @@
-"""
-ui_helpers.py — Presentation-layer utilities for the AutoIntel AI Streamlit app.
-
-This module contains ONLY display helpers: status/colour mapping for
-existing values, CSS loading, and small HTML formatting snippets.
-
-It does not touch the database (src/db.py), the complaint-matching
-engine (src/analysis/matching_engine.py), or the integration adapter
-(src/complaint_adapter.py). Those remain the single source of truth
-for data and matching logic.
-"""
-
 import os
 import re
 import streamlit as st

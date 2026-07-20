@@ -1,16 +1,3 @@
-"""
-app.py — AutoIntel AI Streamlit Application (Member 4)
-
-Run with:  streamlit run app.py
-
-Backend logic (src/db.py, src/complaint_adapter.py, the TF-IDF matching
-engine, and the SQLite schema) is unchanged. This file only adds a
-professional presentation layer on top of the same calls and results
-the original app used: db.get_all_vehicles(), db.get_vehicle_by_id(),
-analyze_complaint(), db.save_complaint(), db.get_repair_for_obd(),
-db.get_maintenance_for_vehicle().
-"""
-
 from datetime import datetime
 
 import streamlit as st

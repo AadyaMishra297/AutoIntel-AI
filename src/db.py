@@ -1,24 +1,3 @@
-"""
-db.py — Database access layer for AutoIntel AI (Member 4 integration)
-
-Matches the REAL schema confirmed from database/autointel.db:
-
-  Vehicle_Master     (Vehicle_ID, vehicle_model, Brand, Model, Variant,
-                       fuel_type, engine_size, Engine, Manufacturing_Year)
-  OBD_Codes          (OBD_Code, Description, Category, Severity,
-                       Fault_Description, Work_Required, Severity_Level,
-                       Primary_System)
-  Vehicle_Maintenance (Maintenance_ID, Vehicle_ID, vehicle_model, mileage,
-                       maintenance_history, reported_issues, ... many more
-                       risk/health columns)
-  Repair_Knowledge   (OBD_Code, Repair_Priority, Estimated_Repair_Cost_Min_INR,
-                       Estimated_Repair_Cost_Max_INR, Estimated_Labor_Hours_Min,
-                       Estimated_Labor_Hours_Max)
-
-There is no built-in table for storing user-submitted complaints, so this
-module creates a small local `Complaints` table on first use to log them.
-"""
-
 import sqlite3
 import os
 
