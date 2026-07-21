@@ -1,10 +1,3 @@
-"""
-test_end_to_end.py — End-to-end testing for Member 4's integration,
-against the REAL autointel.db schema.
-
-Run with: python -m tests.test_end_to_end   (from project root)
-"""
-
 import sys
 import os
 

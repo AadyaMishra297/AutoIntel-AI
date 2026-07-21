@@ -1,12 +1,3 @@
-"""
-report_generator.py — PDF diagnosis report builder for AutoIntel AI.
-
-Pure presentation/output helper: takes an already-assembled dict of
-diagnosis data (built by app.py from the existing db.py /
-complaint_adapter.py results) and renders a professional PDF using
-ReportLab. Contains no database access and no complaint-matching logic.
-"""
-
 import io
 from reportlab.lib import colors
 from reportlab.lib.pagesizes import A4

@@ -1,17 +1,3 @@
-/* ------------------------------------------------------------------
-   AutoIntel AI — Enterprise dashboard theme
-   Presentation-only. No logic lives here.
-
-   Theme-adaptive: uses Streamlit's built-in CSS variables
-   (--background-color, --secondary-background-color, --text-color)
-   instead of hardcoded black/white, so the app reads correctly in
-   both Light and Dark mode. Only a small, fixed accent (blue) and
-   the semantic status colors (green/amber/red) are hardcoded —
-   those are deliberate brand/status colors, not backgrounds, and
-   are chosen to keep sufficient contrast against BOTH a very light
-   and a very dark page background.
-------------------------------------------------------------------- */
-
 h1, h2, h3, h4 {
     font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
     color: var(--text-color);
