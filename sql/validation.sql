@@ -1,11 +1,4 @@
--- ============================================================
--- AutoIntel AI — Validation Queries
--- Run this AFTER import_data.sql.
--- Confirms structural integrity of the loaded data: no null keys,
--- no orphan foreign keys, no duplicate keys, dates parse correctly.
--- ============================================================
 
--- 6.1 Null Primary Keys — expect 0 in every result
 SELECT COUNT(*) AS null_vehicle_id FROM Vehicle_Master WHERE Vehicle_ID IS NULL;
 SELECT COUNT(*) AS null_obd_code FROM OBD_Codes WHERE OBD_Code IS NULL;
 SELECT COUNT(*) AS null_repair_obd_code FROM Repair_Knowledge WHERE OBD_Code IS NULL;

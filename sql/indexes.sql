@@ -1,15 +1,4 @@
--- ============================================================
--- AutoIntel AI — Indexes
--- Run this AFTER validation.sql passes clean.
---
--- Note: SQLite auto-indexes every PRIMARY KEY (Vehicle_ID, OBD_Code,
--- Maintenance_ID) already — these are additional indexes on foreign
--- keys and columns used in WHERE/JOIN/ORDER BY across queries.sql
--- and views.sql.
--- ============================================================
 
--- FK column — every JOIN from Vehicle_Maintenance to Vehicle_Master
--- filters on this; without it, SQLite scans all 50,000 rows per JOIN.
 CREATE INDEX idx_maintenance_vehicle_id ON Vehicle_Maintenance(Vehicle_ID);
 
 -- Common lookup/filter columns from Step 8 query patterns

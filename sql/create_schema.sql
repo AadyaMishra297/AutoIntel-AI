@@ -1,8 +1,4 @@
--- ============================================================
--- AutoIntel AI — Database Schema
--- Run this FIRST, before any other .sql file.
--- Creates all four production tables with PK/FK constraints.
--- ============================================================
+
 
 CREATE TABLE Vehicle_Master (
     Vehicle_ID          TEXT PRIMARY KEY,

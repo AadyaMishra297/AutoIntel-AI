@@ -1,13 +1,4 @@
--- ============================================================
--- AutoIntel AI — Production Queries
--- Run this AFTER views.sql. These are the queries the Streamlit
--- application (Modules 3-6) will call directly.
---
--- Replace 'VEH0001' and 'P0001' with real values from your data,
--- or bind them as parameters (?) from Python.
--- ============================================================
 
--- 8.1 Repair Lookup — cost/labor estimate for a given OBD code
 SELECT
     o.OBD_Code,
     o.Description,

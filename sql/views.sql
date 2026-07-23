@@ -1,9 +1,4 @@
--- ============================================================
--- AutoIntel AI — Views
--- Run this AFTER indexes.sql.
--- Centralizes reused JOIN logic so the Streamlit app queries a
--- single named view instead of repeating multi-table JOINs.
--- ============================================================
+
 
 CREATE VIEW Repair_View AS
 SELECT

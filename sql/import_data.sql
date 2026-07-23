@@ -1,26 +1,4 @@
--- ============================================================
--- AutoIntel AI — Data Import
--- Run this AFTER create_schema.sql.
---
--- PREREQUISITE (manual GUI step, not scriptable in plain SQL):
--- Import each CSV into a staging table using DB Browser's
--- File > Import > Table from CSV file... wizard:
---   vehicle_master.csv                        -> staging_vehicle_master
---   obd_knowledge.csv                         -> staging_obd_codes
---   vehicle_maintenance_feature_engineered.csv -> staging_vehicle_maintenance
---   repair_knowledge.csv                      -> staging_repair_knowledge
---
--- WHY staging tables: CSV import can't skip an AUTOINCREMENT column
--- (Maintenance_ID) or selectively drop duplicated columns
--- (Repair_Knowledge). Staging isolates raw data so we can control
--- exactly which columns get loaded into the real tables.
---
--- Import order matters — parents before children (FK dependency):
---   1. Vehicle_Master   (no dependencies)
---   2. OBD_Codes        (no dependencies)
---   3. Vehicle_Maintenance (depends on Vehicle_Master)
---   4. Repair_Knowledge (depends on OBD_Codes)
--- ============================================================
+
 
 -- 1. Vehicle_Master (straight copy)
 INSERT INTO Vehicle_Master (
